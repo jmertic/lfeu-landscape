@@ -1,10 +1,10 @@
-# Linux Foundation Landscape
+# Linux Foundation Europe Landscape
 
-![LF Landscape Logo](https://landscape.linuxfoundation.org/images/left-logo.svg)
+![LF Europe Landscape Logo](images/LF-Europe-logo-color.svg)
 
-This landscape is intended as a map to explore open source projects hosted by the Linux Foundation and also shows its member companies. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open-source code.
+This landscape is intended as a map to explore open source projects hosted by Linux Foundation Europe and also shows its member companies. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open-source code.
 
-This repository contains the data files and images required to generate the [Linux Foundation landscape](https://landscape.linuxfoundation.org). The software that generates it can be found at the [cncf/landscape2](https://github.com/cncf/landscape2) repository. Please see its [README file](https://github.com/cncf/landscape2#landscape2) for more information about how it works.
+This repository contains the data files and images required to generate the [Linux Foundation Europe landscape](https://landscape.linuxfoundation.eu). The software that generates it can be found at the [cncf/landscape2](https://github.com/cncf/landscape2) repository. Please see its [README file](https://github.com/cncf/landscape2#landscape2) for more information about how it works.
 
 ## New Entries and Corrections
 
@@ -20,7 +20,7 @@ If you cannot access the above resources, please [create a helpdesk ticket](http
 You can build the landscape locally on your machine using the [landscape2](https://github.com/cncf/landscape2) tool. Once [installed](https://github.com/cncf/landscape2?tab=readme-ov-file#installation), you can use the commands below to build the landscape and serve it locally.
 
 ```shell
-landscape2 build --data-file landscape.yml --settings-url https://raw.githubusercontent.com/cncf/landscape2-sites/refs/heads/main/lf/settings.yml --logos-path hosted_logos --output-dir build
+landscape2 build --data-file landscape.yml --settings-url https://raw.githubusercontent.com/lfeurope/landscape2-sites/refs/heads/main/lf/settings.yml --logos-path hosted_logos --output-dir build
 landscape2 serve --landscape-dir build
 ```
 
