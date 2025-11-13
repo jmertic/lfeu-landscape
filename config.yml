@@ -1,0 +1,23 @@
+landscapeMemberClasses:
+   - name: Platinum Membership
+     category: Platinum
+   - name: Gold Membership
+     category: Gold
+   - name: Silver Membership
+     category: Silver
+   - name: Associate Membership
+     category: Associate
+slug: lfeurope
+memberSuffix: " (member)"
+memberUsePublicMembershipLogo: true
+landscapeMemberCategory: Linux Foundation Europe Members
+landscapeProjectsCategory: Linux Foundation Europe Projects
+landscapeProjectsSubcategories:
+  - name: All
+    category: All
+landscapefile: landscape.yml
+projectsDefaultCrunchbase: https://www.crunchbase.com/organization/linux-foundation
+projectsAddTechnologySector: true
+projectsAddIndustrySector: true
+projectsAddParentProject: true
+projectsAddCategory: false

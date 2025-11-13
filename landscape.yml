@@ -1,0 +1,2127 @@
+landscape:
+  - category:
+    name: Linux Foundation Europe Members
+    subcategories:
+      - subcategory:
+        name: Platinum
+        items:
+          - item:
+            name: Ericsson (member)
+            homepage_url: https://ericsson.com/
+            logo: ericsson.svg
+            description: Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure for information and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol networking equipment, mobile and fixed broadband, cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in Stockholm, Sweden.
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+            twitter: https://twitter.com/ericsson
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ericsson
+          - item:
+            name: Hitachi, Ltd. (member)
+            homepage_url: https://hitachi.com/
+            logo: hitachi_ltd.svg
+            description: Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and equipment, construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other products, and financial services in Japan and internationally. The company is headquartered in Tokyo, Japan.
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+            twitter: https://twitter.com/HitachiGlobal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
+          - item:
+            name: Huawei Technologies Co., Ltd (member)
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co.svg
+            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
+            crunchbase: https://www.crunchbase.com/organization/huawei
+            twitter: https://twitter.com/Huawei
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huawei
+          - item:
+            name: Intel Corporation (member)
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
+            crunchbase: https://www.crunchbase.com/organization/intel
+            twitter: https://twitter.com/intel
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
+          - item:
+            name: Qualcomm, Inc. (member)
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            description: |-
+              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+
+              --- Merged Data:
+
+              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+            twitter: https://twitter.com/Qualcomm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/firethorn
+          - item:
+            name: Red Hat, Inc. (member)
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            twitter: https://twitter.com/RedHat
+            extra:
+              linkedin_url: https://www.linkedin.com/company/red-hat
+          - item:
+            name: Samsung Electronics Co. Ltd. (member)
+            homepage_url: https://samsung.com/
+            logo: samsung_electronics_co_ltd.svg
+            description: Founded in 1938, Samsung Electronics is a South Korean multinational electronics company engaged in consumer electronics, information technology, mobile communications, and device solutions businesses worldwide. The company develops, manufactures, and sells various consumer products, including mobile phones, tablets, televisions, Blu-ray players, and more. The company is headquartered in Suwon-si, South Korea.
+            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
+            twitter: https://twitter.com/Samsung
+            extra:
+              linkedin_url: https://www.linkedin.com/company/samsung-electronics
+      - subcategory:
+        name: Gold
+        items:
+          - item:
+            name: Cardano Foundation (member)
+            homepage_url: https://cardanofoundation.org/
+            logo: cardano_foundation.svg
+            description: Cardano Foundation is a not-for-profit a blockchain and cryptocurrency organisation based in Zug, Switzerland
+            crunchbase: https://www.crunchbase.com/organization/cardano-foundation
+            twitter: https://twitter.com/Cardano_CF
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cardano-foundation
+          - item:
+            name: Cisco Systems, Inc. (member)
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            description: "Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners help society securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the U.S. and other countries."
+            crunchbase: https://www.crunchbase.com/organization/cisco
+            twitter: https://twitter.com/Cisco
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cisco
+          - item:
+            name: Futurewei Technologies, Inc. (member)
+            homepage_url: https://futurewei.com/
+            logo: futurewei_technologies_inc.svg
+            description: FutureWei, based in Plano, Texas, is the North American subsidiary of Huawei Technologies Co. Ltd., a leading global vendor of telecommunications systems and network solutions based in Shenzhen, China. Huawei posted US$5.58 billion in sales in 2004 and has products deployed in over 90 countries. With a strong focus on network infrastructure, FutureWei Technologies, Inc. designs, markets and supports a wide range of advanced telecommunication products for service providers and enterprise network solutions.
+            crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
+            extra:
+              linkedin_url: https://www.linkedin.com/company/futureweitechnologiesinc
+          - item:
+            name: Google LLC (member)
+            homepage_url: https://google.com/
+            logo: google_llc.svg
+            description: Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search engine, software, cloud computing, and advertising technologies.
+            crunchbase: https://www.crunchbase.com/organization/google
+            twitter: https://twitter.com/Google
+            extra:
+              linkedin_url: https://www.linkedin.com/company/google
+          - item:
+            name: Honda Motor Co., Ltd. (member)
+            homepage_url: https://honda.com/
+            logo: honda_motor_co_ltd.svg
+            description: |-
+              AGL Steering Committee Participation Agreement - Bronze
+
+              Honda's R&D subsidiary.
+
+              Parent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)
+            crunchbase: https://www.crunchbase.com/organization/honda-automobiles
+            twitter: https://twitter.com/Honda
+            extra:
+              linkedin_url: https://www.linkedin.com/company/american-honda-motor-company-inc-
+          - item:
+            name: Sony Group Corporation (member)
+            homepage_url: https://sony.com/en/
+            logo: sony_group_corporation.svg
+            description: SONY CORPORATION is engaged in the operation of imaging products and solution (IP&S), game, mobile products and communication (MP&C), home entertainment and sound (HE&S), device, movie, music, financial and other business. IP&S segment provides digital imaging products and professional solutions. Game segment produces and distributes consumer game machines and software. MP&C segment operates mobile communication and personal mobile product business. HE&S segment operates television business, video and audio business. Device segment operates semiconductor business and component business. Movie segment engages in movie production, television program production, media network business. Music segment produces and distributes music software and animation products. Finance segment operates insurance and banking business. As of March 31, 2014, the Company had 1337 subsidiaries and 115 associated companies.
+            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
+            twitter: https://twitter.com/SonyGroupGlobal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sony-electronics
+      - subcategory:
+        name: Silver
+        items:
+          - item:
+            name: 23 Technologies GmbH (member)
+            homepage_url: https://23technologies.cloud/
+            logo: 23_technologies_gmbh.svg
+            description: 23 Technologies GmbH
+            crunchbase: https://www.crunchbase.com/organization/23-technologies
+            twitter: https://twitter.com/23t10s
+            extra:
+              linkedin_url: https://www.linkedin.com/company/23technologies
+          - item:
+            name: 6WIND S.A. (member)
+            homepage_url: https://6wind.com/
+            logo: 6wind_s_a.svg
+            description: 6WIND offers virtualized, cloudified, distributed high performance & secure networking software solutions to support new applications such as 5G, IoT, SD-WAN. The company is based out of the Île-de-France region in north-central France.
+            crunchbase: https://www.crunchbase.com/organization/6wind
+            twitter: https://twitter.com/6WINDsoftware
+            extra:
+              linkedin_url: https://www.linkedin.com/company/6wind
+          - item:
+            name: Ac6 (member)
+            homepage_url: https://ac6.fr/
+            logo: ac6.svg
+            description: AC6 is a company based in Paris that provides training, consulting, and development tools for embedded electronic systems.
+            organization:
+              name: Ac6
+              linkedin: https://www.linkedin.com/company/ac6
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ac6
+          - item:
+            name: Accenture Global Solutions Limited (member)
+            homepage_url: https://accenture.com/
+            logo: accenture_global_solutions_limited.svg
+            description: Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting, digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial services, health and public service, as well as products and resources.
+            crunchbase: https://www.crunchbase.com/organization/accenture
+            twitter: https://twitter.com/Accenture
+            extra:
+              linkedin_url: https://www.linkedin.com/company/accenture
+          - item:
+            name: Advanced Micro Devices (AMD) (member)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            description: For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for gaming, immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific research facilities around the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are focused on building great products that push the boundaries of what is possible.
+            crunchbase: https://www.crunchbase.com/organization/amd
+            twitter: https://twitter.com/AMD
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amd
+          - item:
+            name: Aiven (member)
+            homepage_url: https://aiven.io/
+            logo: aiven.svg
+            description: Leverage the complete open source ecosystem of extensions and tools to create highly-performant data pipelines for event-driven applications on all major clouds.
+            crunchbase: https://www.crunchbase.com/organization/aiven
+            twitter: https://twitter.com/aiven_io
+            extra:
+              linkedin_url: https://www.linkedin.com/company/aiven
+          - item:
+            name: Akeana (member)
+            homepage_url: https://akeana.io/
+            logo: akeana.svg
+            organization:
+              name: Akeana
+          - item:
+            name: Alibaba Cloud (Singapore) Private LTD (member)
+            homepage_url: https://alibaba-inc.com/
+            logo: alibaba_cloud_singapore_private_ltd.svg
+            description: Alibaba Group, founded in 1999, is a company that helps connect businesses to other businesses through cloud computing, logistics, core commerce, local services sectors, and mobile media and entertainment. Alibaba Group is headquartered in Xixi District of Hangzhou, China and maintains offices in China, France, Germany, Hong Kong, India, Italy, Korea, Taiwan, Turkey, Russia, Singapore, the United Arab Emirates, the United Kingdom and the United States.
+            crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
+            twitter: https://twitter.com/AlibabaB2B
+            extra:
+              linkedin_url: https://www.linkedin.com/company/alibaba-group
+          - item:
+            name: Alliander (member)
+            homepage_url: https://alliander.com/
+            logo: alliander.svg
+            description: Alliander is an energy network company. We transport gas and electricity to more than three million consumers and businesses in the Netherlands each day, and are committed to providing a reliable, affordable, accessible and sustainable energy supply, both now and in the future. Alliander consists of a group of companies employing over 7,000 people in total. Together, we stand for high-quality knowledge of energy grids, energy technology and technical innovation. Our shareholders are Dutch provinces and municipalities. Together with them and our partners, we discuss our plans for the future and offer solutions to complex energy infrastructure issues.
+            crunchbase: https://www.crunchbase.com/organization/alliander
+            twitter: https://twitter.com/Alliander
+            extra:
+              linkedin_url: https://www.linkedin.com/company/alliander
+          - item:
+            name: American Express (member)
+            homepage_url: https://americanexpress.com/
+            logo: american_express.svg
+            description: American Express Company is a multinational financial services corporation headquartered in New York City, New York. Founded in 1850, the company is best known for its credit card, charge card, and traveler's check businesses. They also provide global services such as business level credit cards, travel discounts and loyalty rewards including cash back on purchases.
+            crunchbase: https://www.crunchbase.com/organization/americanexpress
+            twitter: https://twitter.com/AmericanExpress
+            extra:
+              linkedin_url: https://www.linkedin.com/company/american-express
+          - item:
+            name: Amesto Fortytwo (member)
+            homepage_url: https://amestofortytwo.com/
+            logo: amesto_fortytwo.svg
+            description: Amesto Fortytwo
+            crunchbase: https://www.crunchbase.com/organization/amesto-fortytwo
+            twitter: https://twitter.com/AmestoFortytwo
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amesto-fortytwo
+          - item:
+            name: Andes Digital (member)
+            homepage_url: https://andesdigital.com/
+            logo: andes_digital.svg
+            description: |-
+              Andes Digital
+
+              --- Merged Data:
+
+              Andes Digital is a consulting company dedicated to enabling customers with Open Source projects technologies, focused on small and medium enterprises. They have ample experience in digital transformation, from analysis to evaluation and then carry out ...
+            crunchbase: https://www.crunchbase.com/organization/andes-digital
+            twitter: https://twitter.com/AndesDigital
+            extra:
+              linkedin_url: https://www.linkedin.com/company/andesdigital
+          - item:
+            name: Andes Technology Corporation (member)
+            homepage_url: https://andestech.com/
+            logo: andes_technology_corporation.svg
+            description: 'As a Founding Premier member of RISC-V International with a long heritage in providing leading, commercial CPU IP, Andes Technology (TWSE: 6533; SIN: US03420C2089; ISIN: US03420C1099) is the driving force in taking RISC-V mainstream.  Andes RISC-V Processor IP portfolio ranges from area- and power-efficient 32-bit CPUs to high-performance, 64-bit Out-of-Order multiprocessor coherent clusters.  With advanced DSP, vector, and Andes Automated Custom Extensions (ACE) capabilities, along with robust software support, Andes empowers customers across AI, automotive, communications, consumer, data center, and mobile markets to harness full potential of RISC-V.  Over 16 billion Andes-based SoCs are powering innovations globally. For more information, visit https://www.andestech.com. Follow Andes on LinkedIn, Twitter and YouTube'
+            crunchbase: https://www.crunchbase.com/organization/andes-technology
+            twitter: https://twitter.com/Andes_Tech
+            extra:
+              linkedin_url: https://www.linkedin.com/company/doble-engineering
+          - item:
+            name: Antmicro (member)
+            homepage_url: https://antmicro.com/
+            logo: antmicro.svg
+            description: Antmicro is a software-driven tech company developing modern edge AI systems for various branches of industry. Antmicro provides applied R&D for customers worldwide, offering assistance in prototyping, new product development and adoption of modern embedded technologies, both hardware and software. Antmicro's projects involve a broad range of open source technologies such as RISC-V, Renode, Zephyr, TensorFlow, ROS, Linux and Android. Antmicro is a Platinum Founding Member of the RISC-V Foundation, as well as a member of the Linux Foundation, Zephyr Project and CHIPS Alliance.
+            crunchbase: https://www.crunchbase.com/organization/antmicro
+            twitter: https://twitter.com/antmicro
+            extra:
+              linkedin_url: https://www.linkedin.com/company/antmicro-ltd
+          - item:
+            name: ape factory (member)
+            homepage_url: https://apefactory.com/
+            logo: ape_factory.svg
+            description: Helps enterprises in their digital transformation by combining Cloud Native architecture, Data Engineering  and Agile Methodology.
+            organization:
+              name: ape factory
+              linkedin: https://www.linkedin.com/company/ape-factory-gmbh
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ape-factory-gmbh
+          - item:
+            name: Arm Limited (member)
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK
+            crunchbase: https://www.crunchbase.com/organization/arm
+            twitter: https://twitter.com/ArmCommunity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/arm
+          - item:
+            name: Australian Payment Plus (member)
+            homepage_url: https://auspayplus.com.au/
+            logo: australian_payment_plus.svg
+            description: Australian Payment Plus (AP+) revolutionizes payments in Australia by integrating BPAY Group, eftpos, and NPP Australia to create more efficient and accessible payment experiences for all stakeholders.
+            organization:
+              name: Australian Payment Plus
+              linkedin: https://www.linkedin.com/company/australian-payments-plus
+            extra:
+              linkedin_url: https://www.linkedin.com/company/australian-payments-plus
+          - item:
+            name: Avanade Inc. (member)
+            homepage_url: https://avanade.com/
+            logo: avanade_inc.svg
+            description: |-
+              Avanade is the leading provider of innovative digital, cloud and advisory services, industry solutions and design-led experiences across the Microsoft ecosystem. Every day, our 60,000 professionals in 26 countries make a genuine human impact for our clients, their employees and their customers.​
+
+              ​We have been recognized, together with our parent Accenture, as Microsoft’s Global SI Partner of the Year more than any other company. With the most Microsoft certifications (60,000+) and 18 (out of 18) Gold-level Microsoft competencies, we are uniquely positioned to help businesses grow and solve their toughest challenges.​
+
+              ​We are a people first company, committed to providing an inclusive workplace where employees feel comfortable being their authentic selves. As a responsible business, we are building a sustainable world and helping young people from underrepresented communities fulfill their potential.​
+
+              ​Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation. Learn more at www.avanade.com.
+            crunchbase: https://www.crunchbase.com/organization/avanade
+            twitter: https://twitter.com/Avanade
+            extra:
+              linkedin_url: https://www.linkedin.com/company/avanade
+          - item:
+            name: AXA Group (member)
+            homepage_url: https://axa.com/
+            logo: axa_group.svg
+            description: "AXA is a brand name of AXA Equitable Financial Services, LLC and its family of companies, including AXA Equitable Life Insurance Company (NY, NY), MONY Life Insurance Company of America (AZ stock company, administrative office: Jersey City, NJ), AXA Advisors, LLC, and AXA Distributors, LLC. In business since 1859, AXA Equitable Life Insurance Company is a leading financial protection company and one of the nation's premier providers of life insurance and annuity products distributed to individuals and business owners through its retail distribution channel, AXA Advisors, LLC (member FINRA, SIPC) and to the financial services market through its wholesale distribution channel, AXA Distributors, LLC (member FINRA, SIPC)."
+            crunchbase: https://www.crunchbase.com/organization/axa-technology-services
+            twitter: https://twitter.com/AXA
+            extra:
+              linkedin_url: https://www.linkedin.com/company/axa
+          - item:
+            name: Balena Ltd. (member)
+            homepage_url: https://balena.io/
+            logo: balena_ltd.svg
+            description: Our goal is to empower you to write great applications for devices - both in the virtual realm and those that cross over into the physical world - without having to worry about the friction involved in getting your hardware working and keeping your application up to date.
+            crunchbase: https://www.crunchbase.com/organization/resin-io
+            twitter: https://twitter.com/balena_io
+            extra:
+              linkedin_url: https://www.linkedin.com/company/balenaio
+          - item:
+            name: BankID BankAxept AS (member)
+            homepage_url: https://bankid.no/
+            logo: bankid_bankaxept_as.svg
+            description: BankID er en personlig og enkel elektronisk legitimasjon for sikker identifisering og signering på nett.
+            crunchbase: https://www.crunchbase.com/organization/bankaxept
+            twitter: https://twitter.com/BankIDNorge
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bankid-bankaxept-as
+          - item:
+            name: Beijing ESWIN Computing Technology Co., Ltd. (member)
+            homepage_url: https://eswincomputing.com/
+            logo: beijing_eswin_computing_technology_co_ltd.svg
+            description: ESWIN Computing is a provider of intelligent solutions in the AI era. Focusing on smart device and embodied intelligence as our two core application scenarios, we are adopting next-generation RISC-V computing architecture, innovating domain-specific algorithms and IP modules, and constructing efficient and open software-hardware platforms to deliver highly competitive system-level solutions for customers worldwide.
+            twitter: https://twitter.com/EswinL
+            organization:
+              name: Beijing ESWIN Computing Technology Co., Ltd.
+              linkedin: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E5%A5%95%E6%96%AF%E4%BC%9F%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF
+            extra:
+              linkedin_url: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E5%A5%95%E6%96%AF%E4%BC%9F%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF
+          - item:
+            name: Binario Etico (member)
+            homepage_url: https://binarioetico.it/
+            logo: binario_etico.svg
+            description: Soluzioni e servizi di Cloud Automation di Infrastrutture IT su piattaforme OpenStack, Kubernetes e GitLab, rigorosamente basati su Free Software.
+            crunchbase: https://www.crunchbase.com/organization/binario-etico
+            twitter: https://twitter.com/binario_etico
+            extra:
+              linkedin_url: https://www.linkedin.com/company/binario-etico
+          - item:
+            name: Bosch (member)
+            homepage_url: https://bosch.com/
+            logo: bosch.svg
+            description: Bosch is a global supplier of technology and services. Bosch specializes in consumer goods, industrial technology, and energy technology. It offers innovative solutions for smart homes, smart cities, connected mobility, and connected manufacturing. Bosch comprises Robert Bosch GmbH as well as subsidiary and regional companies in several countries. Bosch was founded in 1886 and is headquartered in Gerlingen, Germany.
+            crunchbase: https://www.crunchbase.com/organization/bosch
+            twitter: https://twitter.com/BoschGlobal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bosch
+          - item:
+            name: Calyptia (member)
+            homepage_url: https://calyptia.com/
+            logo: calyptia.svg
+            description: Place a data streaming platform at the center of every modern data-driven enterprise, to unlock every organizations data capabilities and maximize how every employee can use it.  FuentD FluentBit
+            twitter: https://twitter.com/CalyptiaInc
+            organization:
+              name: Calyptia
+              linkedin: https://www.linkedin.com/company/calyptia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/calyptia
+          - item:
+            name: Canonical Group Limited (member)
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            description: Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market commercial support and related services for Ubuntu and related projects.
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            twitter: https://twitter.com/Canonical
+            extra:
+              linkedin_url: https://www.linkedin.com/company/canonical-ltd-
+          - item:
+            name: Carl Zeiss AG (member)
+            homepage_url: https://zeiss.com/
+            logo: carl_zeiss_ag.svg
+            description: ZEISS is an internationally leading technology enterprise operating in the fields of optics and optoelectronics. 
+            crunchbase: https://www.crunchbase.com/organization/carl-zeiss
+            twitter: https://twitter.com/ZEISS_Group
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zeiss
+          - item:
+            name: Chainloop (member)
+            homepage_url: https://chainloop.dev/
+            logo: chainloop.svg
+            description: Chainloop is an open source software supply chain control plane that simplifies attestation and artifact management for Devs and SecOps, ensuring compliance with ease.
+            crunchbase: https://www.crunchbase.com/organization/chainloop
+            extra:
+              linkedin_url: https://www.linkedin.com/company/chainloop-dev
+          - item:
+            name: Clastix SRL (member)
+            homepage_url: https://clastix.io/
+            logo: clastix_srl.svg
+            description: |-
+              Clastix
+              VAT Number: 11183320966
+            crunchbase: https://www.crunchbase.com/organization/clastix
+            twitter: https://twitter.com/clastixio
+            extra:
+              linkedin_url: https://www.linkedin.com/company/clastix
+          - item:
+            name: CLYSO GmbH (member)
+            homepage_url: https://clyso.com/
+            logo: clyso_gmbh.svg
+            description: |-
+              Founded in 2010, CLYSO is a German company with headquarters in Munich, dedicated to Cloud Computing. We specialize in building highly scalable and globally distributed cloud environments, offering the deep expertise needed to design, build, deploy, and operate comprehensive solutions. Our core focus spans the IaaS, PaaS, and SaaS layers, and we actively use open-source technology to minimize risks related to IT security, licensing costs, and technical bottlenecks. Our competence is tangible through our leading role in the Ceph community. We hold key roles like Performance Lead and Executive Board Member of the Ceph Foundation, and our team includes Ceph Ambassadors for the DACH region, India, and France. With over 2,700 commits, our developers are major contributors to the Ceph codebase, proving we are co-creators of the technology, not just users.
+              We are the only Platinum member of the Ceph Foundation with a commercial support model focused on the entire Ceph ecosystem, which guarantees maximum flexibility and the right partnership for any challenge. Our employees have completed over 500 successful Ceph projects, handling a vast range of use cases. Our work is also recognized in academia; our Ceph implementation at GWDG achieved a top ranking in the renowned IO500 list, demonstrating our ability to deliver outstanding performance in the most demanding environments.
+              CLYSO is defined by its solid structure, focused drive, and service-oriented culture. With 39 employees in Germany and 8 in North America, we specialize almost exclusively in Ceph. Over 18 of our developers are dedicated solely to building and optimizing Ceph solutions, ensuring you partner with a team that understands the technology from the ground up. Our support model ensures you speak directly with the developers and architects who actively shape the product, minimizing friction and accelerating problem resolution. Our engagement at events like Cephalocon and Ceph Days shows our commitment to actively shaping the future of the technology. When you work with us, you work with a partner that not only stays up-to-date but also drives development. Our continuous contributions to bug fixing and code development directly benefit the stability and security of the solutions we implement.
+
+              We specialize in designing, deploying, and operating highly resilient, large-scale infrastructures across Private Cloud, Public Cloud, and Multi Cloud domains. Our engineering capabilities encompass integration of Software Defined Storage using Ceph, automated lifecycle management via Kubernetes and Openstack, and the orchestration of IaaS and PaaS platforms tailored for complex enterprise workloads. Leveraging deep expertise in Linux and OpenSource Technologies, our team applies advanced optimization, security hardening, and cost management strategies to deliver scalable, high-performance environments. By adopting infrastructure-as-code, advanced monitoring, and multi-tenant architectures, we accelerate cloud transformation projects—empowering organizations to achieve operational agility, efficiency, and future-ready cloud ecosystems.
+            crunchbase: https://www.crunchbase.com/organization/clyso-gmbh
+            twitter: https://twitter.com/Clyso_GmbH
+            extra:
+              linkedin_url: https://www.linkedin.com/company/clyso
+          - item:
+            name: Component Soft Kft. (member)
+            homepage_url: https://componentsoft.io/
+            logo: component_soft_kft.svg
+            description: Component Soft is an IT training company dedicated to providing high quality courses and consultation for corporate and governmental customers.
+            crunchbase: https://www.crunchbase.com/organization/component-soft
+            twitter: https://twitter.com/Component_Soft
+            extra:
+              linkedin_url: https://www.linkedin.com/company/component-soft-ltd-
+          - item:
+            name: Control-Plane.io (member)
+            homepage_url: https://control-plane.io/
+            logo: control_plane.svg
+            description: ControlPlane ⟁ Secure Kubernetes from supply-chain and runtime attacks ⟁ Zero trust, continuous security ⟁ containers | security | training | quality | open-source
+            crunchbase: https://www.crunchbase.com/organization/controlplane
+            twitter: https://twitter.com/controlplaneio
+            extra:
+              linkedin_url: https://www.linkedin.com/company/controlplane
+          - item:
+            name: Cyberus Technology (member)
+            homepage_url: https://cyberus-technology.de/
+            logo: cyberus_technology.svg
+            description: Cyberus Technology provides virtualization, Linux engineering, test automation, and embedded Linux services. Their flagship product, Cyberus KronoCore, ensures uninterrupted operation of legacy software on modern hardware, bridging the gap between old ...
+            organization:
+              name: Cyberus Technology
+              linkedin: https://www.linkedin.com/company/cyberus-technology
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cyberus-technology
+          - item:
+            name: DACHS IT GMBH (member)
+            homepage_url: https://dachs-it.de/
+            logo: dachs_it_gmbh.svg
+            description: 'DACHS IT GMBH (until 2025-07: cuegee it gmbh)'
+            crunchbase: https://www.crunchbase.com/organization/dachs-it
+            twitter: https://twitter.com/cuegeeit
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cuegee
+          - item:
+            name: Daimler Truck AG (member)
+            homepage_url: https://daimler-truck.com/
+            logo: daimler_truck_ag.svg
+            description: Information for Daimler Truck AG, on our Trucks und Buses brands, products, innovation, sustainability, career and news.
+            crunchbase: https://www.crunchbase.com/organization/mercedes-benz
+            twitter: https://twitter.com/DaimlerTruck
+            extra:
+              linkedin_url: https://www.linkedin.com/company/daimlertruckag
+          - item:
+            name: DaoCloud Network Technology Co., Ltd. (member)
+            homepage_url: https://daocloud.io/
+            logo: daocloud_network_technology_co_ltd.svg
+            description: 2016-12-25 19:35:45 (PST) DaoCloud is a company that has worked on cloud native in China for a couple of years. We think our goal and cncf's match very well. We are seeking an opportunity of applying a membership, so we should work more tightly on cloud native.2016-12-25 21:30:20 (PST) DaoCloud was founded in China at Dec. 2014 by ex-EMCers who have lots of experience in cloud computing technologies, like cloud foundry, docker and kubernetes. DaoCloud has provided container-as-a-service for lots of Worldwide enterprises. As an early docker and kubernetes evangelist in China, DaoCloud has done a lot of opensource work across many cities of the country.
+            crunchbase: https://www.crunchbase.com/organization/daocloud
+            twitter: https://twitter.com/DaoCloudIO
+            extra:
+              linkedin_url: https://www.linkedin.com/company/daocloudio
+          - item:
+            name: Data Storage Research, LLC d/b/a DSR Corporation (member)
+            homepage_url: https://dsr-corporation.com/
+            logo: data_storage_research_llc_d_b_a_dsr_corporation.svg
+            description: Professional enterprise software development and consulting company. Cloud, Enterprise, Mobile, Embedded, Analytics and more.
+            crunchbase: https://www.crunchbase.com/organization/dsr-corporation
+            twitter: https://twitter.com/DSR_corporation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dsr-corporation
+          - item:
+            name: Deutsche Telekom AG (member)
+            homepage_url: https://telekom.com/
+            logo: deutsche_telekom_ag.svg
+            description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services in the areas of telecommunications and information technology.
+            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+            twitter: https://twitter.com/deutschetelekom
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telekom
+          - item:
+            name: Douyin Vision Co., Ltd. (member)
+            homepage_url: https://bytedance.page/
+            logo: douyin_vision_co_ltd.svg
+            description: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+            crunchbase: https://www.crunchbase.com/organization/bytedance
+            twitter: https://twitter.com/BytedanceTalk
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bytedance
+          - item:
+            name: Dynatrace LLC (member)
+            homepage_url: https://dynatrace.com/
+            logo: dynatrace_llc.svg
+            description: Founded in 2005 and headquartered in Waltham, Massachusetts, Dynatrace provides software intelligence designed to simplify cloud complexity and accelerate digital transformation through services including AIOps, Digital experience, full-stack, automation, and infrastructure and application monitoring.
+            crunchbase: https://www.crunchbase.com/organization/dynatrace-software
+            twitter: https://twitter.com/Dynatrace
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dynatrace
+          - item:
+            name: Elastx AB (member)
+            homepage_url: https://elastx.se/
+            logo: elastx_ab.svg
+            description: The Swedish cloud platform for business critical services and sensitive data.
+            crunchbase: https://www.crunchbase.com/organization/elastx
+            twitter: https://twitter.com/elastx
+            extra:
+              linkedin_url: https://www.linkedin.com/company/elastx
+          - item:
+            name: embear (member)
+            homepage_url: https://embear.ch/
+            logo: embear.svg
+            description: Embear is a company that specializes in helping companies bring up their hardware projects and develop embedded software. They provide IT services and IT consulting, specifically in the areas of embedded Linux, BSPs (Board Support Packages), embedded s...
+            organization:
+              name: embear
+              linkedin: https://www.linkedin.com/company/embear
+            extra:
+              linkedin_url: https://www.linkedin.com/company/embear
+          - item:
+            name: Emilia Capital (member)
+            homepage_url: https://emilia.capital/
+            logo: emilia_capital.svg
+            description: Emilia Capital is an investment company founded in 2021 by Joost de Valk and Marieke van de Rakt, focusing on companies that play on the World Wide Web. With a total investment of €3 million in 11 tech or online companies, Emilia supports open source, ...
+            organization:
+              name: Emilia Capital
+              linkedin: https://www.linkedin.com/company/emilia-capital
+            extra:
+              linkedin_url: https://www.linkedin.com/company/emilia-capital
+          - item:
+            name: E.ON (member)
+            homepage_url: https://eon.com/
+            logo: e.svg
+            description: E.ON is the driving force behind the energy transition in Europe. As one of the largest European operators of energy networks and energy infrastructure, as well as a provider of innovative customer solutions for around 47 million customers, E.ON actively assumes responsibility. In 2023, E.ON connected its one-millionth renewable energy facility to the distribution network. The company's portfolio includes energy solutions such as photovoltaics and energy storage, heat pumps, electromobility, energy audits, and efficiency measures. Only in 2023, E.ON sold around 24,000 charging points for private and business customers in Europe and installed 124,000 private customer solutions such as solar systems, batteries, and efficient heating systems. The company is responsible for 1.6 million kilometers of energy networks and offers solutions for an increasingly decentralized, ecological, and digital energy world. E.ON is actively committed to sustainability, climate protection, and thus the future of our planet by making energy cleaner, smarter, and more digital, and by providing its customers with access to sustainable electricity and heating.
+            crunchbase: https://www.crunchbase.com/organization/e-on
+          - item:
+            name: EPAM Systems, Inc (member)
+            homepage_url: https://epam.com/
+            logo: epam_systems_inc.svg
+            description: |-
+              EPAM Systems Inc. (EPAM) is a leading digital transformation services and product engineering company. Since 1993, we have used
+              our software engineering expertise to become a leading global provider of digital engineering, cloud and AI-enabled transformation
+              services, as well as a leading business and experience consulting partner for global enterprises and ambitious startups. We address
+              our clients’ transformation challenges by fusing EPAM Continuum’s integrated strategy, experience and technology consulting with
+              our 30+ years of engineering execution to speed our clients’ time to market and drive greater value from their innovations and digital
+              investments. Learn more at www.epam.com.
+            crunchbase: https://www.crunchbase.com/organization/epam-systems
+            twitter: https://twitter.com/EPAMSystems
+            extra:
+              linkedin_url: https://www.linkedin.com/company/epam-systems
+          - item:
+            name: Equinix Services, Inc. (member)
+            homepage_url: https://equinix.com/
+            logo: equinix_services_inc.svg
+            description: Established in 1998, Equinix is headquartered in Redwood City, California. They are a data center and colocation provider with services including secure key management, network virtualization, advisory services, and more.
+            crunchbase: https://www.crunchbase.com/organization/equinix
+            twitter: https://twitter.com/Equinix
+            extra:
+              linkedin_url: https://www.linkedin.com/company/equinix
+          - item:
+            name: esatus AG (member)
+            homepage_url: https://esatus.com/
+            logo: esatus_ag.svg
+            description: esatus AG is a consultancy with strong information security and software development competencies. We offer leading-edge Self-Sovereign Identity (SSI) solutions for enterprises including a free wallet app for end users.
+            crunchbase: https://www.crunchbase.com/organization/esatus
+            twitter: https://twitter.com/esatusAG
+            extra:
+              linkedin_url: https://www.linkedin.com/company/esatus-ag
+          - item:
+            name: FossID (member)
+            homepage_url: https://fossid.com/
+            logo: fossid.svg
+            description: |-
+              FOSSID offers a state-of-the-art open source scanner that integrates in your development process seamlessly and detects pieces of Free and Open Source Software (FOSS) in your code base, from entire components to code snippets. FOSSID��_��_s software uncovers license obligations and compliance issues so that you can focus on creating great products.
+              Specialties
+              FOSS Management, FOSS Identification
+
+              Website
+              http://www.fossid.com
+              Industry
+              Computer Software
+              Type
+              Privately Held
+              Headquarters
+              P��_lsundsgatan 1b Stockholm, 11731 Sweden
+              Company Size
+              1-10 employees
+              Founded
+              2016
+            crunchbase: https://www.crunchbase.com/organization/fossid
+            twitter: https://twitter.com/FOSSID_AB
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fossid-ab
+          - item:
+            name: Foundries.io LTD (member)
+            homepage_url: https://foundries.io/
+            logo: foundries.svg
+            description: |-
+              Our technical engineering team is actively involved in the upstream open source communities of the Linux kernel, OpenEmbedded/Yocto, the Zephyr RTOS, MCUboot, LAVA, and other projects. We also provide support and forum facilities for working with microPlatform users.  Cambridger UK and Seattle WA.
+
+              Foundries.io provides best-in-class software platforms with lifetime support for building and maintaining connected products, ranging from the smallest sensors to smart and edge devices. Core products are Zephyr RTOS and Linux based microPlatforms using Containers, which provide product quality templates to build secure, OTA updatable, connected devices for industrial and consumer markets.
+            crunchbase: https://www.crunchbase.com/organization/foundries-io
+            twitter: https://twitter.com/FoundriesIO
+            extra:
+              linkedin_url: https://www.linkedin.com/company/foundriesio
+          - item:
+            name: Gen Digital (member)
+            homepage_url: https://avast.com/
+            logo: gen_digital.svg
+            description: |-
+              Avast Software sro is a Czech multinational cybersecurity software company headquartered in Prague, Czech Republic that researches and develops computer security software, machine learning and artificial intelligence.
+
+              --- Merged Data:
+
+              Avast Software sro is a Czech multinational cybersecurity software company headquartered in Prague, Czech Republic that researches and develops computer security software, machine learning and artificial intelligence.
+
+              --- Merged Data:
+
+              Avast Software sro is a Czech multinational cybersecurity software company headquartered in Prague, Czech Republic that researches and develops computer security software, machine learning and artificial intelligence.
+            crunchbase: https://www.crunchbase.com/organization/avast
+            twitter: https://twitter.com/Avast
+            extra:
+              linkedin_url: https://www.linkedin.com/company/avast
+          - item:
+            name: General Electric Company (member)
+            homepage_url: https://ge.com/
+            logo: general_electric_company.svg
+            description: |-
+              Building a world that works.
+
+              --- Merged Data:
+
+              GE (NYSE: GE) is the world’s Digital Industrial Company, transforming industry with software defined machines and solutions that are connected, responsive and predictive. GE is organized around a global exchange of knowledge, the 'GE Store,' through wh...
+            crunchbase: https://www.crunchbase.com/organization/general-electric
+            twitter: https://twitter.com/generalelectric
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ge-digital
+          - item:
+            name: GitLab Inc. (member)
+            homepage_url: https://about.gitlab.com/
+            logo: gitlab_inc.svg
+            description: GitLab is a complete DevOps platform built from the ground up as a single application for all stages of the DevOps lifecycle enabling Product, Development, QA, Security, and Operations teams to work concurrently on the same project. GitLab provides a single data store, one user interface, and one permission model across the DevOps lifecycle. Established in 2011, GitLab is headquartered in San Francisco, California, United States.
+            crunchbase: https://www.crunchbase.com/organization/gitlab-com
+            twitter: https://twitter.com/gitlab
+            extra:
+              linkedin_url: https://www.linkedin.com/company/gitlab-com
+          - item:
+            name: G-Research (member)
+            homepage_url: https://gresearch.co.uk/
+            logo: g_research.svg
+            description: |-
+              About us
+              G-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data.
+            crunchbase: https://www.crunchbase.com/organization/g-research
+            twitter: https://twitter.com/GRESEARCHjobs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/g-research
+          - item:
+            name: Hedera Hashgraph LLC (member)
+            homepage_url: https://hedera.com/
+            logo: hedera_hashgraph_llc.svg
+            description: 53 employees
+            crunchbase: https://www.crunchbase.com/organization/hashgraph
+            twitter: https://twitter.com/hedera
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hashgraph
+          - item:
+            name: Hopae Inc. (member)
+            homepage_url: https://hopae.com/
+            logo: hopae_inc.svg
+            organization:
+              name: Hopae Inc.
+              linkedin: https://www.linkedin.com/company/hopae
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hopae
+          - item:
+            name: Igalia, S.L. (member)
+            homepage_url: https://igalia.com/
+            logo: igalia_s_l.svg
+            description: Igalia is an open source consultancy with expertise in a wide range of technological areas, including browsers and client-side web technologies, graphics pipeline, compilers and virtual machines.
+            crunchbase: https://www.crunchbase.com/organization/igalia
+            twitter: https://twitter.com/igalia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/igalia
+          - item:
+            name: iLabs Technologies (member)
+            homepage_url: https://ilabs.ai/
+            logo: ilabs_technologies.svg
+            description: iLabs Technologies
+            twitter: https://twitter.com/iLabs_Tech
+            organization:
+              name: iLabs Technologies
+              linkedin: https://www.linkedin.com/company/ilabs-technologies
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ilabs-technologies
+          - item:
+            name: Imagination Technologies Ltd. (member)
+            homepage_url: https://imgtec.com/
+            logo: imagination_technologies_ltd.svg
+            description: Imagination Technologies Group plc is a global semiconductor and software design company, owned by the Chinese Canyon Bridge Capital Partners.
+            crunchbase: https://www.crunchbase.com/organization/imagination-technologies
+            twitter: https://twitter.com/ImaginationTech
+            extra:
+              linkedin_url: https://www.linkedin.com/company/imaginationtech
+          - item:
+            name: IndyKite Inc. (member)
+            homepage_url: https://indykite.com/
+            logo: indykite_inc.svg
+            description: Sky is blue - 4IR is here. Curious to know what will be announced Apr 20, 2020 – subscribe here.
+            twitter: https://twitter.com/indykiteone
+            organization:
+              name: IndyKite Inc.
+              linkedin: https://www.linkedin.com/company/indykite
+            extra:
+              linkedin_url: https://www.linkedin.com/company/indykite
+          - item:
+            name: Intesi Group SpA (member)
+            homepage_url: https://intesigroup.com/
+            logo: intesi_group_spa.svg
+            description: Una Tech Company italiana che offre servizi consulenziali, prodotti ad elevato contenuto tecnologico e soluzioni avanzate in cloud.
+            twitter: https://twitter.com/intesigroup
+            organization:
+              name: Intesi Group SpA
+              linkedin: https://www.linkedin.com/company/intesi-group
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intesi-group
+          - item:
+            name: IRNAS (member)
+            homepage_url: https://irnas.eu/
+            logo: irnas.svg
+            description: Institute IRNAS Rače
+            twitter: https://twitter.com/institute_irnas
+            organization:
+              name: IRNAS
+          - item:
+            name: ITQ Consultancy B.V. (member)
+            homepage_url: https://itq.eu/
+            logo: itq_consultancy_b_v.svg
+            description: We deliver professional IT services, VMware and VMware ecosystem virtualization technology. Using this advanced IT, we create IT environments for clients.
+            crunchbase: https://www.crunchbase.com/organization/itq
+            twitter: https://twitter.com/ITQ
+            extra:
+              linkedin_url: https://www.linkedin.com/company/itq
+          - item:
+            name: Kiratech SpA (member)
+            homepage_url: https://kiratech.it/
+            logo: kiratech_spa.svg
+            description: 'DevOps, Hybrid Cloud, Security: Your Partner for the Digital Transformation'
+            crunchbase: https://www.crunchbase.com/organization/kiratech
+            twitter: https://twitter.com/kiratech
+            extra:
+              linkedin_url: https://www.linkedin.com/company/kiratech-s.p.a.
+          - item:
+            name: Kubermatic GmbH (member)
+            homepage_url: https://kubermatic.com/
+            logo: kubermatic_gmbh.svg
+            description: As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud native transformation. Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey. Contact us
+            crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
+            twitter: https://twitter.com/Kubermatic
+            extra:
+              linkedin_url: https://www.linkedin.com/company/kubermatic
+          - item:
+            name: LINBIT (member)
+            homepage_url: https://linbit.com/
+            logo: linbit.svg
+            description: LINBIT brings technology and support for high availability, disaster recovery and kubernetes persistent storage solutions for the Enterprise
+            crunchbase: https://www.crunchbase.com/organization/linbit
+            twitter: https://twitter.com/linbit
+            extra:
+              linkedin_url: https://www.linkedin.com/company/linbit
+          - item:
+            name: Linutronix GmbH (member)
+            homepage_url: https://linutronix.de/
+            logo: linutronix_gmbh.svg
+            description: Die Linutronix GmbH ist einer der führenden Anbieter von Dienstleistungen rund um das Thema 'Linux im industriellen Umfeld'.
+            crunchbase: https://www.crunchbase.com/organization/linutronix
+            twitter: https://twitter.com/linutronix_LX
+            extra:
+              linkedin_url: https://www.linkedin.com/company/linutronix
+          - item:
+            name: Liquid Reply (member)
+            homepage_url: https://liquidreply.com/
+            logo: liquid_reply.svg
+            description: Reply is a company specialized in designing and implementing innovative solutions in the Digital Services, Technology and Consulting fields.
+            crunchbase: https://www.crunchbase.com/organization/liquid-reply
+            twitter: https://twitter.com/Reply_UK
+            extra:
+              linkedin_url: https://www.linkedin.com/company/reply
+          - item:
+            name: Lloyds Banking Group (member)
+            homepage_url: https://lloydsbankinggroup.com/
+            logo: lloyds_banking_group.svg
+            organization:
+              name: Lloyds Banking Group
+          - item:
+            name: London Stock Exchange Group (member)
+            homepage_url: https://londonstockexchange.com/
+            logo: london_stock_exchange_group.svg
+            description: The London Stock Exchange is a stock exchange located in the City of London, UK.
+            crunchbase: https://www.crunchbase.com/organization/london-stock-exchange
+            twitter: https://twitter.com/LSEplc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/london-stock-exchange
+          - item:
+            name: MasterCard Incorporated (member)
+            homepage_url: https://mastercard.us/
+            logo: mastercard_incorporated.svg
+            description: "Mastercard (NYSE: MA),  is a technology company in the global payments industry. MasterCard operates the world's fastest payments processing network, connecting consumers, financial institutions, merchants, governments and businesses in more than 210 countries and territories. Mastercard products and solutions make everyday commerce activities such as shopping, traveling, running a business and managing finances easier, more secure and more efficient for everyone."
+            crunchbase: https://www.crunchbase.com/organization/mastercard
+            twitter: https://twitter.com/Mastercard
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mastercard
+          - item:
+            name: Mercedes-Benz Tech Innovation GmbH (member)
+            homepage_url: https://mercedes-benz-techinnovation.com/
+            logo: mercedes_benz_tech_innovation_gmbh.svg
+            description: '100 % Tech Company, 100 % Mercedes-Benz: As a subsidiary, we develop software solutions exclusively for Mercedes-Benz.'
+            crunchbase: https://www.crunchbase.com/organization/mercedes-benz-tech-innovation
+            twitter: https://twitter.com/mercedesbenz_ti
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mercedes-benz-tech-innovation
+          - item:
+            name: MIA s.r.l. (member)
+            homepage_url: https://mia-platform.eu/
+            logo: mia_s_r_l.svg
+            description: Turn your Company into a Digital Platform
+            crunchbase: https://www.crunchbase.com/organization/mia-platform
+            twitter: https://twitter.com/MiaPlatform
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mia-platform
+          - item:
+            name: Microchip Technology Inc. (member)
+            homepage_url: https://microchip.com/
+            logo: microchip_technology_inc.svg
+            description: Microchip Technology is a leading provider of microcontroller, analog and Flash IP solutions for embedded control applications. They offer a wide range of products including 8/16/32 bit MCUs, analog and Flash IP solutions, and development tools. Their ...
+            crunchbase: https://www.crunchbase.com/organization/microchip-technology
+            twitter: https://twitter.com/MicrochipTech
+            extra:
+              linkedin_url: https://www.linkedin.com/company/microchip-technology
+          - item:
+            name: MontaVista Software, LLC (member)
+            homepage_url: https://mvista.com/
+            logo: montavista_software_llc.svg
+            description: MontaVista Software, LLC, is a leader in embedded Linux commercialization. For over 20 years, MontaVista has been helping embedded developers get the most out of open source by adding commercial quality, integration, hardware enablement, expert support, and the expert resources of the MontaVista development community. Because MontaVista customers enjoy faster time-to-market, more competitive device functionality, and lower total cost, more devices have been deployed with MontaVista than with any other Linux.
+            crunchbase: https://www.crunchbase.com/organization/montavista
+            twitter: https://twitter.com/mvista
+            extra:
+              linkedin_url: https://www.linkedin.com/company/montavista-software
+          - item:
+            name: Nearby Computing (member)
+            homepage_url: https://nearbycomputing.com/
+            logo: nearby_computing.svg
+            description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
+            organization:
+              name: Nearby Computing
+          - item:
+            name: nexB Inc. (member)
+            homepage_url: https://nexb.com/
+            logo: nexb_inc.svg
+            description: nexB offers software audit services for companies who need help determining what open source software is in their products and systems. nexB runs out of its single office in San Carlos, CA.
+            crunchbase: https://www.crunchbase.com/organization/nexb
+            twitter: https://twitter.com/nexBinc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nexb
+          - item:
+            name: Nokia Corporation (member)
+            homepage_url: https://nokia.com/
+            logo: nokia_corporation.svg
+            description: 'Nokia Corporation is a Finland-based company that invests in technologies. The company operates through three business segments: Nokia Networks, HERE and Nokia Technologies. Nokia Networks offers network infrastructure software, hardware, and services. Nokia Networks has two segments: Mobile Broadband and Global Services. HERE offers maps, a location platform, and location experiences across different screens and operating systems. HERE offer maps for around 190 countries, voice guided navigation for 99 countries in around 50 languages and live traffic information for around 44 countries. Nokia Technologies develops and licenses technologies. Nokia Technologies manages an Intellectual Property (IP) portfolio of approximately 10,000 patent families consisted of approximately 30,000 individual patents and patent applications.'
+            crunchbase: https://www.crunchbase.com/organization/nokia
+            twitter: https://twitter.com/nokia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nokianet
+          - item:
+            name: NTT Digital, Inc. (member)
+            homepage_url: https://nttdigital.io/#top
+            logo: ntt_digital_inc.svg
+            description: NTT Digital, Inc. is a company focused on utilizing cutting-edge digital technology to improve daily lives and create a brighter future. They offer a range of services in the three web domains and are actively seeking partners to build a new digital so...
+            organization:
+              name: NTT Digital, Inc.
+          - item:
+            name: NuNet (member)
+            homepage_url: https://nunet.io/
+            logo: nunet.svg
+            description: |-
+              NuNet is revolutionizing computing with a decentralized framework that connects global compute devices, decentralizing AI and ML on a hardware level.
+
+              --- Merged Data:
+
+              NuNet is revolutionizing computing with a decentralized framework that connects global compute devices, decentralizing AI and ML on a hardware level.
+            crunchbase: https://www.crunchbase.com/organization/nunet-dedc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nunet-global
+          - item:
+            name: NVIDIA Corporation (member)
+            homepage_url: https://nvidia.com/
+            logo: nvidia_corporation.svg
+            description: Founded in 1993, NVIDIA is an AI computing company. The company is headquartered in Santa Clara, California.
+            crunchbase: https://www.crunchbase.com/organization/nvidia
+            twitter: https://twitter.com/nvidia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nvidia
+          - item:
+            name: NXP Semiconductors Netherlands B.V. (member)
+            homepage_url: https://nxp.com/
+            logo: nxp_semiconductors_netherlands_b_v.svg
+            description: NXP Semiconductors NV is American Dutch semiconductor manufacturer with dual headquarters in Eindhoven, Netherlands and Austin, Texas.
+            crunchbase: https://www.crunchbase.com/organization/nxp-semiconductors
+            twitter: https://twitter.com/NXP
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nxp-semiconductors
+          - item:
+            name: OpenNebula Systems (member)
+            homepage_url: https://opennebula.io/
+            logo: opennebula_systems.svg
+            description: The open source Cloud Management Platform developed for the Enterprise 🚀
+            crunchbase: https://www.crunchbase.com/organization/opennebula
+            twitter: https://twitter.com/opennebula
+            extra:
+              linkedin_url: https://www.linkedin.com/company/opennebula
+          - item:
+            name: Orange SA (member)
+            homepage_url: https://orange.com/
+            logo: orange_sa.svg
+            description: |-
+              Orange is one of the world’s leading telecommunications operators with revenues of 39.7 billion euros in 2023 and 128,000 employees worldwide at 30 June 2024, including 72,000 employees in France. The Group has a total customer base of 285 million customers worldwide at 30 June 2024, including 246 million mobile customers and 21 million fixed broadband customers. These figures have been restated to account for the deconsolidation of certain activities in Spain following the creation of MASORANGE. The Group is present in 26 countries (including non-consolidated countries).
+              Orange is also a leading provider of global IT and telecommunication services to multinational companies under the brand Orange Business. In February 2023, the Group presented its strategic plan 'Lead the Future', built on a new business model and guided by responsibility and efficiency. 'Lead the Future' capitalizes on network excellence to reinforce Orange's leadership in service quality.
+              Orange is listed on Euronext Paris (symbol ORA) and on the New York Stock Exchange (symbol ORAN).
+              For more information on the internet and on your mobile: www.orange.com, www.orange-business.com and the Orange News app or to follow us on X: @presseorange.
+
+              Orange and any other Orange product or service names included in this material are trademarks of Orange or Orange Brand Services Limited.
+            crunchbase: https://www.crunchbase.com/organization/orange
+            twitter: https://twitter.com/orange
+            extra:
+              linkedin_url: https://www.linkedin.com/company/orange-services
+          - item:
+            name: OSSO B.V. (member)
+            homepage_url: https://osso.nl/
+            logo: osso_b_v.svg
+            description: OSSO B.V.
+            crunchbase: https://www.crunchbase.com/organization/osso-b-v
+            extra:
+              linkedin_url: https://www.linkedin.com/company/osso-b.v.
+          - item:
+            name: Palark GmbH (member)
+            homepage_url: https://palark.com/
+            logo: palark_gmbh.svg
+            description: Palark
+            crunchbase: https://www.crunchbase.com/organization/palark
+            twitter: https://twitter.com/palark_com
+            extra:
+              linkedin_url: https://www.linkedin.com/company/palark
+          - item:
+            name: PHYTEC Technologie Holding AG (member)
+            homepage_url: https://phytec.de/
+            logo: phytec_technologie_holding_ag.svg
+            description: PHYTEC is a company that develops and produces embedded components for global use in industrial series products. They offer embedded hardware and software, as well as design, software, and production services.
+            crunchbase: https://www.crunchbase.com/organization/phytec
+          - item:
+            name: Ping Identity Corporation (member)
+            homepage_url: https://pingidentity.com/
+            logo: ping_identity_corporation.svg
+            description: Ping Identity provides an identity and access platform that works to give customers one-click access to any application from any device. Ping Identity is based in Denver, Colorado and maintains offices in Japan, Australia, Canada, Japan and the United Kingdom.
+            crunchbase: https://www.crunchbase.com/organization/ping-identity-corporation
+            twitter: https://twitter.com/pingidentity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ping-identity
+          - item:
+            name: Pionix GmbH (member)
+            homepage_url: https://pionix.de/
+            logo: pionix_gmbh.svg
+            description: Simplifying e-mobility infrastructure. Driving openSource for everything between wallboxes and super chargers.
+            crunchbase: https://www.crunchbase.com/organization/pionix-fe94
+            twitter: https://twitter.com/PionixDe
+            extra:
+              linkedin_url: https://www.linkedin.com/company/pionix-gmbh
+          - item:
+            name: plusserver (member)
+            homepage_url: https://plusserver.com/
+            logo: plusserver.svg
+            description: plusserver
+            crunchbase: https://www.crunchbase.com/organization/plusserver
+            twitter: https://twitter.com/PlusServer
+            extra:
+              linkedin_url: https://www.linkedin.com/company/plusserver
+          - item:
+            name: PTV Group (member)
+            homepage_url: https://ptvgroup.com/
+            logo: ptv_group.svg
+            description: Wissenschaftliches Know-how gehört zu unseren Stärken. Zielgerichtet und praxisorientiert bewegen wir uns in Projekten. Rund um den Globus arbeiten rund 650 Kolleginnen und Kollegen an leistungsstarken und zukunftsweisenden Lösungen. Unser Hauptsitz be...
+            crunchbase: https://www.crunchbase.com/organization/ptv-group
+            twitter: https://twitter.com/PTVGroup
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ptv
+          - item:
+            name: Puzzle ITC GmbH (member)
+            homepage_url: https://puzzle.ch/
+            logo: puzzle_itc_gmbh.svg
+            description: |-
+              link to team photos and profiles: http://www.puzzle.ch/unternehmen/team/ 
+
+
+
+              Puzzle was created in 1999 as a small but excellent software and technology companies in life and in the meantime has grown to 44 employees. Java and Linux software development, system engineering form today as it was our core competencies.
+
+
+
+              Organization
+
+
+
+              Our services are delivered in three business areas. / dev / one and / dev / two are devoted to software development and / sys (Systems Engineering) is committed to the technology. In addition to the functional areas of personnel , finances , sales , marketing , back office and a CTO team we have specialists and technology groups, which work intensively with specific technical and process-oriented issues.
+
+
+
+
+
+
+
+              2015: Dear Kevlin
+
+              As we actually only focus on the Swiss market, a sponsorship for any
+
+              international event is quite too big for us.
+
+
+
+              Should we plan to expand internationally, we will reconsider your
+
+              offer and the events from the Linux Foundation.
+
+              Kind regards,
+
+              Andr��_
+            crunchbase: https://www.crunchbase.com/organization/puzzle-itc
+            twitter: https://twitter.com/puzzleitc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/puzzle-itc
+          - item:
+            name: ReeVo Spa (member)
+            homepage_url: https://reevo.it/
+            logo: reevo_spa.svg
+            description: ReeVo is the premier Italian Cloud & Cyber Security provider, safeguarding businesses with Secure Cloud and Cyber Security solutions through ISO-certified Data Centers.
+            crunchbase: https://www.crunchbase.com/organization/reevo-4b5e
+            extra:
+              linkedin_url: https://www.linkedin.com/company/reevo-cloud
+          - item:
+            name: Rivos Inc (member)
+            homepage_url: https://rivosinc.com/
+            logo: rivos_inc.svg
+            description: Rivos, based in Santa Clara and Austin, is an exciting RISC V startup that is targeting to be the first high performance RISC V core.
+            organization:
+              name: Rivos Inc
+              linkedin: https://www.linkedin.com/company/rivos-inc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rivos-inc
+          - item:
+            name: RTE (Reseau de Transport dElectricite) (member)
+            homepage_url: https://rte-france.com/
+            logo: rte_reseau_de_transport_delectricite.svg
+            description: RTE, Reseau de transport d'electricite owns, develops, operates, and maintains an electricity transmission network. It manages power flows and transmission infrastructure, and guarantees access to the transmission network. The company was formed in 2000 and is headquartered in Paris, France.
+            crunchbase: https://www.crunchbase.com/organization/rte-france
+            twitter: https://twitter.com/rte_france
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rte-france
+          - item:
+            name: SAP SE (member)
+            homepage_url: https://sap.com/
+            logo: sap_se.svg
+            description: Founded in 1972, As a market leader in enterprise application software, SAP helps companies of all sizes and industries run better. From back office to boardroom, warehouse to storefront, desktop to mobile device, SAP empowers people and organizations to work together more efficiently and uses business insight more effectively to stay ahead of the competition. SAP applications and services enable more than 253,500 customers to operate profitably, adapt continuously, and grow sustainably.
+            crunchbase: https://www.crunchbase.com/organization/sap
+            twitter: https://twitter.com/SAP
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sap
+          - item:
+            name: Savoir-faire Linux (member)
+            homepage_url: https://savoirfairelinux.com/
+            logo: savoir_faire_linux.svg
+            description: Since 1999, Savoir-faire Linux is a leading provider of training, consulting, development and support services on open technologies with more than 50 consultants in Montreal (QC) and Rennes (France).
+            crunchbase: https://www.crunchbase.com/organization/savoir-faire-linux
+            twitter: https://twitter.com/SFLinux
+            extra:
+              linkedin_url: https://www.linkedin.com/company/savoir-faire-linux
+          - item:
+            name: Scott Logic Ltd (member)
+            homepage_url: https://scottlogic.com/
+            logo: scott_logic_ltd.svg
+            description: Capital markets and commodities services.
+            crunchbase: https://www.crunchbase.com/organization/scott-logic
+            twitter: https://twitter.com/Scott_Logic
+            extra:
+              linkedin_url: https://www.linkedin.com/company/scott-logic-limited
+          - item:
+            name: Seacom srl sb (member)
+            homepage_url: https://seacom.it/
+            logo: seacom_srl_sb.svg
+            description: Seacom is the leading Open Source Architect in Italy, offering modular and scalable solutions for digital transformation with expertise in Zimbra and Elasticsearch.
+            crunchbase: https://www.crunchbase.com/organization/seacom-s-r-l
+            extra:
+              linkedin_url: https://www.linkedin.com/company/seacom
+          - item:
+            name: SerNet GmbH (member)
+            homepage_url: https://sernet.de/
+            logo: sernet_gmbh.svg
+            description: SerNet was founded in 1997 as a service provider for IT security and today, with offices in Göttingen, Berlin and San Francisco, supports customers worldwide around the clock with services and a selected product portfolio for the secure operation of information technology and with focus on open-source technologies like SAMBA and verinice.
+            organization:
+              name: SerNet GmbH
+              linkedin: https://www.linkedin.com/company/sernet-gmbh
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sernet-gmbh
+          - item:
+            name: SiFive (member)
+            homepage_url: https://sifive.com/
+            logo: sifive.svg
+            description: Founded in 2015, SiFive is based in San Mateo, California and specializes in agile hardware design and open source chip platforms.
+            crunchbase: https://www.crunchbase.com/organization/sifive
+            twitter: https://twitter.com/SiFive
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sifive
+          - item:
+            name: Solo.io, Inc. (member)
+            homepage_url: https://solo.io/
+            logo: solo_io_inc.svg
+            description: |-
+              Connectivity remains an unsolved problem in the cloud. Current solutions force you to choose between the flawed and the complex. Solo.io makes it easier. We embrace the complexities of the cloud to make it simpler for our customers to do cloud connectivity right. We help you secure, observe, and control everything in your cloud environment, so you build confidently and scale for the future.
+
+              Our renowned products, Gloo Gateway, Gloo AI Gateway, and Gloo Mesh, are the preferred choice for Fortune 2000 industry leaders and cloud-native innovators, representing market leadership across industries and geographies.
+
+              A remote-first company, we maintain a strong regional presence in North America, Europe, and APAC. Solo.io continues to shape the cloud-native landscape, pioneering innovative solutions and empowering businesses worldwide.
+
+              In 2021, Solo.io reached a significant milestone, securing $135 million in Series C funding at a valuation of $1 billion.
+              To date, we’ve received a total of $175 million in venture funding from esteemed firms such as Altimeter Capital, Redpoint Ventures, and True Ventures.
+            crunchbase: https://www.crunchbase.com/organization/solo-io
+            twitter: https://twitter.com/soloio_inc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/solo.io
+          - item:
+            name: Sonatype, Inc. (member)
+            homepage_url: https://sonatype.com/
+            logo: sonatype_inc.svg
+            description: |-
+              Global Headquarters
+
+              Sonatype, Inc.
+
+              12501 Prosperity Drive, Suite 350
+
+              Silver Spring, MD 20904
+
+
+
+              Canadian Office
+
+              Sonatype, Inc.
+
+              147 Wyndham St N, Suite 302
+
+              Guelph, ON, N1H 4E9
+            crunchbase: https://www.crunchbase.com/organization/sonatype
+            twitter: https://twitter.com/sonatype
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sonatype
+          - item:
+            name: Spacelift, Inc. (member)
+            homepage_url: https://spacelift.io/
+            logo: spacelift_inc.svg
+            description: Spacelift is the CI/CD for infrastructure-as-code and policy as code. It enables collaboration, automates manual work and compliance, and lets teams customize and automate their workflows.
+            crunchbase: https://www.crunchbase.com/organization/spacelift
+            twitter: https://twitter.com/spaceliftio
+            extra:
+              linkedin_url: https://www.linkedin.com/company/spacelift-io
+          - item:
+            name: SpacemiT (Hangzhou) Technology Co. Ltd (member)
+            homepage_url: https://spacemit.com/
+            logo: spacemit_hangzhou_technology_co.svg
+            description: 进迭时空 is a company that specializes in developing high-performance CPUs based on the next generation RISC V architecture and providing software and hardware integrated computing solutions. They aim to build the next era of computing with a native integr...
+            organization:
+              name: SpacemiT (Hangzhou) Technology Co. Ltd
+          - item:
+            name: Sparkfabrik srl (member)
+            homepage_url: https://sparkfabrik.com/
+            logo: sparkfabrik_srl.svg
+            description: SparkFabrik - I maggiori esperti Drupal certificati in Italia. Drupal Milano, Consulenza Drupal, Acquia partner, Scrum Master certificati, Esperti Drupal in Italia, Sviluppatori web Milano, Applicazioni web Milano, Sviluppo agile, Pratiche devops, Svil...
+            crunchbase: https://www.crunchbase.com/organization/sparkfabrik
+            twitter: https://twitter.com/SparkFabrik
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sparkfabrik
+          - item:
+            name: S&P Global Inc. (member)
+            homepage_url: https://spglobal.com/
+            logo: s_p_global_inc.svg
+            description: "McGraw-Hill Financial re-branded as S&P Global, effective April 28, 2016. S&P Global (NYSE: SPGI, effective April 28, 2016) is a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide. The Company's divisions include S&P Global Ratings, S&P Global Market Intelligence, S&P Dow Jones Indices and S&P Global Platts. S&P Global has approximately, 20,000 employees in 31 countries."
+            crunchbase: https://www.crunchbase.com/organization/s-p-global
+            twitter: https://twitter.com/SPGlobal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mcgraw-hill-education
+          - item:
+            name: Spotify AB (member)
+            homepage_url: https://spotify.com/
+            logo: spotify_ab.svg
+            description: Founded in 2006 and headquartered in Stockholm, Sweden, Spotify is a commercial music streaming, podcast and video service that provides digital rights management-restricted content from record labels and media companies.
+            crunchbase: https://www.crunchbase.com/organization/spotify
+            twitter: https://twitter.com/Spotify
+            extra:
+              linkedin_url: https://www.linkedin.com/company/spotify
+          - item:
+            name: Spruce Systems, Inc. (member)
+            homepage_url: https://spruceid.com/
+            logo: spruce_systems_inc.svg
+            description: We're advancing digital identity while retaining user privacy. Our mission is to create new trusted infrastructure for the world. We build identity solutions with both users and enterprises in-mind.
+            twitter: https://twitter.com/SpruceID
+            organization:
+              name: Spruce Systems, Inc.
+              linkedin: https://www.linkedin.com/company/sprucesystemsinc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sprucesystemsinc
+          - item:
+            name: STACKIT GmbH & Co. KG (member)
+            homepage_url: https://stackit.de/
+            logo: stackit_gmbh_co.svg
+            description: Für komplexe IT-Infrastrukturen und skalierbare Cloud-Lösungen ist STACKIT Ihr perfekter Partner. Unsere IaaS & PaaS Services erfüllen dabei zu 100% europäische DSGVO-Datenschutzstandards! Jetzt Beta-Version testen!
+            twitter: https://twitter.com/stackitcloud
+            organization:
+              name: STACKIT GmbH & Co. KG
+              linkedin: https://www.linkedin.com/company/stackit-colocation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/stackit-colocation
+          - item:
+            name: STORDIS GmbH (member)
+            homepage_url: https://stordis.com/
+            logo: stordis_gmbh.svg
+            description: Founded in 2007, STORDIS participated in the Open Networking Revolution and proceeded to build a substantial network of reliable partners, including hardware manufacturers, service providers and global technology leaders.
+            crunchbase: https://www.crunchbase.com/organization/stord
+            twitter: https://twitter.com/STORDIS_GmbH
+            extra:
+              linkedin_url: https://www.linkedin.com/company/stordis
+          - item:
+            name: SUSE LLC (member)
+            homepage_url: https://suse.com/
+            logo: suse_llc.svg
+            description: SUSE provides businesses with software solutions. Some solutions they offer include data analytics, cloud management, infrastructure facilitation, and more.
+            crunchbase: https://www.crunchbase.com/organization/suse
+            twitter: https://twitter.com/SUSE
+            extra:
+              linkedin_url: https://www.linkedin.com/company/attachmate
+          - item:
+            name: Swisscom (member)
+            homepage_url: https://swisscom.com/
+            logo: swisscom.svg
+            description: Swisscom is a major Swiss telecommunications provider, majority-owned by the Swiss Confederation. The company provides fixed-line and mobile phone service, broadband data, and cable TV to individuals and businesses.
+            crunchbase: https://www.crunchbase.com/organization/swisscom
+            twitter: https://twitter.com/Swisscom
+            extra:
+              linkedin_url: https://www.linkedin.com/company/swisscom
+          - item:
+            name: Technology Innovation Institute (member)
+            homepage_url: https://tii.ae/
+            logo: technology_innovation_institute.svg
+            description: The Technology Innovation Institute (TII) aims to become a leading global research Centre dedicated to pushing the frontiers of knowledge. Our teams of scientists, researchers and engineers work in an open, flexible and agile environment to deliver dis...
+            twitter: https://twitter.com/TIIuae
+            organization:
+              name: Technology Innovation Institute
+              linkedin: https://www.linkedin.com/company/tiiuae
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tiiuae
+          - item:
+            name: Telefonica, S.A. (member)
+            homepage_url: https://telefonica.com/
+            logo: telefonica_s_a.svg
+            description: Telefónica, SA is a Spanish multinational telecommunications company headquartered in Madrid, Spain.
+            crunchbase: https://www.crunchbase.com/organization/telefonica
+            twitter: https://twitter.com/Telefonica
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telefonica-global-solutions
+          - item:
+            name: Tenstorrent (member)
+            homepage_url: https://tenstorrent.com/
+            logo: tenstorrent.svg
+            description: At Tenstorrent, we build chips to power the models of the future.
+            crunchbase: https://www.crunchbase.com/organization/tenstorrent
+            twitter: https://twitter.com/tenstorrent
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tenstorrent-inc.
+          - item:
+            name: TIM S.p.A (member)
+            homepage_url: https://tim.it/
+            logo: tim_s_p.svg
+            description: |-
+              TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.
+
+              --- Merged Data:
+
+              TIM (Telecom Italia) provides telecommunications services in Italy, including fixed and mobile telephony, internet, TV, and entertainment. TIM Ventures supports innovative startups to drive growth and create value..
+            crunchbase: https://www.crunchbase.com/organization/telecom-italia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tim
+          - item:
+            name: TomTom International B.V. (member)
+            homepage_url: https://tomtom.com/
+            logo: tomtom_international_b_v.svg
+            description: TomTom NV is a Dutch multinational developer and creator of location technology and consumer electronics.
+            crunchbase: https://www.crunchbase.com/organization/tomtom-international
+            twitter: https://twitter.com/TomTom
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tomtom
+          - item:
+            name: Ventana Micro Systems (member)
+            homepage_url: https://ventanamicro.com/
+            logo: ventana_micro_systems.svg
+            description: Ventana is the RISC-V Performance leader, delivering platforms, chips and IP for groundbreaking solutions across data center, automotive, client, and AI markets. Our core team includes the pioneers behind the first 64-bit Arm server processor, the X-Gene by Applied Micro. With this proven expertise, we are redefining high-performance computing with the RISC-V architecture.
+            crunchbase: https://www.crunchbase.com/organization/ventana-micro-systems
+            twitter: https://twitter.com/VentanaMicro
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ventana-micro-systems
+          - item:
+            name: Visa Inc. (member)
+            homepage_url: https://visa.com/
+            logo: visa_inc.svg
+            description: Visa Inc. is an American multinational financial services corporation headquartered in Foster City, California, United States.
+            crunchbase: https://www.crunchbase.com/organization/visa
+            twitter: https://twitter.com/Visa
+            extra:
+              linkedin_url: https://www.linkedin.com/company/visa
+          - item:
+            name: Vodafone Group Plc. (member)
+            homepage_url: https://vodafone.com/
+            logo: vodafone_group_plc.svg
+            description: |-
+              Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers.
+
+              --- Merged Data:
+
+              Idea Cellular Limited was an Indian mobile network operator based at Mumbai, Maharashtra.
+
+              --- Merged Data:
+
+              Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
+            crunchbase: https://www.crunchbase.com/organization/vodafone
+            twitter: https://twitter.com/VodafoneGroup
+            extra:
+              linkedin_url: https://www.linkedin.com/company/vodafone
+          - item:
+            name: Welotec (member)
+            homepage_url: https://welotec.com/
+            logo: welotec.svg
+            description: Welotec is a pioneering system provider specializing in automation, digitalization, and precision farming. They focus on core sectors like Smart Energy and collaborate with industry leaders for innovative solutions.
+            organization:
+              name: Welotec
+              linkedin: https://www.linkedin.com/company/welotec-gmbh
+            extra:
+              linkedin_url: https://www.linkedin.com/company/welotec-gmbh
+          - item:
+            name: Western Digital Corporation (member)
+            homepage_url: https://westerndigital.com/
+            logo: western_digital_corporation.svg
+            description: Western Digital creates environments for data to thrive. The company is a data infrastructure company that drives the innovation needed to help customers capture, preserve, access and transform an ever-increasing diversity of data. The company is headquartered in San Jose, California and has offices across the globe.
+            crunchbase: https://www.crunchbase.com/organization/western-digital-capital
+            twitter: https://twitter.com/westerndigital
+            extra:
+              linkedin_url: https://www.linkedin.com/company/western-digital
+          - item:
+            name: Whitestack LLC (member)
+            homepage_url: https://whitestack.com/
+            logo: whitestack_llc.svg
+            description: 'Whitestack was born with the mission of helping organizations to adopt the broad spectrum of technologies created around Cloud. Whitestack is all about these pillars: Cloud, SDN and NFV orchestration.'
+            crunchbase: https://www.crunchbase.com/organization/whitestack
+            extra:
+              linkedin_url: https://www.linkedin.com/company/whitestack
+          - item:
+            name: Wind River Systems, Inc. (member)
+            homepage_url: https://windriver.com/
+            logo: wind_river_systems_inc.svg
+            description: Headquartered in Alameda, California, Wind River Systems develops embedded system software consisting of run-time software, industry-specific software, simulation technology, development tools and middleware.
+            crunchbase: https://www.crunchbase.com/organization/wind-river
+            twitter: https://twitter.com/WindRiver
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wind-river
+          - item:
+            name: x-cellent technologies GmbH (member)
+            homepage_url: https://x-cellent.com/
+            logo: x_cellent_technologies_gmbh.svg
+            description: x-cellent technologies GmbH is an IT consultancy based in Munich. We build open cloud environments with metal-stack.io as foundation.
+            crunchbase: https://www.crunchbase.com/organization/x-cellent-technologies
+            twitter: https://twitter.com/xcellent_muc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/x-cellent-technologies-gmbh
+          - item:
+            name: ZTE Corporation (member)
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            description: ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
+            twitter: https://twitter.com/ZTEPress
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zte
+      - subcategory:
+        name: Associate
+        items:
+          - item:
+            name: Algorand Foundation Ltd (member)
+            homepage_url: https://algorand.foundation/
+            logo: algorand_foundation_ltd.svg
+            description: The Algorand Foundation is a non-profit organization dedicated to fulfilling the global promise of blockchain technology by leveraging the Algorand protocol and open source software for an inclusive ecosystem.
+            organization:
+              name: Algorand Foundation Ltd
+              linkedin: https://www.linkedin.com/company/algorandfoundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/algorandfoundation
+          - item:
+            name: Ayra (member)
+            homepage_url: https://ayra.forum/
+            logo: ayra.svg
+            description: Ayra focuses on creating a trusted relationship network that helps organizations navigate the challenges of declining trust and rapid technological changes, ultimately aiming to enhance digital trust and drive revenue growth through improved compliance...
+            organization:
+              name: Ayra
+              linkedin: https://www.linkedin.com/company/global-acceptance-network
+            extra:
+              linkedin_url: https://www.linkedin.com/company/global-acceptance-network
+          - item:
+            name: Bank of England (member)
+            homepage_url: https://bankofengland.co.uk/
+            logo: bank_of_england.svg
+            description: The Bank of England, formerly the Governor and Company of the Bank of England, is the central bank of the United Kingdom and the model on which most modern central banks have been based. Established in 1694, it is the second oldest central bank in the world and the world's 8th oldest bank. It was established to act as the English Government's banker, and is still the banker for HM Government. The Bank was privately owned by stockholders from its foundation in 1694 until nationalized in 1946. In 1998, it became an independent public organization, wholly owned by the Treasury Solicitor on behalf of the government, with independence in setting monetary policy. The Bank is one of eight banks authorized to issue banknotes in the United Kingdom, but has a monopoly on the issue of banknotes in England and Wales and regulates the issue of banknotes by commercial banks in Scotland and Northern Ireland. They are headquartered in London, England.
+            crunchbase: https://www.crunchbase.com/organization/bank-of-england
+            twitter: https://twitter.com/bankofengland
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bank-of-england
+          - item:
+            name: Beijing Institute of Open  Source Chip (member)
+            homepage_url: https://bosc.ac.cn/
+            logo: beijing_institute_of_open_source_chip.svg
+            organization:
+              name: Beijing Institute of Open  Source Chip
+          - item:
+            name: Belastingdienst (member)
+            homepage_url: https://belastingdienst.nl/
+            logo: belastingdienst.svg
+            description: Startpunt voor belastingen, toeslagen en douanezaken. Lees meteen wanneer wij uw toeslag of voorlopige aanslag uitbetalen, kijk hoe u uw rekeningnummer doorgeeft, of vind snel uw onderwerp in het menu of bij de belangrijke thema's.
+            organization:
+              name: Belastingdienst
+              linkedin: https://www.linkedin.com/company/belastingdienst
+            extra:
+              linkedin_url: https://www.linkedin.com/company/belastingdienst
+          - item:
+            name: Bluenumber (member)
+            homepage_url: https://bluenumber.org/
+            logo: bluenumber.svg
+            description: Digital Identity. Data Analytics. Traceability
+            twitter: https://twitter.com/bluenumberID
+            organization:
+              name: Bluenumber
+              linkedin: https://www.linkedin.com/company/bluenumber
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bluenumber
+          - item:
+            name: Cardano Foundation (member)
+            homepage_url: https://cardanofoundation.org/
+            logo: cardano_foundation.svg
+            description: Cardano Foundation is a not-for-profit a blockchain and cryptocurrency organisation based in Zug, Switzerland
+            crunchbase: https://www.crunchbase.com/organization/cardano-foundation
+            twitter: https://twitter.com/Cardano_CF
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cardano-foundation
+          - item:
+            name: CERTH (Centre for Research and Technology Hellas) (member)
+            homepage_url: https://certh.gr/
+            logo: certh_centre_for_research_and_technology_hellas.svg
+            description: |-
+              The Centre for Research and Technology-Hellas (CERTH) founded in 2000 is one of the leading research centres in Greece and listed among the TOP-20 E.U. research institutions with the highest participation in competitive research grants.
+
+               
+
+              Legal Form
+
+              It is a legal entity governed by private law with non-profit status, supervised by the General Secretariat for Research and Technology (GSRT) of the Greek Ministry of Education, Research and Religious Affairs.
+
+               
+
+              Research Areas
+
+              CERTH has important scientific and technological achievements in many areas including: Energy, Environment, Industry, Mechatronics, Information & Communication, Transportation & Sustainable Mobility, Health, Agro-biotechnology, Smart farming, Safety & Security, as well as several cross-disciplinary scientific areas.
+
+               
+
+              Institutes
+
+              Today CERTH includes the following five institutes with indicated major fields of research:
+
+              Chemical Process & Energy Resources Institute (CPERI)
+              Sustainable & Clean Energy, Environmental Technologies, Chemical & Biochemical Processes, Advanced Functional Materials
+              Information Technologies Institute (ITI)
+              Informatics, Telematics and Telecommunication Technologies
+              Hellenic Institute of Transport (HIT)
+              Land, Sea and Air Transportation as well as Sustainable Mobility services
+              Institute of Applied Biosciences (INAB)
+              Agri-biotechnology, Health Translational Research, Informatics for big bio-data
+               Bio-economy and Agro-technology Institute (IBO)
+              Agrotechnology, Mechatronics, Biomedicine and Kinesiology
+            twitter: https://twitter.com/CERTHellas
+            organization:
+              name: CERTH (Centre for Research and Technology Hellas)
+              linkedin: https://www.linkedin.com/company/certh
+            extra:
+              linkedin_url: https://www.linkedin.com/company/certh
+          - item:
+            name: cheqd Foundation Limited (member)
+            homepage_url: https://cheqd.io/
+            logo: cheqd_foundation_limited.svg
+            description: We’re making it easier for individuals & organisations to trust each other. Call it self-sovereign identity (SSI) or Web5, we got you covered.
+            twitter: https://twitter.com/cheqd_io
+            organization:
+              name: cheqd Foundation Limited
+              linkedin: https://www.linkedin.com/company/cheqd-identity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cheqd-identity
+          - item:
+            name: China Academy of Information and Communications Technology (CAICT) (member)
+            homepage_url: https://caict.ac.cn/
+            logo: china_academy_of_information_and_communications_technology_caict.svg
+            description: |-
+              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
+
+              · Decision-Making Support
+              · Test beds
+              · Test and Certification
+              · Consultancy
+              · Regulation services
+
+              Business Departments
+
+              Policy and Economics Research Institute
+              Technology and Standards Research Institute
+              Industry and Planning Research Institute
+              Cloud Computing & Big Data Research Institute
+              Informatization and Industrialization Integration Research Institute
+              Security Research Institute
+              CTTL System Laboratory
+              CTTL Terminal labs
+              TL Certification Institute
+              ICT Project Quota & Quality Supervision Center
+            crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
+          - item:
+            name: CSTeachers (member)
+            homepage_url: https://csteachers.uk/
+            logo: csteachers.svg
+            organization:
+              name: CSTeachers
+          - item:
+            name: Customer Commons (member)
+            homepage_url: https://customercommons.org/
+            logo: customer_commons.svg
+            description: 'California-based nonprofit working to give the world’s customers full power in the marketplace. Founded by @VRM at @BKCHarvard. https://t.co/cJ9bzVltHj #VRM #Me2B'
+            twitter: https://twitter.com/CustomerCommons
+            organization:
+              name: Customer Commons
+              linkedin: https://www.linkedin.com/company/customer-commons
+            extra:
+              linkedin_url: https://www.linkedin.com/company/customer-commons
+          - item:
+            name: CZ.NIC, z.s.p.o. (member)
+            homepage_url: https://nic.cz/
+            logo: cz_nic_z_s_p_o.svg
+            description: NIC is a Czech interest association of legal persons established by leading Internet service providers in 1998.
+            twitter: https://twitter.com/CZ_NIC
+            organization:
+              name: CZ.NIC, z.s.p.o.
+              linkedin: https://www.linkedin.com/company/cz.nic-z.s.p.o.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cz.nic-z.s.p.o.
+          - item:
+            name: Decentralized Identity Foundation (member)
+            homepage_url: https://identity.foundation/
+            logo: decentralized_identity_foundation.svg
+            description: Building an open source decentralized identity ecosystem for people, organizations, and devices that enables a new class of apps and services.
+            crunchbase: https://www.crunchbase.com/organization/decentralized-identity-foundation
+            twitter: https://twitter.com/DecentralizedID
+            extra:
+              linkedin_url: https://www.linkedin.com/company/decentralized-identity-foundation
+          - item:
+            name: DIDAS (member)
+            homepage_url: https://didas.swiss/
+            logo: didas.svg
+            description: DIDAS gives individuals (citizens / intra / entrepreneurs) and organisations the opportunity to shape and accelerate the Digital Identity & Data Sovereignty movement in Switzerland.
+            twitter: https://twitter.com/DIDAS_SWISS
+            organization:
+              name: DIDAS
+              linkedin: https://www.linkedin.com/company/didas
+            extra:
+              linkedin_url: https://www.linkedin.com/company/didas
+          - item:
+            name: Digital ID & Authentication Council of Canada (member)
+            homepage_url: https://diacc.ca/
+            logo: digital_id_authentication_council_of_canada.svg
+            description: Digital ID & Auth. Council of Canada | DIACC  Conseil canadien de l'identification et de l'authentification | CCIAN  Canada's community of identity experts
+            crunchbase: https://www.crunchbase.com/organization/diacc
+            twitter: https://twitter.com/mydiacc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mydiacc
+          - item:
+            name: Digital Identity New Zealand (member)
+            homepage_url: https://digitalidentity.nz/
+            logo: digital_identity_new_zealand.svg
+            description: Leading a united approach to digital identity for the benefit of all New Zealanders.
+            twitter: https://twitter.com/digitalidnz
+            organization:
+              name: Digital Identity New Zealand
+              linkedin: https://www.linkedin.com/company/digitalidnz
+            extra:
+              linkedin_url: https://www.linkedin.com/company/digitalidnz
+          - item:
+            name: Dyne.org (member)
+            homepage_url: https://dyne.org/
+            logo: dyne.svg
+            description: Dyne.org is a digital community and free software foundry empowering artists, creatives, and citizens worldwide with grassroots access to technology and freedom.
+            organization:
+              name: Dyne.org
+              linkedin: https://www.linkedin.com/company/dyne-org
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dyne-org
+          - item:
+            name: Educode (member)
+            homepage_url: https://educode.be/
+            logo: educode.svg
+            organization:
+              name: Educode
+          - item:
+            name: EkStep Foundation (member)
+            homepage_url: https://ekstep.org/
+            logo: ekstep_foundation.svg
+            description: EkStep Foundation
+            crunchbase: https://www.crunchbase.com/organization/ekstep
+            twitter: https://twitter.com/EkStep_Org
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ekstep-foundation
+          - item:
+            name: ESOP - Associação de Empresas de Software Open Source Portuguesas (member)
+            homepage_url: https://esop.pt/
+            logo: esop_associacao_de_empresas_de_software_open_source_portuguesas.svg
+            description: A ESOP é uma associação empresarial que representa as empresas portuguesas que se dedicam ao desenvolvimento de software e à prestação de serviços baseados em tecnologias Open Source.
+            twitter: https://twitter.com/ESOP_PT
+            organization:
+              name: ESOP - Associação de Empresas de Software Open Source Portuguesas
+              linkedin: https://www.linkedin.com/company/esop---associa-o-de-empresas-de-software-open-source-portuguesas
+            extra:
+              linkedin_url: https://www.linkedin.com/company/esop---associa-o-de-empresas-de-software-open-source-portuguesas
+          - item:
+            name: ETH Zurich (member)
+            homepage_url: https://ethz.ch/
+            logo: eth_zurich.svg
+            description: Founded in 1855, Swiss Federal Institute of Technology is a science, technology, mathematics, engineering, and management university in Zurich, Switzerland.
+            crunchbase: https://www.crunchbase.com/organization/eidgen-ssische-technische-hochschule-z-rich
+            twitter: https://twitter.com/ETH
+          - item:
+            name: Findynet Cooperative (member)
+            homepage_url: https://findy.fi/
+            logo: findynet_cooperative.svg
+            description: The Findynet Cooperative is a public-private organisation that develops a general-purpose, shared, and secure verfiable data network — a way to ensure the authenticity of information required in e-services.
+            organization:
+              name: Findynet Cooperative
+              linkedin: https://www.linkedin.com/company/findy-cooperative
+            extra:
+              linkedin_url: https://www.linkedin.com/company/findy-cooperative
+          - item:
+            name: Fundacion Universia (member)
+            homepage_url: https://fundacionuniversia.net/
+            logo: fundacion_universia.svg
+            description: No hay mapa del tesoro. El tesoro es el mapa.    ¿NUESTRA MISIÓN?  Transformar el acceso al conocimiento de las personas con discapacidad, potenciando el desarrollo de competencias que les conecten con el mundo laboral. Impulsar proyectos digitales y p...
+            twitter: https://twitter.com/FUniversia
+            organization:
+              name: Fundacion Universia
+              linkedin: https://www.linkedin.com/company/fundacion-universia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fundacion-universia
+          - item:
+            name: Global Legal Entity Identifier Foundation (member)
+            homepage_url: https://gleif.org/
+            logo: global_legal_entity_identifier_foundation.svg
+            description: 'GLEIF is a non-profit organization tasked to support LEI rollout. The LEI uniquely identifies legal entities participating in financial transactions. #OpenData'
+            crunchbase: https://www.crunchbase.com/organization/global-legal-entity-identifier-foundation
+            twitter: https://twitter.com/GLEIF
+            extra:
+              linkedin_url: https://www.linkedin.com/company/global-legal-entity-identifier-foundation-gleif-
+          - item:
+            name: GrUSP - ASSOCIAZIONE GRUPPO UTENTI E SVILUPPATORI PHP ITALIANI (member)
+            homepage_url: https://grusp.org/
+            logo: grusp_associazione_gruppo_utenti_e_sviluppatori_php_italiani.svg
+            description: GrUSP organizes events aimed at training and connecting individuals who are passionate about web development, fostering a welcoming and diverse community since 2003.
+            organization:
+              name: GrUSP - ASSOCIAZIONE GRUPPO UTENTI E SVILUPPATORI PHP ITALIANI
+              linkedin: https://www.linkedin.com/company/grusp
+            extra:
+              linkedin_url: https://www.linkedin.com/company/grusp
+          - item:
+            name: Identity 2020 Systems (member)
+            homepage_url: https://id2020.org/
+            logo: identity_2020_systems.svg
+            description: The ID2020 Alliance is a global partnership maximizing the potential of digital ID to improve lives.
+            crunchbase: https://www.crunchbase.com/organization/identity2020
+            twitter: https://twitter.com/ID2020
+            extra:
+              linkedin_url: https://www.linkedin.com/company/identity2020
+          - item:
+            name: IDunion SCE (member)
+            homepage_url: https://idunion.eu/
+            logo: idunion_sce.svg
+            description: IDunion is an open ecosystem that enables self-sovereign identities. It aims to create a decentralized identity management system based on European values and regulations.
+            organization:
+              name: IDunion SCE
+          - item:
+            name: Indian Institute of Technology (BHU) (member)
+            homepage_url: https://iitbhu.ac.in/
+            logo: indian_institute_of_technology_bhu.svg
+            description: 99028 Indian Institute of Technology Varanasi (abbreviated Indian Institute of Technology Varanasi or IIT Varanasi) is a public technical and research university located in Varanasi, Uttar Pradesh, India.
+            crunchbase: https://www.crunchbase.com/organization/indian-institute-of-technology-bhu-varanasi-2
+            extra:
+              linkedin_url: https://www.linkedin.com/company/indian-institute-of-technology-bhu-varanasi
+          - item:
+            name: Institute of Software Chinese Academy of Sciences (member)
+            homepage_url: https://iscas.ac.cn/
+            logo: institute_of_software_chinese_academy_of_sciences.svg
+            description: The Institute of Software, Chinese Academy of Sciences (ISCAS) is a research base that focuses on the research and development on theories of computer science and leading edge technologies of software.
+            crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
+          - item:
+            name: IoTAC_H2020 (member)
+            homepage_url: https://iotac.eu/
+            logo: iotac_h2020.svg
+            description: IoTAC is a European research project that aims to design, develop and operate more resilient IoT service environments. The project will implement front end access control and multiple runtime security features including AI-based detection models, honey...
+            organization:
+              name: IoTAC_H2020
+              linkedin: https://www.linkedin.com/company/iotac-h2020
+            extra:
+              linkedin_url: https://www.linkedin.com/company/iotac-h2020
+          - item:
+            name: Johannes Kepler University Linz (member)
+            homepage_url: https://jku.at/
+            logo: johannes_kepler_university_linz.svg
+            description: The Johannes Kepler University Linz is a public institution of higher education in Austria.
+            crunchbase: https://www.crunchbase.com/organization/johannes-kepler-university-of-linz
+            twitter: https://twitter.com/jkulinz
+            extra:
+              linkedin_url: https://www.linkedin.com/company/jkulinz
+          - item:
+            name: M42 (member)
+            homepage_url: https://messier42.com/
+            logo: m42.svg
+            organization:
+              name: M42
+          - item:
+            name: Ministry of Digital Affairs, Taiwan (member)
+            homepage_url: https://moda.gov.tw/
+            logo: ministry_of_digital_affairs_taiwan.svg
+            description: Ministry of Digital Affairs (moda) drives Taiwan's digital development, connecting citizens with technology, enhancing industry and security to lead global digital innovation.
+            organization:
+              name: Ministry of Digital Affairs, Taiwan
+          - item:
+            name: MIT Connection Science (member)
+            homepage_url: https://mit.edu/
+            logo: mit_connection_science.svg
+            description: The Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts. Founded in 1861 in response to the increasing industrialization of the United States, MIT adopted a European polytechnic university model and stressed laboratory instruction in applied science and engineering. Researchers worked on computers, radar, and inertial guidance during World War II and the Cold War. Post-war defense research contributed to the rapid expansion of the faculty and campus under James Killian. The current 168-acre (68.0 ha) campus opened in 1916 and extends over 1 mile (1.6 km) along the northern bank of the Charles River basin. The Institute is traditionally known for its research and education in the physical sciences and engineering, and more recently in biology, economics, linguistics, and management as well. It is often cited as among the world's top universities. The "Engineers" sponsor 31 sports, most teams of which compete in the NCAA Division III's New England Women's and Men's Athletic Conference; the Division I rowing programs compete as part of the EARC and EAWRC.
+            crunchbase: https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit
+            twitter: https://twitter.com/MIT
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mit-lincoln-laboratory
+          - item:
+            name: MOSIP (member)
+            homepage_url: https://mosip.io/
+            logo: mosip.svg
+            description: The Modular Open Source Identity Platform (MOSIP) helps Governments and other user organizations implement a digital, foundational identity system in a cost effective way. Read More!
+            organization:
+              name: MOSIP
+              linkedin: https://www.linkedin.com/company/mosip-project
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mosip-project
+          - item:
+            name: Mydex Data Services Community Interest Company (member)
+            homepage_url: https://mydex.org/
+            logo: mydex_data_services_community_interest_company.svg
+            description: Removing friction, effort, risk and cost in public services and improving outcomes and ease of access for citizens
+            crunchbase: https://www.crunchbase.com/organization/mydex
+            twitter: https://twitter.com/MydexCIC
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mydex-cic
+          - item:
+            name: Open Energy Transition (member)
+            homepage_url: https://openenergytransition.org/
+            logo: open_energy_transition.svg
+            organization:
+              name: Open Energy Transition
+          - item:
+            name: openEuler (member)
+            homepage_url: https://openeuler.org/
+            logo: openeuler.svg
+            description: OpenEuler is a reliable open source operating system that unleashes diversified computing power for a sustainable future.
+            organization:
+              name: openEuler
+              linkedin: https://www.linkedin.com/company/openeuler
+            extra:
+              linkedin_url: https://www.linkedin.com/company/openeuler
+          - item:
+            name: OpenForum Europe (member)
+            homepage_url: https://openforumeurope.org/
+            logo: openforum_europe.svg
+            description: OpenForum Europe
+            twitter: https://twitter.com/OpenForumEurope
+            organization:
+              name: OpenForum Europe
+              linkedin: https://www.linkedin.com/company/openforum-europe
+            extra:
+              linkedin_url: https://www.linkedin.com/company/openforum-europe
+          - item:
+            name: OpenID Foundation (member)
+            homepage_url: https://openid.org/
+            logo: openid_foundation.svg
+            description: OpenID Foundation promotes "Open and Safe Identity Layer" in the Cyberspace.
+            crunchbase: https://www.crunchbase.com/organization/openid-foundation
+            twitter: https://twitter.com/openid
+            extra:
+              linkedin_url: https://www.linkedin.com/company/openid-foundation
+          - item:
+            name: Open Source Business Alliance (member)
+            homepage_url: https://osb-alliance.de/
+            logo: open_source_business_alliance.svg
+            description: Europe's largest network promoting open source software for digital transformation and innovation, advocating for its standardization in public procurement and economic development.
+            organization:
+              name: Open Source Business Alliance
+          - item:
+            name: OpenUK (member)
+            homepage_url: https://openuk.uk/
+            logo: openuk.svg
+            description: OpenUK Open Source Kids Competition Imogen heap
+            crunchbase: https://www.crunchbase.com/organization/openuk
+            twitter: https://twitter.com/openuk_uk
+            extra:
+              linkedin_url: https://www.linkedin.com/company/openuk
+          - item:
+            name: Research Institutes of Sweden (member)
+            homepage_url: https://ri.se/
+            logo: research_institutes_of_sweden.svg
+            description: RISE perform industry research and innovation as well as testing and certification.
+            crunchbase: https://www.crunchbase.com/organization/rise-8
+            twitter: https://twitter.com/RISEsweden
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rise-research-institutes-of-sweden
+          - item:
+            name: RWTH Aachen University (member)
+            homepage_url: https://rwth-aachen.de/
+            logo: rwth_aachen_university.svg
+            description: RWTH Aachen University or Rheinisch-Westfälische Technische Hochschule Aachen is a research university located in Aachen, North Rhine-Westphalia, Germany.
+            crunchbase: https://www.crunchbase.com/organization/rwth-aachen-university
+            twitter: https://twitter.com/IGaD_RWTH
+            extra:
+              linkedin_url: https://www.linkedin.com/company/werkzeugmaschinenlabor-wzl-der-rwth-aachen
+          - item:
+            name: SBA Research (member)
+            homepage_url: https://sba-research.org/
+            logo: sba_research.svg
+            description: SBA Research is a leading research center in Austria that specializes in Information Security, providing advanced research and consulting services in the field of IT security.
+            organization:
+              name: SBA Research
+              linkedin: https://www.linkedin.com/company/secure-business-austria
+            extra:
+              linkedin_url: https://www.linkedin.com/company/secure-business-austria
+          - item:
+            name: schrodinger hat (member)
+            homepage_url: https://schrodinger-hat.it/
+            logo: schrodinger_hat.svg
+            description: Schrödinger Hat é una community opensource, un podcast,live streaming e molto altro!
+            twitter: https://twitter.com/schrodinger_hat
+            organization:
+              name: schrodinger hat
+              linkedin: https://www.linkedin.com/company/schrodinger-hat
+            extra:
+              linkedin_url: https://www.linkedin.com/company/schrodinger-hat
+          - item:
+            name: SCION Association (member)
+            homepage_url: https://scion.org/
+            logo: scion_association.svg
+            description: SCION Association is a non-profit organization that is building a secure and reliable Internet architecture called SCION. They enable highly available, trustworthy, transparent, efficient, and affordable communication, promoting reliable and secure tra...
+            organization:
+              name: SCION Association
+              linkedin: https://www.linkedin.com/company/scion-association
+            extra:
+              linkedin_url: https://www.linkedin.com/company/scion-association
+          - item:
+            name: Secure Identity Alliance (member)
+            homepage_url: https://secureidentityalliance.org/
+            logo: secure_identity_alliance.svg
+            description: Supporting the provision of legal, trusted identity for all. Driving the development of inclusive digital identity services necessary for sustainable, worldwide economic growth and prosperity.
+            twitter: https://twitter.com/SecureIdentity1
+            organization:
+              name: Secure Identity Alliance
+              linkedin: https://www.linkedin.com/company/secure-identity-alliance
+            extra:
+              linkedin_url: https://www.linkedin.com/company/secure-identity-alliance
+          - item:
+            name: SUNET (member)
+            homepage_url: https://sunet.se/
+            logo: sunet.svg
+            description: Sunet.se provides a wide range of technology products and services, including network infrastructure, cybersecurity solutions, cloud computing, and digital collaboration tools. Their offerings are designed for businesses and organizations of all sizes,...
+            crunchbase: https://www.crunchbase.com/organization/sunet
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sunet
+          - item:
+            name: The Digital Dollar Project (member)
+            homepage_url: https://digitaldollarproject.org/
+            logo: the_digital_dollar_project.svg
+            description: |-
+              Digital Dollar Project
+                LEADING THE DISCUSSION ON A U.S. CENTRAL BANK DIGITAL CURRENCY
+                The Digital Dollar Project is a partnership between Accenture (NYSE: ACN) and the Digital Dollar Foundation to advance exploration of
+            twitter: https://twitter.com/Digital_Dollar_
+            organization:
+              name: The Digital Dollar Project
+              linkedin: https://www.linkedin.com/company/the-digital-dollar-project
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-digital-dollar-project
+          - item:
+            name: The Institute for Ethical AI & Machine Learning (member)
+            homepage_url: https://ethical.institute/
+            logo: the_institute_for_ethical_ai_machine_learning.svg
+            description: The Institute for Ethical AI & Machine Learning is a UK based thinktank that brings togethers technologists, academics and policy-makers to develop industry frameworks around data governance and machine learning.
+            twitter: https://twitter.com/EthicalML
+            organization:
+              name: The Institute for Ethical AI & Machine Learning
+              linkedin: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
+          - item:
+            name: The Mee Foundation (member)
+            homepage_url: https://mee.foundation/
+            logo: the_mee_foundation.svg
+            organization:
+              name: The Mee Foundation
+          - item:
+            name: The Mifos Initiative (member)
+            homepage_url: https://mifos.org/
+            logo: the_mifos_initiative.svg
+            description: The Mifos Initiative is a US-based non-profit that exists to support and collectively lead the open source Mifos X project.
+            crunchbase: https://www.crunchbase.com/organization/mifos-initiative
+            twitter: https://twitter.com/mifos
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mifos
+          - item:
+            name: TNO, the Netherlands Organisation for Applied Scientific Research (member)
+            homepage_url: https://tno.nl/
+            logo: tno_the_netherlands_organisation_for_applied_scientific_research.svg
+            description: TNO connects people and knowledge to create innovations that boost the competitive strength of industry and the well-being of society in a sustainable way.
+            crunchbase: https://www.crunchbase.com/organization/tno
+            twitter: https://twitter.com/TNO_nieuws
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tno
+          - item:
+            name: Universitat Rovira i Virgili (member)
+            homepage_url: https://urv.cat/
+            logo: universitat_rovira_i_virgili.svg
+            description: 'Aquest és el punt de trobada al Facebook de tota la comunitat URV: estudiants, alumni, PAS, PDI, entitats i administracions públiques del territori...'
+            crunchbase: https://www.crunchbase.com/organization/universitat-rovira-i-virgili
+            twitter: https://twitter.com/universitatURV
+            extra:
+              linkedin_url: https://www.linkedin.com/company/universitaturv
+          - item:
+            name: University of Patras (member)
+            homepage_url: https://upatras.gr/
+            logo: university_of_patras.svg
+            description: University of Patras is a public university in Patras, Greece.
+            crunchbase: https://www.crunchbase.com/organization/university-of-patras
+            twitter: https://twitter.com/upatras
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-patras
+  - category:
+    name: Linux Foundation Europe Projects
+    subcategories:
+      - subcategory:
+        name: All
+        items:
+          - item:
+            name: Carbyne Stack
+            homepage_url: https://carbynestack.io/
+            logo: carbyne_stack.svg
+            description: The mission of the Carbyne Stack project is to enable secure collaborative computing on encrypted data by leveraging Secure Multiparty Computation (MPC). Its primary goal is to facilitate safe and private data processing without the need for a trusted third party, ensuring end-to-end encryption during data transit, storage, and usage. The platform federates cloud instances into virtual clouds, offering distributed and decentralized services for storing and processing secret-shared data.
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/carbynestack/carbynestack
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-28'
+              annotations:
+                slug: carbyne-stack
+                project_org: https://github.com/carbynestack
+              dev_stats_url: https://insights.linuxfoundation.org/project/carbyne-stack
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/carbyne-stack
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfR9dVEbC2rEebcv6s
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/carbyne-stack/carbyne-stack_Charter.pdf?v=1746547408055
+            additional_repos: []
+          - item:
+            name: NeoNephos Foundation
+            homepage_url: https://neonephos.org/
+            logo: neonephos_foundation.svg
+            description: 'TODO: SAP aims to transfer Open Reference Architecture (ORA) to LF Europe and bring in other projects.'
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / Cloud, Containers & Virtualization
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-31'
+              annotations:
+                slug: neonephos-foundation
+              dev_stats_url: https://insights.linuxfoundation.org/project/neonephos-foundation
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/neonephos-foundation
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGnr1MCq2lbKUf6f7
+          - item:
+            name: OpenWallet Foundation
+            homepage_url: https://openwallet.foundation/
+            logo: openwallet_foundation.svg
+            description: 'The mission of the OpenWallet Foundation is to develop a secure, multi-purpose engine anyone can use to build interoperable wallets. '
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / Web & Application Development
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-02-23'
+              annotations:
+                slug: openwalletfoundation
+              dev_stats_url: https://insights.linuxfoundation.org/project/openwalletfoundation
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openwalletfoundation
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18DzQAJ
+          - item:
+            name: RISE Project
+            homepage_url: https://riseproject.dev/
+            logo: rise_project.svg
+            description: The purpose of the RISE Project is to raise, budget, and spend funds in support of the broader RISC-V software ecosystem, including but not limited to implementing draft or final standards adopted or approved  by RISC-V International.
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / IoT & Embedded
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            twitter: https://twitter.com/RISE_RISCV
+            extra:
+              accepted: '2023-04-07'
+              annotations:
+                slug: open-software-development-initiative-for-risc-v-ecosystem
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-software-development-initiative-for-risc-v-ecosystem
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-software-development-initiative-for-risc-v-ecosystem
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NW8mNQAT
+              linkedin_url: https://www.linkedin.com/company/risc-v-software-ecosystem-rise/
+          - item:
+            name: Servo Project
+            homepage_url: https://servo.org/
+            logo: servo_project.svg
+            description: |-
+              The mission of the Project is to provide an independent, modular, embeddable web engine, which allows developers to deliver content and applications using web standards.
+
+              NOTE:  Servo Project was originally set up as a Series LLC (and under the Servo Project Fund).  Both of those were archived on June 15, 2023 and Servo Project was transitioned to being a LF Europe Project with technical charter set at https://github.com/servo/project/blob/main/governance/CHARTER.md.
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Industry / Cross-Industry
+              - Technology Sector / Web & Application Development
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2020-09-15'
+              annotations:
+                slug: servo-llc
+              dev_stats_url: https://insights.linuxfoundation.org/project/servo-llc
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/servo-llc
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkZR0QAN
+                - name: Charter
+                  url: https://github.com/servo/project/blob/main/governance/CHARTER.md
+          - item:
+            name: Sylva Fund
+            homepage_url: https://sylvaproject.org/
+            logo: sylva_fund.svg
+            description: 'To release a cloud software framework tailored for telco and edge requirements that addresses the technical challenges of the infrastructure layer of this ecosystem. To develop a reference implementation of the cloud software framework and create a validation program for such implementations with Europe Requirements. '
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / Networking & Edge
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            twitter: https://twitter.com/ProjectSylva
+            extra:
+              accepted: '2023-06-30'
+              annotations:
+                slug: egate
+              dev_stats_url: https://insights.linuxfoundation.org/project/egate
+              facebook_url: https://www.facebook.com/61550958317469/
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/egate
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KjOrfQAF
+              linkedin_url: https://www.linkedin.com/showcase/project-sylva/

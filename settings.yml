@@ -1,0 +1,96 @@
+# yaml-language-server: $schema=https://cncf.github.io/landscape2/config/schema/settings.schema.json
+
+# Landscape2 settings
+#
+# This settings file allows customizing some aspects of the landscape.
+
+foundation: The Linux Foundation Europe
+
+url: https://landscape.linuxfoundation.eu
+
+analytics:
+  gtm:                            # Google Tag Manager configuration
+    container_id: GTM-T2H43QQ     # Landscape web application container ID
+
+categories:
+  - name: Linux Foundation Europe Members
+    subcategories:
+      - Platinum
+      - Gold
+      - Silver
+      - Associate
+
+colors:
+  color1: "rgba(0, 55, 120, 1)"
+  color2: "rgba(214, 34, 147, 1)"
+  color3: "rgba(0, 55, 120, 1)"
+  color4: "rgba(0, 55, 120, 0.8)"
+  color5: "rgba(0, 148, 255, 0.9)"
+  color6: "rgba(0, 55, 120, 0.7)"
+  color7: "rgb(235, 247, 255, 1)"
+
+# Description (optional)
+#
+# Text describing the landscape. Aim for ~150 characters so search engines may
+# use this content as the site's description in results pages.
+#
+# description: <LANDSCAPE_DESCRIPTION>
+#
+
+
+featured_items:
+  - field: subcategory
+    options:
+      - value: Platinum
+      - value: Gold
+
+footer:
+  links:
+    discord: "https://discord.gg/Yb42EYuYNE"
+    homepage: "https://www.linuxfoundation.eu"
+    linkedin: "https://www.linkedin.com/showcase/linux-foundation-europe"
+    twitter: "https://twitter.com/LF_Europe"
+  logo: "images/LF-Europe-logo-white.svg"
+  text: |
+    Copyright © The Linux Foundation Europe. All rights reserved. [View Policies](https://linuxfoundation.eu/en/policies)
+
+grid_items_size: small
+
+groups:
+  - name: Members
+    categories:
+      - Linux Foundation Europe Members
+  - name: Projects
+    categories:
+      - Linux Foundation Europe Projects
+
+header:
+  links:
+    github: "https://github.com/jmertic/lf-landscape"
+  logo: "images/LF-Europe-logo-color.svg"
+
+images:
+  favicon: "https://cncf.github.io/landscape2-sites/lf/favicon.png"
+  open_graph: "https://cncf.github.io/landscape2-sites/lf/favicon.png"
+
+members_category: Linux Foundation Europe Members
+
+osano:
+  customer_id: 16A0DbT9yDNIaQkvZ
+  customer_configuration_id: af2b9f1f-3ac7-4a18-a99a-e487d04f08e6
+
+screenshot_width: 3000
+
+# Upcoming event (optional)
+#
+# This section allows configuring an upcoming event that will be featured on
+# the landscape web application. Expired events won't be displayed.
+#
+# upcoming_event:
+#   name: <NAME>         # Event name (required)
+#   start: <START_DATE>  # Start date: (required, format: YYYY-MM-DD)
+#   end: <END_DATE>      # End date: (required, format: YYYY-MM-DD)
+#   banner_url: <URL>    # Event banner image url (required, recommended dimensions: 2400x300)
+#   details_url: <URL>   # Event details URL (required)
+#
+
