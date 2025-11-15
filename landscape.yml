@@ -290,9 +290,7 @@ landscape:
             homepage_url: https://auspayplus.com.au/
             logo: australian_payment_plus.svg
             description: Australian Payment Plus (AP+) revolutionizes payments in Australia by integrating BPAY Group, eftpos, and NPP Australia to create more efficient and accessible payment experiences for all stakeholders.
-            organization:
-              name: Australian Payment Plus
-              linkedin: https://www.linkedin.com/company/australian-payments-plus
+            crunchbase: https://www.crunchbase.com/organization/australian-payments-plus
             extra:
               linkedin_url: https://www.linkedin.com/company/australian-payments-plus
           - item:
