@@ -1995,21 +1995,24 @@ landscape:
             name: NeoNephos Foundation
             homepage_url: https://neonephos.org/
             logo: neonephos_foundation.svg
-            description: 'TODO: SAP aims to transfer Open Reference Architecture (ORA) to LF Europe and bring in other projects.'
+            description: NeoNephos, part of Linux Foundation Europe, provides a sustainable, shared development model for projects of the cloud-edge continuum and offers collaborative potential for higher adoption. By being open to hosting projects from other industry players and the community at large, the foundation provides a nurturing environment for any project sharing the goal of a sovereign, open, enterprise-hardened, multi provider cloud-to-edge continuum.
             second_path:
               - Project Group / Linux Foundation Europe
               - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/neonephos/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-31'
               annotations:
                 slug: neonephos-foundation
+                project_org: https://github.com/neonephos
               dev_stats_url: https://insights.linuxfoundation.org/project/neonephos-foundation
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/neonephos-foundation
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGnr1MCq2lbKUf6f7
+            additional_repos: []
           - item:
             name: OpenWallet Foundation
             homepage_url: https://openwallet.foundation/
