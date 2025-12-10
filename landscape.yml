@@ -1715,17 +1715,6 @@ landscape:
             description: The Institute of Software, Chinese Academy of Sciences (ISCAS) is a research base that focuses on the research and development on theories of computer science and leading edge technologies of software.
             crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
           - item:
-            name: Interledger Foundation (member)
-            homepage_url: https://interledger.org/
-            logo: interledger_foundation.svg
-            description: The protocol for connecting blockchains and other ledgers
-            twitter: https://twitter.com/Interledger
-            organization:
-              name: Interledger Foundation
-              linkedin: https://www.linkedin.com/company/interledger-foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/interledger-foundation
-          - item:
             name: IoTAC_H2020 (member)
             homepage_url: https://iotac.eu/
             logo: iotac_h2020.svg
