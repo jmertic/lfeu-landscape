@@ -1423,6 +1423,7 @@ landscape:
             name: Beijing Institute of Open  Source Chip (member)
             homepage_url: https://bosc.ac.cn/
             logo: beijing_institute_of_open_source_chip.svg
+            description: .
             organization:
               name: Beijing Institute of Open  Source Chip
           - item:
