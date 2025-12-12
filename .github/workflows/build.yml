@@ -15,7 +15,7 @@ jobs:
           egress-policy: audit
       - uses: jmertic/lfx-landscape-tools@main
         with:
-          project_processing: rebuild
+          project_processing: lfeu
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}

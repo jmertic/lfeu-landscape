@@ -1,5 +1,8 @@
 landscape:
   - category:
+    name: Project Group
+    subcategories: []
+  - category:
     name: Linux Foundation Europe Members
     subcategories:
       - subcategory:
@@ -1969,6 +1972,26 @@ landscape:
         name: All
         items:
           - item:
+            name: ACA-Py
+            homepage_url: https://github.com/orgs/openwallet-foundation
+            logo: aca_py.svg
+            description: ACA-Py (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. ACA-Py enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/orgs/openwallet-foundation
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-27'
+              annotations:
+                slug: owf-aca-py
+              dev_stats_url: https://insights.linuxfoundation.org/project/owf-aca-py
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-aca-py
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0DmMTjlf1WtxauK7
+          - item:
             name: Carbyne Stack
             homepage_url: https://carbynestack.io/
             logo: carbyne_stack.svg
@@ -1993,6 +2016,364 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/carbyne-stack/carbyne-stack_Charter.pdf?v=1746547408055
             additional_repos: []
           - item:
+            name: CobaltCore
+            homepage_url: https://github.com/cobaltcore-dev
+            logo: cobaltcore.svg
+            description: The mission of the Project is to provide a reimagined, opinionated, and Kubernetes enabled OpenStack distribution, fully embedded with other cloud components.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/cobaltcore-dev/gardenlinux
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-11-18'
+              annotations:
+                slug: cobaltcore
+                project_org: https://github.com/cobaltcore-dev
+              dev_stats_url: https://insights.linuxfoundation.org/project/cobaltcore
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cobaltcore
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf66V8CCBTijsFZ7AI
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cobaltcore/cobaltcore_Charter.pdf?v=1763511319012
+            additional_repos:
+              - repo_url: https://github.com/cobaltcore-dev/cortex
+              - repo_url: https://github.com/cobaltcore-dev/steering
+              - repo_url: https://github.com/cobaltcore-dev/aurora-dashboard
+          - item:
+            name: Credo
+            homepage_url: https://credo.js.org/
+            logo: credo.svg
+            description: The mission of the Project is to make verifiable credential technology accessible to any developer by creating a robust ecosystem of interoperable JavaScript/TypeScript libraries.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/openwallet-foundation/credo-ts
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-08-19'
+              annotations:
+                slug: credo
+              dev_stats_url: https://insights.linuxfoundation.org/project/credo
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/credo
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfgDQVxG6aTebOZJav
+          - item:
+            name: CUPID (Controllable Unit Protocol Interface for DER)
+            homepage_url: https://github.com/Horizont-Europe-Interstore
+            logo: cupid_controllable_unit_protocol_interface_for_der.svg
+            description: Open source project that promotes interoperability and standardization for distributed energy system communication, primarily through the implementation of the IEEE 2030.5 standard
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/Horizont-Europe-Interstore/Data-Space-Connector-Fiware-Data-App
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-19'
+              annotations:
+                slug: cupid
+                project_org: https://github.com/Horizont-Europe-Interstore
+              dev_stats_url: https://insights.linuxfoundation.org/project/cupid
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cupid
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwN2bdbqmNgG2TtYc
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cupid/cupid_Charter.pdf?v=1747610679443
+            additional_repos: []
+          - item:
+            name: DIDComm Mediator Service
+            homepage_url: https://github.com/openwallet-foundation/didcomm-mediator-service
+            logo: didcomm_mediator_service.svg
+            description: The DIDComm Mediator Service supports mobile DIDComm agents as a reliable intermediary providing an addressable HTTP endpoint for secure message routing. This enables mobile agents with intermittent connectivity to receive messages from enterprise or other agents through a trusted, decentralized communication channel. In leveraging DIDComm, the service ensures end-to-end encrypted, verifiable message delivery, allowing enterprises to send notifications and initiate interactions with mobile users in a secure and trusted manner.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation/didcomm-mediator-service
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-11'
+              annotations:
+                slug: owf-didcomm-mediator-service
+              dev_stats_url: https://insights.linuxfoundation.org/project/owf-didcomm-mediator-service
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-didcomm-mediator-service
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJNysYDPtFsnyplp7
+          - item:
+            name: EHR Wallet
+            homepage_url: https://github.com/openwallet-foundation-labs/ehr-wallet
+            logo: ehr_wallet.svg
+            description: EHR Wallet is an innovative blockchain-powered healthcare information solution designed to empower patients with full control over their medical data while streamlining healthcare provider workflows. The platform enables secure sharing of medical records, imaging data, and patient information using decentralized web3 technologies.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/openwallet-foundation-labs/ehr-wallet
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-09-09'
+              annotations:
+                slug: ehr-wallet
+              dev_stats_url: https://insights.linuxfoundation.org/project/ehr-wallet
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ehr-wallet
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfza6zO9ScakgMfOj5
+          - item:
+            name: EUDIPLO
+            homepage_url: https://github.com/openwallet-foundation-labs/eudiplo
+            logo: eudiplo.svg
+            description: |-
+              Organizations joining the EUDI Wallet ecosystem face a tough choice: patch together protocol libraries that may not exist for their stack, or rely on proprietary solutions that risk vendor lock-in.
+
+              EUDIPLO solves this by providing a lightweight, source-available, protocol abstraction layer. It communicates over HTTP and integrates easily with your existing backend stack—so you can focus on your business logic, not cryptographic plumbing.
+
+              It supports all core flows of electronic attribute attestations—issuing, requesting, and even requesting during issuance—and is already compatible with production-grade EUDI Wallets like Animo.
+
+              While still in early development, EUDIPLO is built for production: secure key management, scalable database support, and clean API boundaries.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/openwallet-foundation-labs/eudiplo
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-11'
+              annotations:
+                slug: eudiplo
+              dev_stats_url: https://insights.linuxfoundation.org/project/eudiplo
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/eudiplo
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf7hzLh0zC67Zq0on0
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/eudiplo/eudiplo_Charter.pdf?v=1755100727556
+          - item:
+            name: Farmworker Wallet OS
+            homepage_url: https://tac.openwallet.foundation/projects/fwos/
+            logo: farmworker_wallet_os.svg
+            description: The mission of the Project is to create a framework for exchanging verifiable credentials between nonprofit organizations and community members. This will simplify engagement and enrollment for the services the nonprofits offer. The framework features a mobile wallet engine and cloud wallet engine to facilitate secure digital interactions between connected parties.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Privacy & Security
+              - Technology Sector / Web & Application Development
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-09-06'
+              annotations:
+                slug: farmworker-wallet-os
+              dev_stats_url: https://insights.linuxfoundation.org/project/farmworker-wallet-os
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/farmworker-wallet-os
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwSQGSdSs0LvlCSFy
+          - item:
+            name: Gardener
+            homepage_url: https://gardener.cloud/
+            logo: gardener.svg
+            description: The mission of the Project is to provide homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/gardener/gardener
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-11-18'
+              annotations:
+                slug: gardener
+                project_org: https://github.com/gardener
+              dev_stats_url: https://insights.linuxfoundation.org/project/gardener
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gardener
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6ewSmFRM2jaDYlmB
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/gardener/gardener_Charter.pdf?v=1763510989994
+            additional_repos:
+              - repo_url: https://github.com/gardener/machine-controller-manager
+              - repo_url: https://github.com/gardener/etcd-druid
+              - repo_url: https://github.com/gardener/etcd-backup-restore
+              - repo_url: https://github.com/gardener/dashboard
+              - repo_url: https://github.com/gardener/autoscaler
+          - item:
+            name: Greenhouse
+            homepage_url: https://cloudoperators.github.io/greenhouse/
+            logo: greenhouse.svg
+            description: Greenhouse is a comprehensive platform designed to address the challenges of operating large-scale cloud infrastructures. It offers a holistic dashboard and API to manage various operational aspects efficiently and transparently. Moreover, it enables operations of a globally distributed cloud infrastructure in compliance with industry standards. The platform addresses common operational challenges such as the complexity of tools, fragmentation of configuration, visibility and permission management. Several plugins extend the core platform, providing cloud-native observability, security & compliance tooling and more. These plugins come with sane default configurations and include all necessary components for application-specific needs such as production-proven alerts, playbooks, metric visualization dashboards.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/cloudoperators/greenhouse
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-04-06'
+              annotations:
+                slug: greenhouse
+                project_org: https://github.com/cloudoperators
+              dev_stats_url: https://insights.linuxfoundation.org/project/greenhouse
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/greenhouse
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfOR02rCuEhDDjajJL
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/greenhouse/greenhouse_Charter.pdf?v=1761933677450
+            additional_repos:
+              - repo_url: https://github.com/cloudoperators/greenhouse-extensions
+              - repo_url: https://github.com/cloudoperators/juno
+              - repo_url: https://github.com/cloudoperators/heureka
+              - repo_url: https://github.com/cloudoperators/steering
+          - item:
+            name: Hyperledger Identus
+            homepage_url: https://www.hyperledger.org/projects/identus
+            logo: hyperledger_identus.svg
+            description: The mission of the Project is to provide components to develop decentralized identity solutions that adhere to widely recognized self-sovereign identity (SSI) standards.
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/hyperledger/identus
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-07-18'
+              annotations:
+                slug: identus
+              dev_stats_url: https://insights.linuxfoundation.org/project/identus
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/identus
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfb6Df2qhJRbvNDcT7
+          - item:
+            name: IronCore
+            homepage_url: https://ironcore-dev.github.io/ironcore/
+            logo: ironcore.svg
+            description: IronCore provides the new reference for compounded software layers for inventorying, managing, and maintaining Baremetal using Kubernetes’ cloud-native principles. Kubernetes, originally designed to manage and orchestrate containerized applications and microservices, has significantly expanded its reach through its inherent API extensibility, allowing it to be adapted to a wide range of use cases entirely outside the realm of containers. IronCore takes a modern spin with Kubernetes, offering a single interface for managing resources orchestrated across regions, data centers, and availability zones. All assembled with the identical blueprint, thereby offering unmatched flexibility, scalability, and ease of use. Unlike traditional infrastructure solutions, IronCore delivers a much sought, fresh, next generation approach. As a default, Ceph is modularly provided as a cloud-natively automated, vendor-neutral storage backend for block, shared, and object storage. Furthermore, a disruptive network fabric based on CLOS Topology is included. The software defined network data plane materializes through routed layer 3 only, using an IPv6 overlay, and is grounded on the robust, standard experience of the established internet architecture and technology.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/ironcore-dev/ironcore
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-29'
+              annotations:
+                slug: ironcore
+                project_org: https://github.com/ironcore-dev
+              dev_stats_url: https://insights.linuxfoundation.org/project/ironcore
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ironcore
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdpQVHdB0pX7liH2V
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ironcore/ironcore_Charter.pdf?v=1761932939494
+            additional_repos:
+              - repo_url: https://github.com/ironcore-dev/ironcore-net
+              - repo_url: https://github.com/ironcore-dev/ceph-provider
+              - repo_url: https://github.com/ironcore-dev/libvirt-provider
+              - repo_url: https://github.com/ironcore-dev/dpservice
+              - repo_url: https://github.com/ironcore-dev/metal-operator
+          - item:
+            name: Luigi
+            homepage_url: https://luigi-project.io/
+            logo: luigi.svg
+            description: |-
+              Luigi was first introduced as an open source project in 2018, together with kyma.
+              Key features include:
+              Modular architecture: Breaks down monolithic apps into smaller, manageable UI modules.
+              Extensibility: Easily integrates external UI components.
+              Scalability: Supports distributed development across multiple teams.
+              Technology agnostic: Works with any frontend technology, avoiding vendor lock-in.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/luigi-project/luigi
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-02'
+              annotations:
+                slug: luigi
+                project_org: https://github.com/luigi-project
+              dev_stats_url: https://insights.linuxfoundation.org/project/luigi
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/luigi
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lforSI35bwcB7b0ho1
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/luigi/luigi_Charter.pdf?v=1764684321725
+            additional_repos: []
+          - item:
+            name: mDL Implementation in JavaScript
+            homepage_url: https://github.com/openwallet-foundation-labs/mdl-js
+            logo: mdl_implementation_in_javascript.svg
+            description: The mission of the Project is to develop an implementation of the ISO 18013-5:2021 (mDL) specification in Javascript.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/openwallet-foundation-labs/mdl-js
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-09-10'
+              annotations:
+                slug: mdl-javascript
+              dev_stats_url: https://insights.linuxfoundation.org/project/mdl-javascript
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mdl-javascript
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfKZRogVDFkm2OVskz
+          - item:
+            name: Modules
+            homepage_url: https://github.com/envmodules/modules
+            logo: modules.svg
+            description: The mission of the Project is to enable dynamic shell environment management by users with the goal of simplifying access and use of software stacks and environment configurations.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/envmodules/modules
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-09-04'
+              annotations:
+                slug: environment-modueles
+              dev_stats_url: https://insights.linuxfoundation.org/project/environment-modueles
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/environment-modueles
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfsd7KfeLAVlDDQNHB
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/environment-modueles/environment-modueles_Charter.pdf?v=1757008580735
+          - item:
+            name: Multi-format VC for iOS
+            homepage_url: https://github.com/openwallet-foundation-labs/multiformat-vc-ios
+            logo: multi_format_vc_for_ios.svg
+            description: The mission of the Project is to develop a Pure Swift package for creating Verifiable Credentials (VCs) in multiple formats.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Storage
+            repo_url: https://github.com/openwallet-foundation-labs/multiformat-vc-ios
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-07'
+              annotations:
+                slug: multi-format-vc-for-ios
+              dev_stats_url: https://insights.linuxfoundation.org/project/multi-format-vc-for-ios
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/multi-format-vc-for-ios
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdDpLJWXdO5kJMWz2
+          - item:
             name: NeoNephos Foundation
             homepage_url: https://neonephos.org/
             logo: neonephos_foundation.svg
@@ -2015,6 +2396,111 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGnr1MCq2lbKUf6f7
             additional_repos: []
           - item:
+            name: Open Crypto Broker
+            homepage_url: https://github.com/open-crypto-broker/
+            logo: open_crypto_broker.svg
+            description: |-
+              Open Crypto Broker (OCB) introduces an abstraction layer where cryptographic operations are defined through configurable profiles rather than being hardcoded into applications. Instead of applications handling their own cryptographic functions, they can rely on OCB to manage these tasks. This separation of concerns enables organizations to meet new security requirements, such as compliance with FIPS 140 or the transition to Post-Quantum Cryptography, without needing to modify the underlying applications.
+
+              *** Note - please create under LF Europe
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/open-crypto-broker/crypto-broker-documentation
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-02'
+              annotations:
+                slug: open-crypto-broker
+                project_org: https://github.com/open-crypto-broker
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-crypto-broker
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-crypto-broker
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpSIlrS0guboGTaRG
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-crypto-broker/open-crypto-broker_Charter.pdf?v=1764683894026
+            additional_repos: []
+          - item:
+            name: Open Key Chain Manager (openKCM)
+            homepage_url: https://github.com/openkcm
+            logo: open_key_chain_manager_openkcm.svg
+            description: |-
+              Centralized key management solution to govern customer encryption keys (Level 1 keys), with BYOK (Bring Your Own Key) and HYOK (Hold Your Own Key) capabilities.
+
+              ** Note - create under LF Europe
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openkcm/orbital
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-02'
+              annotations:
+                slug: open-key-chain-manager
+                project_org: https://github.com/openkcm
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-key-chain-manager
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-key-chain-manager
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6RrWwbl31D92u3Jc
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-key-chain-manager/open-key-chain-manager_Charter.pdf?v=1764684098991
+            additional_repos: []
+          - item:
+            name: Open Managed Control Plane (openMCP)
+            homepage_url: https://github.com/openmcp-project
+            logo: open_managed_control_plane_openmcp.svg
+            description: This open source platform provides everything a team needs to orchestrate software in an enterprise environment. Built on top of a secure, enterprise-grade Gardener Kubernetes stack, it connects seamlessly with essential enterprise tools like code repositories, artifactories, identity providers, and auditing systems. Designed for security, compliance, and scalability, the platform integrates Kubernetes-compliant operators and cloud providers while supporting reusable, organization-specific templates and enforceable policies. It empowers engineering teams to move fast without compromising on governance—turning cloud-native complexity into a manageable, traceable, and repeatable system.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/openmcp-project/metrics-operator
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-06-03'
+              annotations:
+                slug: open-managed-control-planes
+                project_org: https://github.com/openmcp-project
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-managed-control-planes
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-managed-control-planes
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0aotN8oncp0sZXSx
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-managed-control-planes/open-managed-control-planes_Charter.pdf?v=1761932500440
+            additional_repos: []
+          - item:
+            name: Open Micro Frontend Platform
+            homepage_url: https://openmfp.org/
+            logo: open_micro_frontend_platform.svg
+            description: Open Micro Frontend Platform realizes the concepts of the Platform Mesh providing a platform foundation including Account Models, Security Services and a Kubernetes Control Plane consumable by API and a Micro Frontend based Portal experience.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/openmfp/openmfp.org
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-29'
+              annotations:
+                slug: open-micro-frontend-platform
+                project_org: https://github.com/openmfp
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-micro-frontend-platform
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-micro-frontend-platform
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJH9to3ssdhCbc0br
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-micro-frontend-platform/open-micro-frontend-platform_Charter.pdf?v=1761933564339
+            additional_repos:
+              - repo_url: https://github.com/openmfp/community
+              - repo_url: https://github.com/openmfp/portal-server-lib
+              - repo_url: https://github.com/openmfp/portal-ui-lib
+          - item:
             name: OpenWallet Foundation
             homepage_url: https://openwallet.foundation/
             logo: openwallet_foundation.svg
@@ -2033,6 +2519,59 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openwalletfoundation
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18DzQAJ
+          - item:
+            name: Platform Mesh
+            homepage_url: https://documentation.apeirora.eu/platform-mesh
+            logo: platform_mesh.svg
+            description: Platform Mesh establishes interoperability between multiple providers by building upon the Kubernetes API and resource model. It enables a standardized concept for Services coming from Managed Service Providers through the Kubernetes API thereby  allowing developers and admins to discover, access, and order services from various sources through their beloved kubectl.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/platform-mesh/kubernetes-graphql-gateway
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-29'
+              annotations:
+                slug: platform-mesh
+                project_org: https://github.com/platform-mesh
+              dev_stats_url: https://insights.linuxfoundation.org/project/platform-mesh
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/platform-mesh
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfSyWalrMmArSAt6Co
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/platform-mesh/platform-mesh_Charter.pdf?v=1761931750006
+            additional_repos: []
+          - item:
+            name: PowSyBL
+            homepage_url: https://powsybl.org/
+            logo: powsybl.svg
+            description: Open source, modular Java library with Python & Julia bindings designed for comprehensive electrical grid modeling, simulation, and visualization, enabling complex power flow, security, and dynamic analyses.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/powsybl/powsybl-starter
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-05-14'
+              annotations:
+                slug: powsybl
+                project_org: https://github.com/powsybl
+              dev_stats_url: https://insights.linuxfoundation.org/project/powsybl
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/powsybl
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDVCEHOD7BbGCdYoI
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/powsybl-lf-europe/powsybl-lf-europe_Charter.pdf?v=1747249821217
+            additional_repos:
+              - repo_url: https://github.com/powsybl/powsybl-core
+              - repo_url: https://github.com/powsybl/powsybl-open-loadflow
+              - repo_url: https://github.com/powsybl/powsybl-diagram
+              - repo_url: https://github.com/powsybl/pypowsybl
+              - repo_url: https://github.com/powsybl/powsybl-open-rao
           - item:
             name: RISE Project
             homepage_url: https://riseproject.dev/
@@ -2054,6 +2593,46 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NW8mNQAT
               linkedin_url: https://www.linkedin.com/company/risc-v-software-ecosystem-rise/
+          - item:
+            name: SD-JWT Javascript Reference Implementation
+            homepage_url: https://tac.openwallet.foundation/projects/sd-jwt-js/
+            logo: sd_jwt_javascript_reference_implementation.svg
+            description: The mission of the Project is to develop a JavaScript reference implementation of SD-JWT.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation-labs/sd-jwt-js
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-07-30'
+              annotations:
+                slug: sd-jwt-javascript
+              dev_stats_url: https://insights.linuxfoundation.org/project/sd-jwt-javascript
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-javascript
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf1y9k3cIl5PqDygcc
+          - item:
+            name: SD-JWT Rust Reference Implementation
+            homepage_url: https://tac.openwallet.foundation/projects/sd-jwt-rust/
+            logo: sd_jwt_rust_reference_implementation.svg
+            description: The mission of the Project is to develop a Rust reference implementation of SD-JWT.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation-labs/sd-jwt-rust
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-07-26'
+              annotations:
+                slug: sd-jwt-rust
+              dev_stats_url: https://insights.linuxfoundation.org/project/sd-jwt-rust
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-rust
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfMbpw44DkWR4mPj2n
           - item:
             name: Servo Project
             homepage_url: https://servo.org/
@@ -2101,3 +2680,115 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KjOrfQAF
               linkedin_url: https://www.linkedin.com/showcase/project-sylva/
+          - item:
+            name: Sylva Project
+            homepage_url: https://gitlab.com/sylva-projects/sylva
+            logo: sylva_project.svg
+            description: To release a cloud software framework tailored for telco and edge requirements that addresses the technical challenges of the infrastructure layer of this ecosystem.  To develop a reference implementation of the cloud software framework and create a validation program for such implementations with Europe Requirements.
+            second_path:
+              - Project Group / Sylva Fund
+              - Technology Sector / Networking & Edge
+            repo_url: https://gitlab.com/sylva-projects/sylva
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2022-11-10'
+              annotations:
+                slug: egatefund
+              dev_stats_url: https://insights.linuxfoundation.org/project/egatefund
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/egatefund
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L16ZLQAZ
+                - name: Charter
+                  url: https://gitlab.com/sylva-projects/sylva/-/blob/main/Project_Sylva_Technical_Charter.pdf
+          - item:
+            name: TRS
+            homepage_url: https://github.com/openwallet-foundation-labs/trs
+            logo: trs.svg
+            description: The TRS addresses the complexity of implementing trust resolver systems on the client side by providing a unified interface for various trust protocols including OpenID Federation, X.509 certificates, did:web and EBSI Trust Chains.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation-labs/trs
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-11'
+              annotations:
+                slug: trs
+              dev_stats_url: https://insights.linuxfoundation.org/project/trs
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/trs
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfptNhnaSv3RRv6qRJ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/trs/trs_Charter.pdf?v=1754942799761
+          - item:
+            name: VC API Implementation
+            homepage_url: https://tac.openwallet.foundation/projects/vc-api/
+            logo: vc_api_implementation.svg
+            description: The VC API is specification for a set of APIs for VC lifecycle management (https://w3c-ccg.github.io/vc-api/). This includes operations such as credential issuance, verification, and exchange. It is a W3C CCG work item and, as of the submission of this proposal, it is in “draft community report” status.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Web & Application Development
+              - Technology Sector / Privacy & Security
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-09-19'
+              annotations:
+                slug: vc-api
+              dev_stats_url: https://insights.linuxfoundation.org/project/vc-api
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vc-api
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZ3CuN7sFILTEEHvc
+          - item:
+            name: VCX
+            homepage_url: https://github.com/openwallet-foundation/vcx
+            logo: vcx.svg
+            description: |-
+              VCX is an open-source codebase that provides a wide suite of Rust modules for building DID & Aries-related applications (client/mobile and server). VCX is designed with a heavily modularized structure (20+ crates in the workspace) such that consumers can pick-and-choose which components they wish to build their DI application with. Currently, some of the significant modules provided by VCX include:
+              * `did_doc`, `did_parser`, `did_resolver` - a set of lightweight libraries which provide well-typed structures and interfaces for DID building, parsing, and resolving. We envision these components becoming defacto libraries for Rust projects involving DIDs.
+              * DID Method Crates - several DID method-specific crates for resolving and managing DIDs (peer, cheqd, web, key, jwk, sov/unqualified).
+              * `aries_vcx_ledger`, `aries_vcx_wallet`, `aries_vcx_anoncreds` - a set of libraries with interfaces for performing ledger, wallet, and anoncred operations involved in Aries protocols. Includes implementations for Indy & Cheqd ledgers (i.e. resolving anoncreds objects), Askar wallets, and anoncreds-rs.
+              * `messages` - well-typed library for building and parsing Aries (DIDComm V1) messages
+              * `aries_vcx` - Implementation of Aries protocol state machines, which provide APIs to step through Aries protocols, utilizing lots of the above-mentioned modules. Currently mostly for AIP1 protocols, but some AIP2 protocols such as DIDExchange/OOB.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation/vcx
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-06'
+              annotations:
+                slug: vcx
+              dev_stats_url: https://insights.linuxfoundation.org/project/vcx
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vcx
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfiVup5FAsVbGqmUQH
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vcx/vcx_Charter.pdf?v=1754514481021
+          - item:
+            name: Wallet Framework for .NET
+            homepage_url: https://tac.openwallet.foundation/projects/wallet-framework-dotnet/
+            logo: wallet_framework_for.svg
+            description: The mission of the Project is to develop a multi-platform wallet framework aligned with EUDI wallet standards, especially the European Digital Identity Wallet Architecture and Reference Framework (ARF).
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Privacy & Security
+              - Technology Sector / Web & Application Development
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-07-30'
+              annotations:
+                slug: wallet-framework-net
+              dev_stats_url: https://insights.linuxfoundation.org/project/wallet-framework-net
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wallet-framework-net
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfb0QURfYl41IBrMJw
