@@ -1434,9 +1434,7 @@ landscape:
             homepage_url: https://belastingdienst.nl/
             logo: belastingdienst.svg
             description: Startpunt voor belastingen, toeslagen en douanezaken. Lees meteen wanneer wij uw toeslag of voorlopige aanslag uitbetalen, kijk hoe u uw rekeningnummer doorgeeft, of vind snel uw onderwerp in het menu of bij de belangrijke thema's.
-            organization:
-              name: Belastingdienst
-              linkedin: https://www.linkedin.com/company/belastingdienst
+            crunchbase: https://www.crunchbase.com/organization/belastingdienst
             extra:
               linkedin_url: https://www.linkedin.com/company/belastingdienst
           - item:
