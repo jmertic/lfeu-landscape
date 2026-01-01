@@ -1552,17 +1552,6 @@ landscape:
             organization:
               name: CSTeachers
           - item:
-            name: Customer Commons (member)
-            homepage_url: https://customercommons.org/
-            logo: customer_commons.svg
-            description: 'California-based nonprofit working to give the world’s customers full power in the marketplace. Founded by @VRM at @BKCHarvard. https://t.co/cJ9bzVltHj #VRM #Me2B'
-            twitter: https://twitter.com/CustomerCommons
-            organization:
-              name: Customer Commons
-              linkedin: https://www.linkedin.com/company/customer-commons
-            extra:
-              linkedin_url: https://www.linkedin.com/company/customer-commons
-          - item:
             name: CZ.NIC, z.s.p.o. (member)
             homepage_url: https://nic.cz/
             logo: cz_nic_z_s_p_o.svg
