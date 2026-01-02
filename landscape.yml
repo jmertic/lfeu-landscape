@@ -289,14 +289,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
-            name: Australian Payment Plus (member)
-            homepage_url: https://auspayplus.com.au/
-            logo: australian_payment_plus.svg
-            description: Australian Payment Plus (AP+) revolutionizes payments in Australia by integrating BPAY Group, eftpos, and NPP Australia to create more efficient and accessible payment experiences for all stakeholders.
-            crunchbase: https://www.crunchbase.com/organization/australian-payments-plus
-            extra:
-              linkedin_url: https://www.linkedin.com/company/australian-payments-plus
-          - item:
             name: Avanade Inc. (member)
             homepage_url: https://avanade.com/
             logo: avanade_inc.svg
@@ -331,15 +323,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/balenaio
           - item:
-            name: BankID BankAxept AS (member)
-            homepage_url: https://bankid.no/
-            logo: bankid_bankaxept_as.svg
-            description: BankID er en personlig og enkel elektronisk legitimasjon for sikker identifisering og signering på nett.
-            crunchbase: https://www.crunchbase.com/organization/bankaxept
-            twitter: https://twitter.com/BankIDNorge
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bankid-bankaxept-as
-          - item:
             name: Beijing ESWIN Computing Technology Co., Ltd. (member)
             homepage_url: https://eswincomputing.com/
             logo: beijing_eswin_computing_technology_co_ltd.svg
@@ -368,6 +351,17 @@ landscape:
             twitter: https://twitter.com/BoschGlobal
             extra:
               linkedin_url: https://www.linkedin.com/company/bosch
+          - item:
+            name: BWI GmbH (member)
+            homepage_url: https://bwi.de/
+            logo: bwi_gmbh.svg
+            description: Wir sorgen für die digitale Zukunftsfähigkeit unseres Landes
+            twitter: https://twitter.com/BWI_IT
+            organization:
+              name: BWI GmbH
+              linkedin: https://www.linkedin.com/company/bwi-gmbh
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bwi-gmbh
           - item:
             name: Calyptia (member)
             homepage_url: https://calyptia.com/
@@ -431,15 +425,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/clyso
           - item:
-            name: Component Soft Kft. (member)
-            homepage_url: https://componentsoft.io/
-            logo: component_soft_kft.svg
-            description: Component Soft is an IT training company dedicated to providing high quality courses and consultation for corporate and governmental customers.
-            crunchbase: https://www.crunchbase.com/organization/component-soft
-            twitter: https://twitter.com/Component_Soft
-            extra:
-              linkedin_url: https://www.linkedin.com/company/component-soft-ltd-
-          - item:
             name: Control-Plane.io (member)
             homepage_url: https://control-plane.io/
             logo: control_plane.svg
@@ -467,15 +452,6 @@ landscape:
             twitter: https://twitter.com/cuegeeit
             extra:
               linkedin_url: https://www.linkedin.com/company/cuegee
-          - item:
-            name: Daimler Truck AG (member)
-            homepage_url: https://daimler-truck.com/
-            logo: daimler_truck_ag.svg
-            description: Information for Daimler Truck AG, on our Trucks und Buses brands, products, innovation, sustainability, career and news.
-            crunchbase: https://www.crunchbase.com/organization/mercedes-benz
-            twitter: https://twitter.com/DaimlerTruck
-            extra:
-              linkedin_url: https://www.linkedin.com/company/daimlertruckag
           - item:
             name: DaoCloud Network Technology Co., Ltd. (member)
             homepage_url: https://daocloud.io/
@@ -627,24 +603,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/foundriesio
           - item:
-            name: Gen Digital (member)
-            homepage_url: https://avast.com/
-            logo: gen_digital.svg
-            description: |-
-              Avast Software sro is a Czech multinational cybersecurity software company headquartered in Prague, Czech Republic that researches and develops computer security software, machine learning and artificial intelligence.
-
-              --- Merged Data:
-
-              Avast Software sro is a Czech multinational cybersecurity software company headquartered in Prague, Czech Republic that researches and develops computer security software, machine learning and artificial intelligence.
-
-              --- Merged Data:
-
-              Avast Software sro is a Czech multinational cybersecurity software company headquartered in Prague, Czech Republic that researches and develops computer security software, machine learning and artificial intelligence.
-            crunchbase: https://www.crunchbase.com/organization/avast
-            twitter: https://twitter.com/Avast
-            extra:
-              linkedin_url: https://www.linkedin.com/company/avast
-          - item:
             name: General Electric Company (member)
             homepage_url: https://ge.com/
             logo: general_electric_company.svg
@@ -747,14 +705,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/intesi-group
             extra:
               linkedin_url: https://www.linkedin.com/company/intesi-group
-          - item:
-            name: IRNAS (member)
-            homepage_url: https://irnas.eu/
-            logo: irnas.svg
-            description: Institute IRNAS Rače
-            twitter: https://twitter.com/institute_irnas
-            organization:
-              name: IRNAS
           - item:
             name: ITQ Consultancy B.V. (member)
             homepage_url: https://itq.eu/
@@ -895,13 +845,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nokianet
           - item:
-            name: NTT Digital, Inc. (member)
-            homepage_url: https://nttdigital.io/#top
-            logo: ntt_digital_inc.svg
-            description: NTT Digital, Inc. is a company focused on utilizing cutting-edge digital technology to improve daily lives and create a brighter future. They offer a range of services in the three web domains and are actively seeking partners to build a new digital so...
-            organization:
-              name: NTT Digital, Inc.
-          - item:
             name: NuNet (member)
             homepage_url: https://nunet.io/
             logo: nunet.svg
@@ -1041,16 +984,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/reevo-4b5e
             extra:
               linkedin_url: https://www.linkedin.com/company/reevo-cloud
-          - item:
-            name: Rivos Inc (member)
-            homepage_url: https://rivosinc.com/
-            logo: rivos_inc.svg
-            description: Rivos, based in Santa Clara and Austin, is an exciting RISC V startup that is targeting to be the first high performance RISC V core.
-            organization:
-              name: Rivos Inc
-              linkedin: https://www.linkedin.com/company/rivos-inc
-            extra:
-              linkedin_url: https://www.linkedin.com/company/rivos-inc
           - item:
             name: RTE (Reseau de Transport dElectricite) (member)
             homepage_url: https://rte-france.com/
@@ -1206,17 +1139,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/spotify
           - item:
-            name: Spruce Systems, Inc. (member)
-            homepage_url: https://spruceid.com/
-            logo: spruce_systems_inc.svg
-            description: We're advancing digital identity while retaining user privacy. Our mission is to create new trusted infrastructure for the world. We build identity solutions with both users and enterprises in-mind.
-            twitter: https://twitter.com/SpruceID
-            organization:
-              name: Spruce Systems, Inc.
-              linkedin: https://www.linkedin.com/company/sprucesystemsinc
-            extra:
-              linkedin_url: https://www.linkedin.com/company/sprucesystemsinc
-          - item:
             name: STACKIT GmbH & Co. KG (member)
             homepage_url: https://stackit.de/
             logo: stackit_gmbh_co.svg
@@ -1305,15 +1227,6 @@ landscape:
             twitter: https://twitter.com/TomTom
             extra:
               linkedin_url: https://www.linkedin.com/company/tomtom
-          - item:
-            name: Ventana Micro Systems (member)
-            homepage_url: https://ventanamicro.com/
-            logo: ventana_micro_systems.svg
-            description: Ventana is the RISC-V Performance leader, delivering platforms, chips and IP for groundbreaking solutions across data center, automotive, client, and AI markets. Our core team includes the pioneers behind the first 64-bit Arm server processor, the X-Gene by Applied Micro. With this proven expertise, we are redefining high-performance computing with the RISC-V architecture.
-            crunchbase: https://www.crunchbase.com/organization/ventana-micro-systems
-            twitter: https://twitter.com/VentanaMicro
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ventana-micro-systems
           - item:
             name: Visa Inc. (member)
             homepage_url: https://visa.com/
@@ -1715,6 +1628,17 @@ landscape:
             logo: institute_of_software_chinese_academy_of_sciences.svg
             description: The Institute of Software, Chinese Academy of Sciences (ISCAS) is a research base that focuses on the research and development on theories of computer science and leading edge technologies of software.
             crunchbase: https://www.crunchbase.com/organization/institute-of-software-chinese-academy-of-sciences
+          - item:
+            name: Interledger Foundation (member)
+            homepage_url: https://interledger.org/
+            logo: interledger_foundation.svg
+            description: The protocol for connecting blockchains and other ledgers
+            twitter: https://twitter.com/Interledger
+            organization:
+              name: Interledger Foundation
+              linkedin: https://www.linkedin.com/company/interledger-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/interledger-foundation
           - item:
             name: IoTAC_H2020 (member)
             homepage_url: https://iotac.eu/
