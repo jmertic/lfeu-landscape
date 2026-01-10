@@ -1901,6 +1901,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/orgs/openwallet-foundation
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-27'
@@ -1921,6 +1922,7 @@ landscape:
               - Project Group / Linux Foundation Europe
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/carbynestack/carbynestack
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-28'
@@ -1945,6 +1947,7 @@ landscape:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/cobaltcore-dev/gardenlinux
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-11-18'
@@ -1972,6 +1975,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Blockchain
             repo_url: https://github.com/openwallet-foundation/credo-ts
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-08-19'
@@ -1992,6 +1996,7 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/Horizont-Europe-Interstore/Data-Space-Connector-Fiware-Data-App
+            license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-19'
@@ -2016,6 +2021,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/openwallet-foundation/didcomm-mediator-service
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-11'
@@ -2036,6 +2042,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Blockchain
             repo_url: https://github.com/openwallet-foundation-labs/ehr-wallet
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-09-09'
@@ -2063,6 +2070,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Blockchain
             repo_url: https://github.com/openwallet-foundation-labs/eudiplo
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-11'
@@ -2085,6 +2093,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Privacy & Security
               - Technology Sector / Web & Application Development
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-09-06'
@@ -2105,6 +2114,7 @@ landscape:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/gardener/gardener
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-11-18'
@@ -2134,6 +2144,7 @@ landscape:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/cloudoperators/greenhouse
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-04-06'
@@ -2162,6 +2173,7 @@ landscape:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
             repo_url: https://github.com/hyperledger/identus
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-07-18'
@@ -2182,6 +2194,7 @@ landscape:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/ironcore-dev/ironcore
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-29'
@@ -2217,6 +2230,7 @@ landscape:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/luigi-project/luigi
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-12-02'
@@ -2241,6 +2255,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Blockchain
             repo_url: https://github.com/openwallet-foundation-labs/mdl-js
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-09-10'
@@ -2261,6 +2276,7 @@ landscape:
               - Project Group / High Performance Software Foundation (HPSF)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/envmodules/modules
+            license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-09-04'
@@ -2283,6 +2299,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Storage
             repo_url: https://github.com/openwallet-foundation-labs/multiformat-vc-ios
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-07'
@@ -2303,6 +2320,7 @@ landscape:
               - Project Group / Linux Foundation Europe
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/neonephos/community
+            license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-31'
@@ -2328,6 +2346,7 @@ landscape:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/open-crypto-broker/crypto-broker-documentation
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-12-02'
@@ -2355,6 +2374,7 @@ landscape:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/openkcm/orbital
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-12-02'
@@ -2379,6 +2399,7 @@ landscape:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/openmcp-project/metrics-operator
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-06-03'
@@ -2403,6 +2424,7 @@ landscape:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/openmfp/openmfp.org
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-29'
@@ -2448,7 +2470,8 @@ landscape:
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/platform-mesh/kubernetes-graphql-gateway
+            repo_url: https://github.com/platform-mesh/helm-charts
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-29'
@@ -2472,7 +2495,8 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/powsybl/powsybl-starter
+            repo_url: https://github.com/powsybl/powsybl-core
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-05-14'
@@ -2488,11 +2512,11 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/powsybl-lf-europe/powsybl-lf-europe_Charter.pdf?v=1747249821217
             additional_repos:
-              - repo_url: https://github.com/powsybl/powsybl-core
               - repo_url: https://github.com/powsybl/powsybl-open-loadflow
               - repo_url: https://github.com/powsybl/powsybl-diagram
               - repo_url: https://github.com/powsybl/pypowsybl
               - repo_url: https://github.com/powsybl/powsybl-open-rao
+              - repo_url: https://github.com/powsybl/powsybl-starter
           - item:
             name: RISE Project
             homepage_url: https://riseproject.dev/
@@ -2501,6 +2525,7 @@ landscape:
             second_path:
               - Project Group / Linux Foundation Europe
               - Technology Sector / IoT & Embedded
+            license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/RISE_RISCV
             extra:
@@ -2523,6 +2548,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/openwallet-foundation-labs/sd-jwt-js
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-07-30'
@@ -2543,6 +2569,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/openwallet-foundation-labs/sd-jwt-rust
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-07-26'
@@ -2566,6 +2593,7 @@ landscape:
               - Project Group / Linux Foundation Europe
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
+            license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-15'
@@ -2632,6 +2660,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/openwallet-foundation-labs/trs
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-11'
@@ -2654,6 +2683,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Web & Application Development
               - Technology Sector / Privacy & Security
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-09-19'
@@ -2680,6 +2710,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/openwallet-foundation/vcx
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-06'
@@ -2702,6 +2733,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Privacy & Security
               - Technology Sector / Web & Application Development
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-07-30'
