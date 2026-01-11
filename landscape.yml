@@ -2470,7 +2470,7 @@ landscape:
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/platform-mesh/helm-charts
+            repo_url: https://github.com/platform-mesh/kubernetes-graphql-gateway
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
