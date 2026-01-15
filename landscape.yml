@@ -289,22 +289,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
-            name: Avanade Inc. (member)
-            homepage_url: https://avanade.com/
-            logo: avanade_inc.svg
-            description: |-
-              Avanade is the leading provider of innovative digital, cloud and advisory services, industry solutions and design-led experiences across the Microsoft ecosystem. Every day, our 60,000 professionals in 26 countries make a genuine human impact for our clients, their employees and their customers.​
-
-              ​We have been recognized, together with our parent Accenture, as Microsoft’s Global SI Partner of the Year more than any other company. With the most Microsoft certifications (60,000+) and 18 (out of 18) Gold-level Microsoft competencies, we are uniquely positioned to help businesses grow and solve their toughest challenges.​
-
-              ​We are a people first company, committed to providing an inclusive workplace where employees feel comfortable being their authentic selves. As a responsible business, we are building a sustainable world and helping young people from underrepresented communities fulfill their potential.​
-
-              ​Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation. Learn more at www.avanade.com.
-            crunchbase: https://www.crunchbase.com/organization/avanade
-            twitter: https://twitter.com/Avanade
-            extra:
-              linkedin_url: https://www.linkedin.com/company/avanade
-          - item:
             name: AXA Group (member)
             homepage_url: https://axa.com/
             logo: axa_group.svg
