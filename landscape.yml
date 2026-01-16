@@ -1898,6 +1898,34 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0DmMTjlf1WtxauK7
           - item:
+            name: AINETUS
+            homepage_url: https://ai4realnet.eu/
+            logo: ainetus.svg
+            description: |-
+              AI algorithms mainly composed by supervised and reinforcement learning. Unifying the benefits of existing heuristics, physical modelling of these complex systems and learning methods, as well as a set of complementary techniques to enhance transparency, safety, explainability and human acceptance. 
+              Human-in-the-loop decision making for co-learning between AI and humans. Considering integration of model uncertainty, human cognitive load and trust.
+              Autonomous AI systems relying on human supervision.
+              Embedded with human domain knowledge and Safety rules.
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Safety-Critical Systems
+            repo_url: https://ai4realnet.github.io/
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-01-06'
+              annotations:
+                slug: ainetus
+              dev_stats_url: https://insights.linuxfoundation.org/project/ainetus
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ainetus
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfeNXPuYxVK2CRNwbZ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ainetus/ainetus_Charter.pdf?v=1768513274785
+          - item:
             name: Carbyne Stack
             homepage_url: https://carbynestack.io/
             logo: carbyne_stack.svg
