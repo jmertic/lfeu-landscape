@@ -1684,21 +1684,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/mydex-cic
           - item:
+            name: OpenAtom openEuler (member)
+            homepage_url: https://openeuler.sh/
+            logo: openatom_openeuler.svg
+            description: OpenEuler is a reliable open source operating system that unleashes diversified computing power for a sustainable future.
+            organization:
+              name: OpenAtom openEuler
+          - item:
             name: Open Energy Transition (member)
             homepage_url: https://openenergytransition.org/
             logo: open_energy_transition.svg
             organization:
               name: Open Energy Transition
-          - item:
-            name: openEuler (member)
-            homepage_url: https://openeuler.org/
-            logo: openeuler.svg
-            description: OpenEuler is a reliable open source operating system that unleashes diversified computing power for a sustainable future.
-            organization:
-              name: openEuler
-              linkedin: https://www.linkedin.com/company/openeuler
-            extra:
-              linkedin_url: https://www.linkedin.com/company/openeuler
           - item:
             name: OpenForum Europe (member)
             homepage_url: https://openforumeurope.org/
