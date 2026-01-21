@@ -1896,7 +1896,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0DmMTjlf1WtxauK7
           - item:
             name: AINETUS
-            homepage_url: https://ai4realnet.eu/
+            homepage_url: https://ainetus.energy/
             logo: ainetus.svg
             description: |-
               AI algorithms mainly composed by supervised and reinforcement learning. Unifying the benefits of existing heuristics, physical modelling of these complex systems and learning methods, as well as a set of complementary techniques to enhance transparency, safety, explainability and human acceptance. 
@@ -1904,10 +1904,9 @@ landscape:
               Autonomous AI systems relying on human supervision.
               Embedded with human domain knowledge and Safety rules.
             second_path:
-              - Project Group / Linux Foundation Europe
+              - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://ai4realnet.github.io/
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
