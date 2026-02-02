@@ -1028,6 +1028,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sernet-gmbh
           - item:
+            name: Several Clouds Ltd (member)
+            homepage_url: https://severalclouds.com/
+            logo: several_clouds_ltd.svg
+            description: Several Clouds provide Cloud and DevOps professional services and staff augmentation. We specialize in building secure and compliant cloud environments.
+            organization:
+              name: Several Clouds Ltd
+          - item:
             name: SiFive (member)
             homepage_url: https://sifive.com/
             logo: sifive.svg
@@ -1211,6 +1218,15 @@ landscape:
             twitter: https://twitter.com/TomTom
             extra:
               linkedin_url: https://www.linkedin.com/company/tomtom
+          - item:
+            name: Uber Technologies Inc. (member)
+            homepage_url: https://uber.com/
+            logo: uber_technologies_inc.svg
+            description: Uber Technologies, Inc. provides a smartphone application that connects drivers with people who need a ride. The company's application enables users to arrange and schedule transportation and/or logistics services with third party providers. Uber Technologies serves customers in North, Central, and South Americas, as well as Europe, the Middle East, Africa, and the Asia Pacific. The company has a strategic partnership with Alexandria Real Estate Equities, Inc. Uber Technologies, Inc. was formerly known as UberCab Inc. and changed its name to Uber Technologies, Inc. in October 2010. The company was founded in 2009 and is based in San Francisco, California.
+            crunchbase: https://www.crunchbase.com/organization/uber
+            twitter: https://twitter.com/Uber
+            extra:
+              linkedin_url: https://www.linkedin.com/company/uber.com
           - item:
             name: Visa Inc. (member)
             homepage_url: https://visa.com/
