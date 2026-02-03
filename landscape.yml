@@ -1866,6 +1866,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tno
           - item:
+            name: Trifecta Tech Foundation (member)
+            homepage_url: https://trifectatech.org/
+            logo: trifecta_tech_foundation.svg
+            organization:
+              name: Trifecta Tech Foundation
+          - item:
             name: Universitat Rovira i Virgili (member)
             homepage_url: https://urv.cat/
             logo: universitat_rovira_i_virgili.svg
