@@ -80,15 +80,6 @@ landscape:
         name: Gold
         items:
           - item:
-            name: Cardano Foundation (member)
-            homepage_url: https://cardanofoundation.org/
-            logo: cardano_foundation.svg
-            description: Cardano Foundation is a not-for-profit a blockchain and cryptocurrency organisation based in Zug, Switzerland
-            crunchbase: https://www.crunchbase.com/organization/cardano-foundation
-            twitter: https://twitter.com/Cardano_CF
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cardano-foundation
-          - item:
             name: Cisco Systems, Inc. (member)
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
