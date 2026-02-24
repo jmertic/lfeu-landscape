@@ -2291,7 +2291,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfKZRogVDFkm2OVskz
           - item:
             name: Modules
-            homepage_url: https://github.com/envmodules/modules
+            homepage_url: https://www.envmodules.io/
             logo: modules.svg
             description: The mission of the Project is to enable dynamic shell environment management by users with the goal of simplifying access and use of software stacks and environment configurations.
             second_path:
