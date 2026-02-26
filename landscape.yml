@@ -1002,6 +1002,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/savoir-faire-linux
           - item:
+            name: Schwarz Digits Cloud GmbH & Co. KG (member)
+            homepage_url: https://stackit.de/
+            logo: schwarz_digits_cloud_gmbh_co.svg
+            description: Für komplexe IT-Infrastrukturen und skalierbare Cloud-Lösungen ist STACKIT Ihr perfekter Partner. Unsere IaaS & PaaS Services erfüllen dabei zu 100% europäische DSGVO-Datenschutzstandards! Jetzt Beta-Version testen!
+            twitter: https://twitter.com/stackitcloud
+            organization:
+              name: Schwarz Digits Cloud GmbH & Co. KG
+              linkedin: https://www.linkedin.com/company/stackit-colocation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/stackit-colocation
+          - item:
             name: Scott Logic Ltd (member)
             homepage_url: https://scottlogic.com/
             logo: scott_logic_ltd.svg
@@ -1130,17 +1141,6 @@ landscape:
             twitter: https://twitter.com/Spotify
             extra:
               linkedin_url: https://www.linkedin.com/company/spotify
-          - item:
-            name: STACKIT GmbH & Co. KG (member)
-            homepage_url: https://stackit.de/
-            logo: stackit_gmbh_co.svg
-            description: Für komplexe IT-Infrastrukturen und skalierbare Cloud-Lösungen ist STACKIT Ihr perfekter Partner. Unsere IaaS & PaaS Services erfüllen dabei zu 100% europäische DSGVO-Datenschutzstandards! Jetzt Beta-Version testen!
-            twitter: https://twitter.com/stackitcloud
-            organization:
-              name: STACKIT GmbH & Co. KG
-              linkedin: https://www.linkedin.com/company/stackit-colocation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/stackit-colocation
           - item:
             name: STORDIS GmbH (member)
             homepage_url: https://stordis.com/
@@ -2302,11 +2302,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-09-04'
-              dev_stats_url: https://insights.linuxfoundation.org/project/environment-modueles
-              lfx_slug: environment-modueles
+              dev_stats_url: https://insights.linuxfoundation.org/project/environment-modules
+              lfx_slug: environment-modules
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/environment-modueles
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/environment-modules
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfsd7KfeLAVlDDQNHB
                 - name: Charter
