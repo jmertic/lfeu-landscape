@@ -935,15 +935,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/plusserver
           - item:
-            name: PTV Group (member)
-            homepage_url: https://ptvgroup.com/
-            logo: ptv_group.svg
-            description: Wissenschaftliches Know-how gehört zu unseren Stärken. Zielgerichtet und praxisorientiert bewegen wir uns in Projekten. Rund um den Globus arbeiten rund 650 Kolleginnen und Kollegen an leistungsstarken und zukunftsweisenden Lösungen. Unser Hauptsitz be...
-            crunchbase: https://www.crunchbase.com/organization/ptv-group
-            twitter: https://twitter.com/PTVGroup
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ptv
-          - item:
             name: Puzzle ITC GmbH (member)
             homepage_url: https://puzzle.ch/
             logo: puzzle_itc_gmbh.svg
