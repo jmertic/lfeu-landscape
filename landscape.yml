@@ -2080,6 +2080,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ehr-wallet
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfza6zO9ScakgMfOj5
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ehr-wallet/ehr-wallet_Charter.pdf?v=1772578975727
           - item:
             name: EUDIPLO
             homepage_url: https://github.com/openwallet-foundation-labs/eudiplo
@@ -2351,8 +2353,10 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/neonephos-foundation
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGnr1MCq2lbKUf6f7
+              youtube_url: https://www.youtube.com/channel/UCqTJlPfPRAynwpcNI0O7xkw
               annotations:
                 project_org: https://github.com/neonephos
+              linkedin_url: https://www.linkedin.com/company/neonephos-foundation/
             additional_repos: []
           - item:
             name: Open Crypto Broker
