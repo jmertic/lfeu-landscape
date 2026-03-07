@@ -1943,6 +1943,28 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ainetus/ainetus_Charter.pdf?v=1768513274785
           - item:
+            name: Apostille
+            homepage_url: https://github.com/openwallet-foundation-labs/apostille
+            logo: apostille.svg
+            description: Apostille is a comprehensive open-source platform for issuing, managing, and verifying digital credentials built on open standards.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation-labs/apostille
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-06'
+              dev_stats_url: https://insights.linuxfoundation.org/project/apostille
+              lfx_slug: apostille
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/apostille
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfW3zFWz5qCOEuamKU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/apostille/apostille_Charter.pdf?v=1772827090012
+          - item:
             name: Carbyne Stack
             homepage_url: https://carbynestack.io/
             logo: carbyne_stack.svg
