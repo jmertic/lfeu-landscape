@@ -2093,6 +2093,32 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ehr-wallet/ehr-wallet_Charter.pdf?v=1772578975727
           - item:
+            name: ' EnerGNN'
+            homepage_url: https://github.com/energnn
+            logo: energnn.svg
+            description: A Graph Neural Network library for real-life and full-scale energy networks.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/energnn/energnn
+            license: MPL-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/energnn
+              lfx_slug: energnn
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/energnn
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5aEYe6coFhjFY7X4
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/energnn/energnn_Charter.pdf?v=1774890498324
+              annotations:
+                project_org: https://github.com/energnn
+            additional_repos:
+              - repo_url: https://github.com/energnn/pypowsybl-to-energnn
+          - item:
             name: EUDIPLO
             homepage_url: https://github.com/openwallet-foundation-labs/eudiplo
             logo: eudiplo.svg
@@ -2250,6 +2276,28 @@ landscape:
               - repo_url: https://github.com/ironcore-dev/libvirt-provider
               - repo_url: https://github.com/ironcore-dev/dpservice
               - repo_url: https://github.com/ironcore-dev/metal-operator
+          - item:
+            name: Katalis
+            homepage_url: https://github.com/telekom/NeoNephos-Katalis
+            logo: katalis.svg
+            description: develop solutions to bridge Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/telekom/NeoNephos-Katalis
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/katalis
+              lfx_slug: katalis
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/katalis
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfT8I2Rgyq7mrXO2QU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/katalis/katalis_Charter.pdf?v=1774985434219
           - item:
             name: Luigi
             homepage_url: https://luigi-project.io/
