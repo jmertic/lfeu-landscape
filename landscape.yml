@@ -640,17 +640,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/igalia
           - item:
-            name: iLabs Technologies (member)
-            homepage_url: https://ilabs.ai/
-            logo: ilabs_technologies.svg
-            description: iLabs Technologies
-            twitter: https://twitter.com/iLabs_Tech
-            organization:
-              name: iLabs Technologies
-              linkedin: https://www.linkedin.com/company/ilabs-technologies
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ilabs-technologies
-          - item:
             name: Imagination Technologies Ltd. (member)
             homepage_url: https://imgtec.com/
             logo: imagination_technologies_ltd.svg
@@ -674,7 +663,7 @@ landscape:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
+            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices such as keyboards, mice, monitors, hard drives or solid-state drives, and optical disc drives; as well as system-on-chip and multichip packaging products. Additionally, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. Founded in 1968 and based in Santa Clara, California, Intel underpins everyday life. We design and manufacture technology that helps us all connect, create, and achieve great things—together. We deliver AI experiences that power businesses with industry-leading platforms. With 50 years of unmatched innovation and global scale, you get the reliability and resilience needed to launch into a future full of creativity and ingenuity.
             crunchbase: https://www.crunchbase.com/organization/intel
             twitter: https://twitter.com/intel
             extra:
@@ -1229,7 +1218,7 @@ landscape:
             name: Vodafone Group Plc. (member)
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
-            description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
+            description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specializes in 5G, consumer, and business solutions, alongside M-PESA financial services.
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
             extra:
@@ -1439,12 +1428,6 @@ landscape:
               ICT Project Quota & Quality Supervision Center
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
-            name: CSTeachers (member)
-            homepage_url: https://csteachers.uk/
-            logo: csteachers.svg
-            organization:
-              name: CSTeachers
-          - item:
             name: CZ.NIC, z.s.p.o. (member)
             homepage_url: https://nic.cz/
             logo: cz_nic_z_s_p_o.svg
@@ -1484,17 +1467,6 @@ landscape:
             twitter: https://twitter.com/mydiacc
             extra:
               linkedin_url: https://www.linkedin.com/company/mydiacc
-          - item:
-            name: Digital Identity New Zealand (member)
-            homepage_url: https://digitalidentity.nz/
-            logo: digital_identity_new_zealand.svg
-            description: Leading a united approach to digital identity for the benefit of all New Zealanders.
-            twitter: https://twitter.com/digitalidnz
-            organization:
-              name: Digital Identity New Zealand
-              linkedin: https://www.linkedin.com/company/digitalidnz
-            extra:
-              linkedin_url: https://www.linkedin.com/company/digitalidnz
           - item:
             name: Dyne.org (member)
             homepage_url: https://dyne.org/
@@ -1557,17 +1529,6 @@ landscape:
             twitter: https://twitter.com/Fraunhofer
             extra:
               linkedin_url: https://www.linkedin.com/company/fraunhofer-gesellschaft
-          - item:
-            name: Fundacion Universia (member)
-            homepage_url: https://fundacionuniversia.net/
-            logo: fundacion_universia.svg
-            description: No hay mapa del tesoro. El tesoro es el mapa.    ¿NUESTRA MISIÓN?  Transformar el acceso al conocimiento de las personas con discapacidad, potenciando el desarrollo de competencias que les conecten con el mundo laboral. Impulsar proyectos digitales y p...
-            twitter: https://twitter.com/FUniversia
-            organization:
-              name: Fundacion Universia
-              linkedin: https://www.linkedin.com/company/fundacion-universia
-            extra:
-              linkedin_url: https://www.linkedin.com/company/fundacion-universia
           - item:
             name: Global Legal Entity Identifier Foundation (member)
             homepage_url: https://gleif.org/
@@ -1648,12 +1609,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/jkulinz
           - item:
-            name: M42 (member)
-            homepage_url: https://messier42.com/
-            logo: m42.svg
-            organization:
-              name: M42
-          - item:
             name: Ministry of Digital Affairs, Taiwan (member)
             homepage_url: https://moda.gov.tw/
             logo: ministry_of_digital_affairs_taiwan.svg
@@ -1679,15 +1634,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/mosip-project
             extra:
               linkedin_url: https://www.linkedin.com/company/mosip-project
-          - item:
-            name: Mydex Data Services Community Interest Company (member)
-            homepage_url: https://mydex.org/
-            logo: mydex_data_services_community_interest_company.svg
-            description: Removing friction, effort, risk and cost in public services and improving outcomes and ease of access for citizens
-            crunchbase: https://www.crunchbase.com/organization/mydex
-            twitter: https://twitter.com/MydexCIC
-            extra:
-              linkedin_url: https://www.linkedin.com/company/mydex-cic
           - item:
             name: OpenAtom openEuler (member)
             homepage_url: https://openeuler.sh/
@@ -2093,6 +2039,32 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ehr-wallet/ehr-wallet_Charter.pdf?v=1772578975727
           - item:
+            name: ' EnerGNN'
+            homepage_url: https://github.com/energnn
+            logo: energnn.svg
+            description: A Graph Neural Network library for real-life and full-scale energy networks.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/energnn/energnn
+            license: MPL-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/energnn
+              lfx_slug: energnn
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/energnn
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5aEYe6coFhjFY7X4
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/energnn/energnn_Charter.pdf?v=1774890498324
+              annotations:
+                project_org: https://github.com/energnn
+            additional_repos:
+              - repo_url: https://github.com/energnn/pypowsybl-to-energnn
+          - item:
             name: EUDIPLO
             homepage_url: https://github.com/openwallet-foundation-labs/eudiplo
             logo: eudiplo.svg
@@ -2250,6 +2222,28 @@ landscape:
               - repo_url: https://github.com/ironcore-dev/libvirt-provider
               - repo_url: https://github.com/ironcore-dev/dpservice
               - repo_url: https://github.com/ironcore-dev/metal-operator
+          - item:
+            name: Katalis
+            homepage_url: https://github.com/telekom/NeoNephos-Katalis
+            logo: katalis.svg
+            description: develop solutions to bridge Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/telekom/NeoNephos-Katalis
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/katalis
+              lfx_slug: katalis
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/katalis
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfT8I2Rgyq7mrXO2QU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/katalis/katalis_Charter.pdf?v=1774985434219
           - item:
             name: Luigi
             homepage_url: https://luigi-project.io/
