@@ -36,15 +36,10 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
           - item:
-            name: Qualcomm, Inc. (member)
+            name: Qualcomm Technologies, Inc. (member)
             homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
-            description: |-
-              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
-
-              --- Merged Data:
-
-              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a...
+            logo: qualcomm_technologies_inc.svg
+            description: "Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.\n\n--- Merged Data:\n\nQualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in the development and commercialization of a digital communication technology called code division multiple a..."
             crunchbase: https://www.crunchbase.com/organization/qualcomm
             twitter: https://twitter.com/Qualcomm
             extra:
@@ -100,12 +95,7 @@ landscape:
             name: Honda Motor Co., Ltd. (member)
             homepage_url: https://honda.com/
             logo: honda_motor_co_ltd.svg
-            description: |-
-              AGL Steering Committee Participation Agreement - Bronze
-
-              Honda's R&D subsidiary.
-
-              Parent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)
+            description: "AGL Steering Committee Participation Agreement - Bronze\n\nHonda's R&D subsidiary.\n\nParent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)"
             crunchbase: https://www.crunchbase.com/organization/honda-automobiles
             twitter: https://twitter.com/Honda
             extra:
@@ -145,9 +135,6 @@ landscape:
             homepage_url: https://ac6.fr/
             logo: ac6.svg
             description: AC6 is a company based in Paris that provides training, consulting, and development tools for embedded electronic systems.
-            organization:
-              name: Ac6
-              linkedin: https://www.linkedin.com/company/ac6
             extra:
               linkedin_url: https://www.linkedin.com/company/ac6
           - item:
@@ -181,8 +168,6 @@ landscape:
             name: Akeana (member)
             homepage_url: https://akeana.io/
             logo: akeana.svg
-            organization:
-              name: Akeana
           - item:
             name: Alibaba Cloud (Singapore) Private LTD (member)
             homepage_url: https://alibaba-inc.com/
@@ -223,12 +208,7 @@ landscape:
             name: Andes Digital (member)
             homepage_url: https://andesdigital.com/
             logo: andes_digital.svg
-            description: |-
-              Andes Digital
-
-              --- Merged Data:
-
-              Andes Digital is a consulting company dedicated to enabling customers with Open Source projects technologies, focused on small and medium enterprises. They have ample experience in digital transformation, from analysis to evaluation and then carry out ...
+            description: "Andes Digital\n\n--- Merged Data:\n\nAndes Digital is a consulting company dedicated to enabling customers with Open Source projects technologies, focused on small and medium enterprises. They have ample experience in digital transformation, from analysis to evaluation and then carry out ..."
             crunchbase: https://www.crunchbase.com/organization/andes-digital
             twitter: https://twitter.com/AndesDigital
             extra:
@@ -256,9 +236,6 @@ landscape:
             homepage_url: https://apefactory.com/
             logo: ape_factory.svg
             description: Helps enterprises in their digital transformation by combining Cloud Native architecture, Data Engineering  and Agile Methodology.
-            organization:
-              name: ape factory
-              linkedin: https://www.linkedin.com/company/ape-factory-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/ape-factory-gmbh
           - item:
@@ -294,9 +271,6 @@ landscape:
             logo: beijing_eswin_computing_technology_co_ltd.svg
             description: ESWIN Computing is a provider of intelligent solutions in the AI era. Focusing on smart device and embodied intelligence as our two core application scenarios, we are adopting next-generation RISC-V computing architecture, innovating domain-specific algorithms and IP modules, and constructing efficient and open software-hardware platforms to deliver highly competitive system-level solutions for customers worldwide.
             twitter: https://twitter.com/EswinL
-            organization:
-              name: Beijing ESWIN Computing Technology Co., Ltd.
-              linkedin: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E5%A5%95%E6%96%AF%E4%BC%9F%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF
             extra:
               linkedin_url: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E5%A5%95%E6%96%AF%E4%BC%9F%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF
           - item:
@@ -323,9 +297,6 @@ landscape:
             logo: bwi_gmbh.svg
             description: Wir sorgen für die digitale Zukunftsfähigkeit unseres Landes
             twitter: https://twitter.com/BWI_IT
-            organization:
-              name: BWI GmbH
-              linkedin: https://www.linkedin.com/company/bwi-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/bwi-gmbh
           - item:
@@ -334,9 +305,6 @@ landscape:
             logo: calyptia.svg
             description: Place a data streaming platform at the center of every modern data-driven enterprise, to unlock every organizations data capabilities and maximize how every employee can use it.  FuentD FluentBit
             twitter: https://twitter.com/CalyptiaInc
-            organization:
-              name: Calyptia
-              linkedin: https://www.linkedin.com/company/calyptia
             extra:
               linkedin_url: https://www.linkedin.com/company/calyptia
           - item:
@@ -352,7 +320,7 @@ landscape:
             name: Carl Zeiss AG (member)
             homepage_url: https://zeiss.com/
             logo: carl_zeiss_ag.svg
-            description: ZEISS is an internationally leading technology enterprise operating in the fields of optics and optoelectronics. 
+            description: ZEISS is an internationally leading technology enterprise operating in the fields of optics and optoelectronics.
             crunchbase: https://www.crunchbase.com/organization/carl-zeiss
             twitter: https://twitter.com/ZEISS_Group
             extra:
@@ -369,9 +337,7 @@ landscape:
             name: Clastix SRL (member)
             homepage_url: https://clastix.io/
             logo: clastix_srl.svg
-            description: |-
-              Clastix
-              VAT Number: 11183320966
+            description: "Clastix\nVAT Number: 11183320966"
             crunchbase: https://www.crunchbase.com/organization/clastix
             twitter: https://twitter.com/clastixio
             extra:
@@ -380,12 +346,7 @@ landscape:
             name: CLYSO GmbH (member)
             homepage_url: https://clyso.com/
             logo: clyso_gmbh.svg
-            description: |-
-              Founded in 2010, CLYSO is a German company with headquarters in Munich, dedicated to Cloud Computing. We specialize in building highly scalable and globally distributed cloud environments, offering the deep expertise needed to design, build, deploy, and operate comprehensive solutions. Our core focus spans the IaaS, PaaS, and SaaS layers, and we actively use open-source technology to minimize risks related to IT security, licensing costs, and technical bottlenecks. Our competence is tangible through our leading role in the Ceph community. We hold key roles like Performance Lead and Executive Board Member of the Ceph Foundation, and our team includes Ceph Ambassadors for the DACH region, India, and France. With over 2,700 commits, our developers are major contributors to the Ceph codebase, proving we are co-creators of the technology, not just users.
-              We are the only Platinum member of the Ceph Foundation with a commercial support model focused on the entire Ceph ecosystem, which guarantees maximum flexibility and the right partnership for any challenge. Our employees have completed over 500 successful Ceph projects, handling a vast range of use cases. Our work is also recognized in academia; our Ceph implementation at GWDG achieved a top ranking in the renowned IO500 list, demonstrating our ability to deliver outstanding performance in the most demanding environments.
-              CLYSO is defined by its solid structure, focused drive, and service-oriented culture. With employees in Germany and in North America, we specialize almost exclusively in Ceph. Over 18 of our developers are dedicated solely to building and optimizing Ceph solutions, ensuring you partner with a team that understands the technology from the ground up. Our support model ensures you speak directly with the developers and architects who actively shape the product, minimizing friction and accelerating problem resolution. Our engagement at events like Cephalocon and Ceph Days shows our commitment to actively shaping the future of the technology. When you work with us, you work with a partner that not only stays up-to-date but also drives development. Our continuous contributions to bug fixing and code development directly benefit the stability and security of the solutions we implement.
-
-              We specialize in designing, deploying, and operating highly resilient, large-scale infrastructures across Private Cloud, Public Cloud, and Multi Cloud domains. Our engineering capabilities encompass integration of Software Defined Storage using Ceph, automated lifecycle management via Kubernetes and Openstack, and the orchestration of IaaS and PaaS platforms tailored for complex enterprise workloads. Leveraging deep expertise in Linux and OpenSource Technologies, our team applies advanced optimization, security hardening, and cost management strategies to deliver scalable, high-performance environments. By adopting infrastructure-as-code, advanced monitoring, and multi-tenant architectures, we accelerate cloud transformation projects—empowering organizations to achieve operational agility, efficiency, and future-ready cloud ecosystems.
+            description: "Founded in 2010, CLYSO is a German company with headquarters in Munich, dedicated to Cloud Computing. We specialize in building highly scalable and globally distributed cloud environments, offering the deep expertise needed to design, build, deploy, and operate comprehensive solutions. Our core focus spans the IaaS, PaaS, and SaaS layers, and we actively use open-source technology to minimize risks related to IT security, licensing costs, and technical bottlenecks. Our competence is tangible through our leading role in the Ceph community. We hold key roles like Performance Lead and Executive Board Member of the Ceph Foundation, and our team includes Ceph Ambassadors for the DACH region, India, and France. With over 2,700 commits, our developers are major contributors to the Ceph codebase, proving we are co-creators of the technology, not just users.\nWe are the only Platinum member of the Ceph Foundation with a commercial support model focused on the entire Ceph ecosystem, which guarantees maximum flexibility and the right partnership for any challenge. Our employees have completed over 500 successful Ceph projects, handling a vast range of use cases. Our work is also recognized in academia; our Ceph implementation at GWDG achieved a top ranking in the renowned IO500 list, demonstrating our ability to deliver outstanding performance in the most demanding environments.\nCLYSO is defined by its solid structure, focused drive, and service-oriented culture. With employees in Germany and in North America, we specialize almost exclusively in Ceph. Over 18 of our developers are dedicated solely to building and optimizing Ceph solutions, ensuring you partner with a team that understands the technology from the ground up. Our support model ensures you speak directly with the developers and architects who actively shape the product, minimizing friction and accelerating problem resolution. Our engagement at events like Cephalocon and Ceph Days shows our commitment to actively shaping the future of the technology. When you work with us, you work with a partner that not only stays up-to-date but also drives development. Our continuous contributions to bug fixing and code development directly benefit the stability and security of the solutions we implement.\n\nWe specialize in designing, deploying, and operating highly resilient, large-scale infrastructures across Private Cloud, Public Cloud, and Multi Cloud domains. Our engineering capabilities encompass integration of Software Defined Storage using Ceph, automated lifecycle management via Kubernetes and Openstack, and the orchestration of IaaS and PaaS platforms tailored for complex enterprise workloads. Leveraging deep expertise in Linux and OpenSource Technologies, our team applies advanced optimization, security hardening, and cost management strategies to deliver scalable, high-performance environments. By adopting infrastructure-as-code, advanced monitoring, and multi-tenant architectures, we accelerate cloud transformation projects—empowering organizations to achieve operational agility, efficiency, and future-ready cloud ecosystems."
             crunchbase: https://www.crunchbase.com/organization/clyso-gmbh
             twitter: https://twitter.com/Clyso_GmbH
             extra:
@@ -404,9 +365,6 @@ landscape:
             homepage_url: https://cyberus-technology.de/
             logo: cyberus_technology.svg
             description: Cyberus Technology provides virtualization, Linux engineering, test automation, and embedded Linux services. Their flagship product, Cyberus KronoCore, ensures uninterrupted operation of legacy software on modern hardware, bridging the gap between old ...
-            organization:
-              name: Cyberus Technology
-              linkedin: https://www.linkedin.com/company/cyberus-technology
             extra:
               linkedin_url: https://www.linkedin.com/company/cyberus-technology
           - item:
@@ -477,9 +435,6 @@ landscape:
             homepage_url: https://embear.ch/
             logo: embear.svg
             description: Embear is a company that specializes in helping companies bring up their hardware projects and develop embedded software. They provide IT services and IT consulting, specifically in the areas of embedded Linux, BSPs (Board Support Packages), embedded s...
-            organization:
-              name: embear
-              linkedin: https://www.linkedin.com/company/embear
             extra:
               linkedin_url: https://www.linkedin.com/company/embear
           - item:
@@ -487,9 +442,6 @@ landscape:
             homepage_url: https://emilia.capital/
             logo: emilia_capital.svg
             description: Emilia Capital is an investment company founded in 2021 by Joost de Valk and Marieke van de Rakt, focusing on companies that play on the World Wide Web. With a total investment of €3 million in 11 tech or online companies, Emilia supports open source, ...
-            organization:
-              name: Emilia Capital
-              linkedin: https://www.linkedin.com/company/emilia-capital
             extra:
               linkedin_url: https://www.linkedin.com/company/emilia-capital
           - item:
@@ -502,13 +454,7 @@ landscape:
             name: EPAM Systems, Inc (member)
             homepage_url: https://epam.com/
             logo: epam_systems_inc.svg
-            description: |-
-              EPAM Systems Inc. (EPAM) is a leading digital transformation services and product engineering company. Since 1993, we have used
-              our software engineering expertise to become a leading global provider of digital engineering, cloud and AI-enabled transformation
-              services, as well as a leading business and experience consulting partner for global enterprises and ambitious startups. We address
-              our clients’ transformation challenges by fusing EPAM Continuum’s integrated strategy, experience and technology consulting with
-              our 30+ years of engineering execution to speed our clients’ time to market and drive greater value from their innovations and digital
-              investments. Learn more at www.epam.com.
+            description: "EPAM Systems Inc. (EPAM) is a leading digital transformation services and product engineering company. Since 1993, we have used\nour software engineering expertise to become a leading global provider of digital engineering, cloud and AI-enabled transformation\nservices, as well as a leading business and experience consulting partner for global enterprises and ambitious startups. We address\nour clients’ transformation challenges by fusing EPAM Continuum’s integrated strategy, experience and technology consulting with\nour 30+ years of engineering execution to speed our clients’ time to market and drive greater value from their innovations and digital\ninvestments. Learn more at www.epam.com."
             crunchbase: https://www.crunchbase.com/organization/epam-systems
             twitter: https://twitter.com/EPAMSystems
             extra:
@@ -535,23 +481,7 @@ landscape:
             name: FossID (member)
             homepage_url: https://fossid.com/
             logo: fossid.svg
-            description: |-
-              FOSSID offers a state-of-the-art open source scanner that integrates in your development process seamlessly and detects pieces of Free and Open Source Software (FOSS) in your code base, from entire components to code snippets. FOSSID��_��_s software uncovers license obligations and compliance issues so that you can focus on creating great products.
-              Specialties
-              FOSS Management, FOSS Identification
-
-              Website
-              http://www.fossid.com
-              Industry
-              Computer Software
-              Type
-              Privately Held
-              Headquarters
-              P��_lsundsgatan 1b Stockholm, 11731 Sweden
-              Company Size
-              1-10 employees
-              Founded
-              2016
+            description: "FOSSID offers a state-of-the-art open source scanner that integrates in your development process seamlessly and detects pieces of Free and Open Source Software (FOSS) in your code base, from entire components to code snippets. FOSSID��_��_s software uncovers license obligations and compliance issues so that you can focus on creating great products.\nSpecialties\nFOSS Management, FOSS Identification\n\nWebsite\nhttp://www.fossid.com\nIndustry\nComputer Software\nType\nPrivately Held\nHeadquarters\nP��_lsundsgatan 1b Stockholm, 11731 Sweden\nCompany Size\n1-10 employees\nFounded\n2016"
             crunchbase: https://www.crunchbase.com/organization/fossid
             twitter: https://twitter.com/FOSSID_AB
             extra:
@@ -560,10 +490,7 @@ landscape:
             name: Foundries.io LTD (member)
             homepage_url: https://foundries.io/
             logo: foundries.svg
-            description: |-
-              Our technical engineering team is actively involved in the upstream open source communities of the Linux kernel, OpenEmbedded/Yocto, the Zephyr RTOS, MCUboot, LAVA, and other projects. We also provide support and forum facilities for working with microPlatform users.  Cambridger UK and Seattle WA.
-
-              Foundries.io provides best-in-class software platforms with lifetime support for building and maintaining connected products, ranging from the smallest sensors to smart and edge devices. Core products are Zephyr RTOS and Linux based microPlatforms using Containers, which provide product quality templates to build secure, OTA updatable, connected devices for industrial and consumer markets.
+            description: "Our technical engineering team is actively involved in the upstream open source communities of the Linux kernel, OpenEmbedded/Yocto, the Zephyr RTOS, MCUboot, LAVA, and other projects. We also provide support and forum facilities for working with microPlatform users.  Cambridger UK and Seattle WA.\n\nFoundries.io provides best-in-class software platforms with lifetime support for building and maintaining connected products, ranging from the smallest sensors to smart and edge devices. Core products are Zephyr RTOS and Linux based microPlatforms using Containers, which provide product quality templates to build secure, OTA updatable, connected devices for industrial and consumer markets."
             crunchbase: https://www.crunchbase.com/organization/foundries-io
             twitter: https://twitter.com/FoundriesIO
             extra:
@@ -572,12 +499,7 @@ landscape:
             name: General Electric Company (member)
             homepage_url: https://ge.com/
             logo: general_electric_company.svg
-            description: |-
-              Building a world that works.
-
-              --- Merged Data:
-
-              GE (NYSE: GE) is the world’s Digital Industrial Company, transforming industry with software defined machines and solutions that are connected, responsive and predictive. GE is organized around a global exchange of knowledge, the 'GE Store,' through wh...
+            description: "Building a world that works.\n\n--- Merged Data:\n\nGE (NYSE: GE) is the world’s Digital Industrial Company, transforming industry with software defined machines and solutions that are connected, responsive and predictive. GE is organized around a global exchange of knowledge, the 'GE Store,' through wh..."
             crunchbase: https://www.crunchbase.com/organization/general-electric
             twitter: https://twitter.com/generalelectric
             extra:
@@ -595,9 +517,7 @@ landscape:
             name: G-Research (member)
             homepage_url: https://gresearch.co.uk/
             logo: g_research.svg
-            description: |-
-              About us
-              G-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data.
+            description: "About us\nG-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data."
             crunchbase: https://www.crunchbase.com/organization/g-research
             twitter: https://twitter.com/GRESEARCHjobs
             extra:
@@ -607,9 +527,6 @@ landscape:
             homepage_url: https://hallowelt.com/
             logo: hallo_welt.svg
             description: Hallo Welt! GmbH in Regensburg is the company behind BlueSpice, the open source enterprise wiki based on MediaWiki.
-            organization:
-              name: Hallo Welt!
-              linkedin: https://www.linkedin.com/company/hallo-welt-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/hallo-welt-gmbh
           - item:
@@ -625,9 +542,6 @@ landscape:
             name: Hopae Inc. (member)
             homepage_url: https://hopae.com/
             logo: hopae_inc.svg
-            organization:
-              name: Hopae Inc.
-              linkedin: https://www.linkedin.com/company/hopae
             extra:
               linkedin_url: https://www.linkedin.com/company/hopae
           - item:
@@ -645,9 +559,6 @@ landscape:
             logo: ilabs_technologies.svg
             description: iLabs Technologies
             twitter: https://twitter.com/iLabs_Tech
-            organization:
-              name: iLabs Technologies
-              linkedin: https://www.linkedin.com/company/ilabs-technologies
             extra:
               linkedin_url: https://www.linkedin.com/company/ilabs-technologies
           - item:
@@ -665,16 +576,13 @@ landscape:
             logo: indykite_inc.svg
             description: IndyKite is a San Francisco-based software company that delivers a system of intelligence built on a live context graph, enabling AI agents, applications, and users to make real-time, context-aware decisions with full traceability. Founded in 2021 by Lasse Andresen, co-founder of ForgeRock, IndyKite's platform continuously captures relationships, trust signals, and actions across the enterprise, translating raw data into a dynamic decision layer that supports secure, compliant operations at runtime. The company serves customers in retail, finance, and manufacturing, and has raised $10.5 million from investors including Molten Ventures, Alliance Venture, and Speedinvest.
             twitter: https://twitter.com/indykiteone
-            organization:
-              name: IndyKite Inc.
-              linkedin: https://www.linkedin.com/company/indykite
             extra:
               linkedin_url: https://www.linkedin.com/company/indykite
           - item:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
+            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices such as keyboards, mice, monitors, hard drives or solid-state drives, and optical disc drives; as well as system-on-chip and multichip packaging products. Additionally, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. Founded in 1968 and based in Santa Clara, California, Intel underpins everyday life. We design and manufacture technology that helps us all connect, create, and achieve great things—together. We deliver AI experiences that power businesses with industry-leading platforms. With 50 years of unmatched innovation and global scale, you get the reliability and resilience needed to launch into a future full of creativity and ingenuity.
             crunchbase: https://www.crunchbase.com/organization/intel
             twitter: https://twitter.com/intel
             extra:
@@ -685,9 +593,6 @@ landscape:
             logo: intesi_group_spa.svg
             description: Una Tech Company italiana che offre servizi consulenziali, prodotti ad elevato contenuto tecnologico e soluzioni avanzate in cloud.
             twitter: https://twitter.com/intesigroup
-            organization:
-              name: Intesi Group SpA
-              linkedin: https://www.linkedin.com/company/intesi-group
             extra:
               linkedin_url: https://www.linkedin.com/company/intesi-group
           - item:
@@ -748,8 +653,6 @@ landscape:
             name: Lloyds Banking Group (member)
             homepage_url: https://lloydsbankinggroup.com/
             logo: lloyds_banking_group.svg
-            organization:
-              name: Lloyds Banking Group
           - item:
             name: London Stock Exchange Group (member)
             homepage_url: https://londonstockexchange.com/
@@ -809,8 +712,6 @@ landscape:
             homepage_url: https://nearbycomputing.com/
             logo: nearby_computing.svg
             description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
-            organization:
-              name: Nearby Computing
           - item:
             name: nexB Inc. (member)
             homepage_url: https://nexb.com/
@@ -833,12 +734,7 @@ landscape:
             name: NuNet (member)
             homepage_url: https://nunet.io/
             logo: nunet.svg
-            description: |-
-              NuNet is revolutionizing computing with a decentralized framework that connects global compute devices, decentralizing AI and ML on a hardware level.
-
-              --- Merged Data:
-
-              NuNet is revolutionizing computing with a decentralized framework that connects global compute devices, decentralizing AI and ML on a hardware level.
+            description: "NuNet is revolutionizing computing with a decentralized framework that connects global compute devices, decentralizing AI and ML on a hardware level.\n\n--- Merged Data:\n\nNuNet is revolutionizing computing with a decentralized framework that connects global compute devices, decentralizing AI and ML on a hardware level."
             crunchbase: https://www.crunchbase.com/organization/nunet-dedc
             extra:
               linkedin_url: https://www.linkedin.com/company/nunet-global
@@ -873,10 +769,7 @@ landscape:
             name: Orange SA (member)
             homepage_url: https://orange.com/
             logo: orange_sa.svg
-            description: |-
-              Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.
-              As a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.
-              Under the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents.
+            description: "Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.\nAs a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.\nUnder the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents."
             crunchbase: https://www.crunchbase.com/organization/orange
             twitter: https://twitter.com/orange
             extra:
@@ -935,16 +828,7 @@ landscape:
             name: Puzzle ITC GmbH (member)
             homepage_url: https://puzzle.ch/
             logo: puzzle_itc_gmbh.svg
-            description: |-
-              link to team photos and profiles: http://www.puzzle.ch/unternehmen/team/ 
-
-
-
-              Puzzle was created in 1999 as a small but excellent software and technology companies in life and in the meantime has grown to 44 employees. Java and Linux software development, system engineering form today as it was our core competencies.
-
-
-
-              Organization
+            description: "link to team photos and profiles: http://www.puzzle.ch/unternehmen/team/ \n\n\n\nPuzzle was created in 1999 as a small but excellent software and technology companies in life and in the meantime has grown to 44 employees. Java and Linux software development, system engineering form today as it was our core competencies.\n\n\n\nOrganization"
             crunchbase: https://www.crunchbase.com/organization/puzzle-itc
             twitter: https://twitter.com/puzzleitc
             extra:
@@ -979,12 +863,7 @@ landscape:
             name: Savoir-faire Linux (member)
             homepage_url: https://savoirfairelinux.com/
             logo: savoir_faire_linux.svg
-            description: |-
-              Founded in 1999, Savoir-faire Linux is a leading open source software engineering company delivering consulting, training, and custom development services for embedded, industrial, and mission-critical systems.
-
-              With offices in Montreal (Canada) and Rennes (France), the company supports organizations worldwide across sectors such as energy, transportation, telecommunications, robotics, and advanced industrial products.
-
-              An active contributor to the Linux Foundation ecosystem—including LF Energy, the Yocto Project, and the Zephyr Project—Savoir-faire Linux plays a key role in major open source initiatives such as  LF Energy SEAPATH. Its service portfolio spans embedded Linux and RTOS engineering, product cybersecurity, Edge AI, and dedicated LF Energy SEAPATH engineering services, helping customers build secure, interoperable, and future-proof systems through open collaboration.
+            description: "Founded in 1999, Savoir-faire Linux is a leading open source software engineering company delivering consulting, training, and custom development services for embedded, industrial, and mission-critical systems.\n\nWith offices in Montreal (Canada) and Rennes (France), the company supports organizations worldwide across sectors such as energy, transportation, telecommunications, robotics, and advanced industrial products.\n\nAn active contributor to the Linux Foundation ecosystem—including LF Energy, the Yocto Project, and the Zephyr Project—Savoir-faire Linux plays a key role in major open source initiatives such as  LF Energy SEAPATH. Its service portfolio spans embedded Linux and RTOS engineering, product cybersecurity, Edge AI, and dedicated LF Energy SEAPATH engineering services, helping customers build secure, interoperable, and future-proof systems through open collaboration."
             crunchbase: https://www.crunchbase.com/organization/savoir-faire-linux
             twitter: https://twitter.com/SFLinux
             extra:
@@ -995,9 +874,6 @@ landscape:
             logo: schwarz_digits_cloud_gmbh_co.svg
             description: Für komplexe IT-Infrastrukturen und skalierbare Cloud-Lösungen ist STACKIT Ihr perfekter Partner. Unsere IaaS & PaaS Services erfüllen dabei zu 100% europäische DSGVO-Datenschutzstandards! Jetzt Beta-Version testen!
             twitter: https://twitter.com/stackitcloud
-            organization:
-              name: Schwarz Digits Cloud GmbH & Co. KG
-              linkedin: https://www.linkedin.com/company/stackit-colocation
             extra:
               linkedin_url: https://www.linkedin.com/company/stackit-colocation
           - item:
@@ -1022,9 +898,6 @@ landscape:
             homepage_url: https://sernet.de/
             logo: sernet_gmbh.svg
             description: SerNet was founded in 1997 as a service provider for IT security and today, with offices in Göttingen, Berlin and San Francisco, supports customers worldwide around the clock with services and a selected product portfolio for the secure operation of information technology and with focus on open-source technologies like SAMBA and verinice.
-            organization:
-              name: SerNet GmbH
-              linkedin: https://www.linkedin.com/company/sernet-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/sernet-gmbh
           - item:
@@ -1032,8 +905,6 @@ landscape:
             homepage_url: https://severalclouds.com/
             logo: several_clouds_ltd.svg
             description: Several Clouds provide Cloud and DevOps professional services and staff augmentation. We specialize in building secure and compliant cloud environments.
-            organization:
-              name: Several Clouds Ltd
           - item:
             name: SiFive (member)
             homepage_url: https://sifive.com/
@@ -1047,15 +918,7 @@ landscape:
             name: Solo.io, Inc. (member)
             homepage_url: https://solo.io/
             logo: solo_io_inc.svg
-            description: |-
-              Connectivity remains an unsolved problem in the cloud. Current solutions force you to choose between the flawed and the complex. Solo.io makes it easier. We embrace the complexities of the cloud to make it simpler for our customers to do cloud connectivity right. We help you secure, observe, and control everything in your cloud environment, so you build confidently and scale for the future.
-
-              Our renowned products, Gloo Gateway, Gloo AI Gateway, and Gloo Mesh, are the preferred choice for Fortune 2000 industry leaders and cloud-native innovators, representing market leadership across industries and geographies.
-
-              A remote-first company, we maintain a strong regional presence in North America, Europe, and APAC. Solo.io continues to shape the cloud-native landscape, pioneering innovative solutions and empowering businesses worldwide.
-
-              In 2021, Solo.io reached a significant milestone, securing $135 million in Series C funding at a valuation of $1 billion.
-              To date, we’ve received a total of $175 million in venture funding from esteemed firms such as Altimeter Capital, Redpoint Ventures, and True Ventures.
+            description: "Connectivity remains an unsolved problem in the cloud. Current solutions force you to choose between the flawed and the complex. Solo.io makes it easier. We embrace the complexities of the cloud to make it simpler for our customers to do cloud connectivity right. We help you secure, observe, and control everything in your cloud environment, so you build confidently and scale for the future.\n\nOur renowned products, Gloo Gateway, Gloo AI Gateway, and Gloo Mesh, are the preferred choice for Fortune 2000 industry leaders and cloud-native innovators, representing market leadership across industries and geographies.\n\nA remote-first company, we maintain a strong regional presence in North America, Europe, and APAC. Solo.io continues to shape the cloud-native landscape, pioneering innovative solutions and empowering businesses worldwide.\n\nIn 2021, Solo.io reached a significant milestone, securing $135 million in Series C funding at a valuation of $1 billion.\nTo date, we’ve received a total of $175 million in venture funding from esteemed firms such as Altimeter Capital, Redpoint Ventures, and True Ventures."
             crunchbase: https://www.crunchbase.com/organization/solo-io
             twitter: https://twitter.com/soloio_inc
             extra:
@@ -1064,24 +927,7 @@ landscape:
             name: Sonatype, Inc. (member)
             homepage_url: https://sonatype.com/
             logo: sonatype_inc.svg
-            description: |-
-              Global Headquarters
-
-              Sonatype, Inc.
-
-              12501 Prosperity Drive, Suite 350
-
-              Silver Spring, MD 20904
-
-
-
-              Canadian Office
-
-              Sonatype, Inc.
-
-              147 Wyndham St N, Suite 302
-
-              Guelph, ON, N1H 4E9
+            description: "Global Headquarters\n\nSonatype, Inc.\n\n12501 Prosperity Drive, Suite 350\n\nSilver Spring, MD 20904\n\n\n\nCanadian Office\n\nSonatype, Inc.\n\n147 Wyndham St N, Suite 302\n\nGuelph, ON, N1H 4E9"
             crunchbase: https://www.crunchbase.com/organization/sonatype
             twitter: https://twitter.com/sonatype
             extra:
@@ -1100,8 +946,6 @@ landscape:
             homepage_url: https://spacemit.com/
             logo: spacemit_hangzhou_technology_co.svg
             description: 进迭时空 is a company that specializes in developing high-performance CPUs based on the next generation RISC V architecture and providing software and hardware integrated computing solutions. They aim to build the next era of computing with a native integr...
-            organization:
-              name: SpacemiT (Hangzhou) Technology Co. Ltd
           - item:
             name: Sparkfabrik srl (member)
             homepage_url: https://sparkfabrik.com/
@@ -1162,9 +1006,6 @@ landscape:
             logo: technology_innovation_institute.svg
             description: The Technology Innovation Institute (TII) aims to become a leading global research Centre dedicated to pushing the frontiers of knowledge. Our teams of scientists, researchers and engineers work in an open, flexible and agile environment to deliver dis...
             twitter: https://twitter.com/TIIuae
-            organization:
-              name: Technology Innovation Institute
-              linkedin: https://www.linkedin.com/company/tiiuae
             extra:
               linkedin_url: https://www.linkedin.com/company/tiiuae
           - item:
@@ -1189,12 +1030,7 @@ landscape:
             name: TIM S.p.A (member)
             homepage_url: https://tim.it/
             logo: tim_s_p.svg
-            description: |-
-              TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.
-
-              --- Merged Data:
-
-              TIM (Telecom Italia) provides telecommunications services in Italy, including fixed and mobile telephony, internet, TV, and entertainment. TIM Ventures supports innovative startups to drive growth and create value..
+            description: "TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.\n\n--- Merged Data:\n\nTIM (Telecom Italia) provides telecommunications services in Italy, including fixed and mobile telephony, internet, TV, and entertainment. TIM Ventures supports innovative startups to drive growth and create value.."
             crunchbase: https://www.crunchbase.com/organization/telecom-italia
             extra:
               linkedin_url: https://www.linkedin.com/company/tim
@@ -1229,7 +1065,7 @@ landscape:
             name: Vodafone Group Plc. (member)
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
-            description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
+            description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specializes in 5G, consumer, and business solutions, alongside M-PESA financial services.
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
             extra:
@@ -1239,9 +1075,6 @@ landscape:
             homepage_url: https://welotec.com/
             logo: welotec.svg
             description: Welotec is a pioneering system provider specializing in automation, digitalization, and precision farming. They focus on core sectors like Smart Energy and collaborate with industry leaders for innovative solutions.
-            organization:
-              name: Welotec
-              linkedin: https://www.linkedin.com/company/welotec-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/welotec-gmbh
           - item:
@@ -1283,12 +1116,7 @@ landscape:
             name: ZTE Corporation (member)
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
-            description: |-
-              ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
-
-              --- Merged Data:
-
-              ZTE Corporation, a global leader in telecommunications and information technology, provides innovative technologies and integrated solutions for global operators, government, enterprise, and consumers in over 160 countries. Serving over 1/4 of the glob...
+            description: "ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.\n\n--- Merged Data:\n\nZTE Corporation, a global leader in telecommunications and information technology, provides innovative technologies and integrated solutions for global operators, government, enterprise, and consumers in over 160 countries. Serving over 1/4 of the glob..."
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
             twitter: https://twitter.com/ZTEPress
             extra:
@@ -1301,9 +1129,6 @@ landscape:
             homepage_url: https://algorand.foundation/
             logo: algorand_foundation_ltd.svg
             description: The Algorand Foundation is a non-profit organization dedicated to fulfilling the global promise of blockchain technology by leveraging the Algorand protocol and open source software for an inclusive ecosystem.
-            organization:
-              name: Algorand Foundation Ltd
-              linkedin: https://www.linkedin.com/company/algorandfoundation
             extra:
               linkedin_url: https://www.linkedin.com/company/algorandfoundation
           - item:
@@ -1311,9 +1136,6 @@ landscape:
             homepage_url: https://ayra.forum/
             logo: ayra.svg
             description: Ayra focuses on creating a trusted relationship network that helps organizations navigate the challenges of declining trust and rapid technological changes, ultimately aiming to enhance digital trust and drive revenue growth through improved compliance...
-            organization:
-              name: Ayra
-              linkedin: https://www.linkedin.com/company/global-acceptance-network
             extra:
               linkedin_url: https://www.linkedin.com/company/global-acceptance-network
           - item:
@@ -1330,8 +1152,6 @@ landscape:
             homepage_url: https://bosc.ac.cn/
             logo: beijing_institute_of_open_source_chip.svg
             description: .
-            organization:
-              name: Beijing Institute of Open  Source Chip
           - item:
             name: Belastingdienst (member)
             homepage_url: https://belastingdienst.nl/
@@ -1346,9 +1166,6 @@ landscape:
             logo: bluenumber.svg
             description: Digital Identity. Data Analytics. Traceability
             twitter: https://twitter.com/bluenumberID
-            organization:
-              name: Bluenumber
-              linkedin: https://www.linkedin.com/company/bluenumber
             extra:
               linkedin_url: https://www.linkedin.com/company/bluenumber
           - item:
@@ -1364,41 +1181,8 @@ landscape:
             name: CERTH (Centre for Research and Technology Hellas) (member)
             homepage_url: https://certh.gr/
             logo: certh_centre_for_research_and_technology_hellas.svg
-            description: |-
-              The Centre for Research and Technology-Hellas (CERTH) founded in 2000 is one of the leading research centres in Greece and listed among the TOP-20 E.U. research institutions with the highest participation in competitive research grants.
-
-               
-
-              Legal Form
-
-              It is a legal entity governed by private law with non-profit status, supervised by the General Secretariat for Research and Technology (GSRT) of the Greek Ministry of Education, Research and Religious Affairs.
-
-               
-
-              Research Areas
-
-              CERTH has important scientific and technological achievements in many areas including: Energy, Environment, Industry, Mechatronics, Information & Communication, Transportation & Sustainable Mobility, Health, Agro-biotechnology, Smart farming, Safety & Security, as well as several cross-disciplinary scientific areas.
-
-               
-
-              Institutes
-
-              Today CERTH includes the following five institutes with indicated major fields of research:
-
-              Chemical Process & Energy Resources Institute (CPERI)
-              Sustainable & Clean Energy, Environmental Technologies, Chemical & Biochemical Processes, Advanced Functional Materials
-              Information Technologies Institute (ITI)
-              Informatics, Telematics and Telecommunication Technologies
-              Hellenic Institute of Transport (HIT)
-              Land, Sea and Air Transportation as well as Sustainable Mobility services
-              Institute of Applied Biosciences (INAB)
-              Agri-biotechnology, Health Translational Research, Informatics for big bio-data
-               Bio-economy and Agro-technology Institute (IBO)
-              Agrotechnology, Mechatronics, Biomedicine and Kinesiology
+            description: "The Centre for Research and Technology-Hellas (CERTH) founded in 2000 is one of the leading research centres in Greece and listed among the TOP-20 E.U. research institutions with the highest participation in competitive research grants.\n\n \n\nLegal Form\n\nIt is a legal entity governed by private law with non-profit status, supervised by the General Secretariat for Research and Technology (GSRT) of the Greek Ministry of Education, Research and Religious Affairs.\n\n \n\nResearch Areas\n\nCERTH has important scientific and technological achievements in many areas including: Energy, Environment, Industry, Mechatronics, Information & Communication, Transportation & Sustainable Mobility, Health, Agro-biotechnology, Smart farming, Safety & Security, as well as several cross-disciplinary scientific areas.\n\n \n\nInstitutes\n\nToday CERTH includes the following five institutes with indicated major fields of research:\n\nChemical Process & Energy Resources Institute (CPERI)\nSustainable & Clean Energy, Environmental Technologies, Chemical & Biochemical Processes, Advanced Functional Materials\nInformation Technologies Institute (ITI)\nInformatics, Telematics and Telecommunication Technologies\nHellenic Institute of Transport (HIT)\nLand, Sea and Air Transportation as well as Sustainable Mobility services\nInstitute of Applied Biosciences (INAB)\nAgri-biotechnology, Health Translational Research, Informatics for big bio-data\n Bio-economy and Agro-technology Institute (IBO)\nAgrotechnology, Mechatronics, Biomedicine and Kinesiology"
             twitter: https://twitter.com/CERTHellas
-            organization:
-              name: CERTH (Centre for Research and Technology Hellas)
-              linkedin: https://www.linkedin.com/company/certh
             extra:
               linkedin_url: https://www.linkedin.com/company/certh
           - item:
@@ -1407,52 +1191,24 @@ landscape:
             logo: cheqd_foundation_limited.svg
             description: We’re making it easier for individuals & organisations to trust each other. Call it self-sovereign identity (SSI) or Web5, we got you covered.
             twitter: https://twitter.com/cheqd_io
-            organization:
-              name: cheqd Foundation Limited
-              linkedin: https://www.linkedin.com/company/cheqd-identity
             extra:
               linkedin_url: https://www.linkedin.com/company/cheqd-identity
           - item:
             name: China Academy of Information and Communications Technology (CAICT) (member)
             homepage_url: https://caict.ac.cn/
             logo: china_academy_of_information_and_communications_technology_caict.svg
-            description: |-
-              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
-
-              · Decision-Making Support
-              · Test beds
-              · Test and Certification
-              · Consultancy
-              · Regulation services
-
-              Business Departments
-
-              Policy and Economics Research Institute
-              Technology and Standards Research Institute
-              Industry and Planning Research Institute
-              Cloud Computing & Big Data Research Institute
-              Informatization and Industrialization Integration Research Institute
-              Security Research Institute
-              CTTL System Laboratory
-              CTTL Terminal labs
-              TL Certification Institute
-              ICT Project Quota & Quality Supervision Center
+            description: "Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...\n\n· Decision-Making Support\n· Test beds\n· Test and Certification\n· Consultancy\n· Regulation services\n\nBusiness Departments\n\nPolicy and Economics Research Institute\nTechnology and Standards Research Institute\nIndustry and Planning Research Institute\nCloud Computing & Big Data Research Institute\nInformatization and Industrialization Integration Research Institute\nSecurity Research Institute\nCTTL System Laboratory\nCTTL Terminal labs\nTL Certification Institute\nICT Project Quota & Quality Supervision Center"
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: CSTeachers (member)
             homepage_url: https://csteachers.uk/
             logo: csteachers.svg
-            organization:
-              name: CSTeachers
           - item:
             name: CZ.NIC, z.s.p.o. (member)
             homepage_url: https://nic.cz/
             logo: cz_nic_z_s_p_o.svg
             description: NIC is a Czech interest association of legal persons established by leading Internet service providers in 1998.
             twitter: https://twitter.com/CZ_NIC
-            organization:
-              name: CZ.NIC, z.s.p.o.
-              linkedin: https://www.linkedin.com/company/cz.nic-z.s.p.o.
             extra:
               linkedin_url: https://www.linkedin.com/company/cz.nic-z.s.p.o.
           - item:
@@ -1470,9 +1226,6 @@ landscape:
             logo: didas.svg
             description: DIDAS gives individuals (citizens / intra / entrepreneurs) and organisations the opportunity to shape and accelerate the Digital Identity & Data Sovereignty movement in Switzerland.
             twitter: https://twitter.com/DIDAS_SWISS
-            organization:
-              name: DIDAS
-              linkedin: https://www.linkedin.com/company/didas
             extra:
               linkedin_url: https://www.linkedin.com/company/didas
           - item:
@@ -1490,9 +1243,6 @@ landscape:
             logo: digital_identity_new_zealand.svg
             description: Leading a united approach to digital identity for the benefit of all New Zealanders.
             twitter: https://twitter.com/digitalidnz
-            organization:
-              name: Digital Identity New Zealand
-              linkedin: https://www.linkedin.com/company/digitalidnz
             extra:
               linkedin_url: https://www.linkedin.com/company/digitalidnz
           - item:
@@ -1500,17 +1250,12 @@ landscape:
             homepage_url: https://dyne.org/
             logo: dyne.svg
             description: Dyne.org is a digital community and free software foundry empowering artists, creatives, and citizens worldwide with grassroots access to technology and freedom.
-            organization:
-              name: Dyne.org
-              linkedin: https://www.linkedin.com/company/dyne-org
             extra:
               linkedin_url: https://www.linkedin.com/company/dyne-org
           - item:
             name: Educode (member)
             homepage_url: https://educode.be/
             logo: educode.svg
-            organization:
-              name: Educode
           - item:
             name: EkStep Foundation (member)
             homepage_url: https://ekstep.org/
@@ -1526,9 +1271,6 @@ landscape:
             logo: esop_associacao_de_empresas_de_software_open_source_portuguesas.svg
             description: A ESOP é uma associação empresarial que representa as empresas portuguesas que se dedicam ao desenvolvimento de software e à prestação de serviços baseados em tecnologias Open Source.
             twitter: https://twitter.com/ESOP_PT
-            organization:
-              name: ESOP - Associação de Empresas de Software Open Source Portuguesas
-              linkedin: https://www.linkedin.com/company/esop---associa-o-de-empresas-de-software-open-source-portuguesas
             extra:
               linkedin_url: https://www.linkedin.com/company/esop---associa-o-de-empresas-de-software-open-source-portuguesas
           - item:
@@ -1543,9 +1285,6 @@ landscape:
             homepage_url: https://findy.fi/
             logo: findynet_cooperative.svg
             description: The Findynet Cooperative is a public-private organisation that develops a general-purpose, shared, and secure verfiable data network — a way to ensure the authenticity of information required in e-services.
-            organization:
-              name: Findynet Cooperative
-              linkedin: https://www.linkedin.com/company/findy-cooperative
             extra:
               linkedin_url: https://www.linkedin.com/company/findy-cooperative
           - item:
@@ -1557,17 +1296,6 @@ landscape:
             twitter: https://twitter.com/Fraunhofer
             extra:
               linkedin_url: https://www.linkedin.com/company/fraunhofer-gesellschaft
-          - item:
-            name: Fundacion Universia (member)
-            homepage_url: https://fundacionuniversia.net/
-            logo: fundacion_universia.svg
-            description: No hay mapa del tesoro. El tesoro es el mapa.    ¿NUESTRA MISIÓN?  Transformar el acceso al conocimiento de las personas con discapacidad, potenciando el desarrollo de competencias que les conecten con el mundo laboral. Impulsar proyectos digitales y p...
-            twitter: https://twitter.com/FUniversia
-            organization:
-              name: Fundacion Universia
-              linkedin: https://www.linkedin.com/company/fundacion-universia
-            extra:
-              linkedin_url: https://www.linkedin.com/company/fundacion-universia
           - item:
             name: Global Legal Entity Identifier Foundation (member)
             homepage_url: https://gleif.org/
@@ -1582,9 +1310,6 @@ landscape:
             homepage_url: https://grusp.org/
             logo: grusp_associazione_gruppo_utenti_e_sviluppatori_php_italiani.svg
             description: GrUSP organizes events aimed at training and connecting individuals who are passionate about web development, fostering a welcoming and diverse community since 2003.
-            organization:
-              name: GrUSP - ASSOCIAZIONE GRUPPO UTENTI E SVILUPPATORI PHP ITALIANI
-              linkedin: https://www.linkedin.com/company/grusp
             extra:
               linkedin_url: https://www.linkedin.com/company/grusp
           - item:
@@ -1601,8 +1326,6 @@ landscape:
             homepage_url: https://idunion.eu/
             logo: idunion_sce.svg
             description: IDunion is an open ecosystem that enables self-sovereign identities. It aims to create a decentralized identity management system based on European values and regulations.
-            organization:
-              name: IDunion SCE
           - item:
             name: Indian Institute of Technology (BHU) (member)
             homepage_url: https://iitbhu.ac.in/
@@ -1623,9 +1346,6 @@ landscape:
             logo: interledger_foundation.svg
             description: The protocol for connecting blockchains and other ledgers
             twitter: https://twitter.com/Interledger
-            organization:
-              name: Interledger Foundation
-              linkedin: https://www.linkedin.com/company/interledger-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/interledger-foundation
           - item:
@@ -1633,9 +1353,6 @@ landscape:
             homepage_url: https://iotac.eu/
             logo: iotac_h2020.svg
             description: IoTAC is a European research project that aims to design, develop and operate more resilient IoT service environments. The project will implement front end access control and multiple runtime security features including AI-based detection models, honey...
-            organization:
-              name: IoTAC_H2020
-              linkedin: https://www.linkedin.com/company/iotac-h2020
             extra:
               linkedin_url: https://www.linkedin.com/company/iotac-h2020
           - item:
@@ -1651,15 +1368,11 @@ landscape:
             name: M42 (member)
             homepage_url: https://messier42.com/
             logo: m42.svg
-            organization:
-              name: M42
           - item:
             name: Ministry of Digital Affairs, Taiwan (member)
             homepage_url: https://moda.gov.tw/
             logo: ministry_of_digital_affairs_taiwan.svg
             description: Ministry of Digital Affairs (moda) drives Taiwan's digital development, connecting citizens with technology, enhancing industry and security to lead global digital innovation.
-            organization:
-              name: Ministry of Digital Affairs, Taiwan
           - item:
             name: MIT Connection Science (member)
             homepage_url: https://mit.edu/
@@ -1674,9 +1387,6 @@ landscape:
             homepage_url: https://mosip.io/
             logo: mosip.svg
             description: The Modular Open Source Identity Platform (MOSIP) helps Governments and other user organizations implement a digital, foundational identity system in a cost effective way. Read More!
-            organization:
-              name: MOSIP
-              linkedin: https://www.linkedin.com/company/mosip-project
             extra:
               linkedin_url: https://www.linkedin.com/company/mosip-project
           - item:
@@ -1693,23 +1403,16 @@ landscape:
             homepage_url: https://openeuler.sh/
             logo: openatom_openeuler.svg
             description: OpenEuler is a reliable open source operating system that unleashes diversified computing power for a sustainable future.
-            organization:
-              name: OpenAtom openEuler
           - item:
             name: Open Energy Transition (member)
             homepage_url: https://openenergytransition.org/
             logo: open_energy_transition.svg
-            organization:
-              name: Open Energy Transition
           - item:
             name: OpenForum Europe (member)
             homepage_url: https://openforumeurope.org/
             logo: openforum_europe.svg
             description: OpenForum Europe
             twitter: https://twitter.com/OpenForumEurope
-            organization:
-              name: OpenForum Europe
-              linkedin: https://www.linkedin.com/company/openforum-europe
             extra:
               linkedin_url: https://www.linkedin.com/company/openforum-europe
           - item:
@@ -1726,8 +1429,6 @@ landscape:
             homepage_url: https://osb-alliance.de/
             logo: open_source_business_alliance.svg
             description: Europe's largest network promoting open source software for digital transformation and innovation, advocating for its standardization in public procurement and economic development.
-            organization:
-              name: Open Source Business Alliance
           - item:
             name: OpenUK (member)
             homepage_url: https://openuk.uk/
@@ -1760,9 +1461,6 @@ landscape:
             homepage_url: https://sba-research.org/
             logo: sba_research.svg
             description: SBA Research is a leading research center in Austria that specializes in Information Security, providing advanced research and consulting services in the field of IT security.
-            organization:
-              name: SBA Research
-              linkedin: https://www.linkedin.com/company/secure-business-austria
             extra:
               linkedin_url: https://www.linkedin.com/company/secure-business-austria
           - item:
@@ -1771,9 +1469,6 @@ landscape:
             logo: schrodinger_hat.svg
             description: Schrödinger Hat é una community opensource, un podcast,live streaming e molto altro!
             twitter: https://twitter.com/schrodinger_hat
-            organization:
-              name: schrodinger hat
-              linkedin: https://www.linkedin.com/company/schrodinger-hat
             extra:
               linkedin_url: https://www.linkedin.com/company/schrodinger-hat
           - item:
@@ -1781,9 +1476,6 @@ landscape:
             homepage_url: https://scion.org/
             logo: scion_association.svg
             description: SCION Association is a non-profit organization that is building a secure and reliable Internet architecture called SCION. They enable highly available, trustworthy, transparent, efficient, and affordable communication, promoting reliable and secure tra...
-            organization:
-              name: SCION Association
-              linkedin: https://www.linkedin.com/company/scion-association
             extra:
               linkedin_url: https://www.linkedin.com/company/scion-association
           - item:
@@ -1792,9 +1484,6 @@ landscape:
             logo: secure_identity_alliance.svg
             description: Supporting the provision of legal, trusted identity for all. Driving the development of inclusive digital identity services necessary for sustainable, worldwide economic growth and prosperity.
             twitter: https://twitter.com/SecureIdentity1
-            organization:
-              name: Secure Identity Alliance
-              linkedin: https://www.linkedin.com/company/secure-identity-alliance
             extra:
               linkedin_url: https://www.linkedin.com/company/secure-identity-alliance
           - item:
@@ -1809,14 +1498,8 @@ landscape:
             name: The Digital Dollar Project (member)
             homepage_url: https://digitaldollarproject.org/
             logo: the_digital_dollar_project.svg
-            description: |-
-              Digital Dollar Project
-                LEADING THE DISCUSSION ON A U.S. CENTRAL BANK DIGITAL CURRENCY
-                The Digital Dollar Project is a partnership between Accenture (NYSE: ACN) and the Digital Dollar Foundation to advance exploration of
+            description: "Digital Dollar Project\n  LEADING THE DISCUSSION ON A U.S. CENTRAL BANK DIGITAL CURRENCY\n  The Digital Dollar Project is a partnership between Accenture (NYSE: ACN) and the Digital Dollar Foundation to advance exploration of"
             twitter: https://twitter.com/Digital_Dollar_
-            organization:
-              name: The Digital Dollar Project
-              linkedin: https://www.linkedin.com/company/the-digital-dollar-project
             extra:
               linkedin_url: https://www.linkedin.com/company/the-digital-dollar-project
           - item:
@@ -1825,17 +1508,12 @@ landscape:
             logo: the_institute_for_ethical_ai_machine_learning.svg
             description: The Institute for Ethical AI & Machine Learning is a UK based thinktank that brings togethers technologists, academics and policy-makers to develop industry frameworks around data governance and machine learning.
             twitter: https://twitter.com/EthicalML
-            organization:
-              name: The Institute for Ethical AI & Machine Learning
-              linkedin: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
             extra:
               linkedin_url: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
           - item:
             name: The Mee Foundation (member)
             homepage_url: https://mee.foundation/
             logo: the_mee_foundation.svg
-            organization:
-              name: The Mee Foundation
           - item:
             name: The Mifos Initiative (member)
             homepage_url: https://mifos.org/
@@ -1858,8 +1536,6 @@ landscape:
             name: Trifecta Tech Foundation (member)
             homepage_url: https://trifectatech.org/
             logo: trifecta_tech_foundation.svg
-            organization:
-              name: Trifecta Tech Foundation
           - item:
             name: Universitat Rovira i Virgili (member)
             homepage_url: https://urv.cat/
@@ -1908,11 +1584,7 @@ landscape:
             name: AINETUS
             homepage_url: https://ainetus.energy/
             logo: ainetus.svg
-            description: |-
-              AI algorithms mainly composed by supervised and reinforcement learning. Unifying the benefits of existing heuristics, physical modelling of these complex systems and learning methods, as well as a set of complementary techniques to enhance transparency, safety, explainability and human acceptance. 
-              Human-in-the-loop decision making for co-learning between AI and humans. Considering integration of model uncertainty, human cognitive load and trust.
-              Autonomous AI systems relying on human supervision.
-              Embedded with human domain knowledge and Safety rules.
+            description: "AI algorithms mainly composed by supervised and reinforcement learning. Unifying the benefits of existing heuristics, physical modelling of these complex systems and learning methods, as well as a set of complementary techniques to enhance transparency, safety, explainability and human acceptance. \nHuman-in-the-loop decision making for co-learning between AI and humans. Considering integration of model uncertainty, human cognitive load and trust.\nAutonomous AI systems relying on human supervision.\nEmbedded with human domain knowledge and Safety rules."
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
@@ -2093,17 +1765,36 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ehr-wallet/ehr-wallet_Charter.pdf?v=1772578975727
           - item:
+            name: EnerGNN
+            homepage_url: https://github.com/energnn
+            logo: energnn.svg
+            description: A Graph Neural Network library for real-life and full-scale energy networks.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/energnn/energnn
+            license: MPL-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/energnn
+              lfx_slug: energnn
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/energnn
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5aEYe6coFhjFY7X4
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/energnn/energnn_Charter.pdf?v=1774890498324
+              annotations:
+                project_org: https://github.com/energnn
+            additional_repos:
+              - repo_url: https://github.com/energnn/pypowsybl-to-energnn
+          - item:
             name: EUDIPLO
             homepage_url: https://github.com/openwallet-foundation-labs/eudiplo
             logo: eudiplo.svg
-            description: |-
-              Organizations joining the EUDI Wallet ecosystem face a tough choice: patch together protocol libraries that may not exist for their stack, or rely on proprietary solutions that risk vendor lock-in.
-
-              EUDIPLO solves this by providing a lightweight, source-available, protocol abstraction layer. It communicates over HTTP and integrates easily with your existing backend stack—so you can focus on your business logic, not cryptographic plumbing.
-
-              It supports all core flows of electronic attribute attestations—issuing, requesting, and even requesting during issuance—and is already compatible with production-grade EUDI Wallets like Animo.
-
-              While still in early development, EUDIPLO is built for production: secure key management, scalable database support, and clean API boundaries.
+            description: "Organizations joining the EUDI Wallet ecosystem face a tough choice: patch together protocol libraries that may not exist for their stack, or rely on proprietary solutions that risk vendor lock-in.\n\nEUDIPLO solves this by providing a lightweight, source-available, protocol abstraction layer. It communicates over HTTP and integrates easily with your existing backend stack—so you can focus on your business logic, not cryptographic plumbing.\n\nIt supports all core flows of electronic attribute attestations—issuing, requesting, and even requesting during issuance—and is already compatible with production-grade EUDI Wallets like Animo.\n\nWhile still in early development, EUDIPLO is built for production: secure key management, scalable database support, and clean API boundaries."
             second_path:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Blockchain
@@ -2251,16 +1942,32 @@ landscape:
               - repo_url: https://github.com/ironcore-dev/dpservice
               - repo_url: https://github.com/ironcore-dev/metal-operator
           - item:
+            name: Katalis
+            homepage_url: https://github.com/telekom/NeoNephos-Katalis
+            logo: katalis.svg
+            description: develop solutions to bridge Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/telekom/NeoNephos-Katalis
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/katalis
+              lfx_slug: katalis
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/katalis
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfT8I2Rgyq7mrXO2QU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/katalis/katalis_Charter.pdf?v=1774985434219
+          - item:
             name: Luigi
             homepage_url: https://luigi-project.io/
             logo: luigi.svg
-            description: |-
-              Luigi was first introduced as an open source project in 2018, together with kyma.
-              Key features include:
-              Modular architecture: Breaks down monolithic apps into smaller, manageable UI modules.
-              Extensibility: Easily integrates external UI components.
-              Scalability: Supports distributed development across multiple teams.
-              Technology agnostic: Works with any frontend technology, avoiding vendor lock-in.
+            description: "Luigi was first introduced as an open source project in 2018, together with kyma.\nKey features include:\nModular architecture: Breaks down monolithic apps into smaller, manageable UI modules.\nExtensibility: Easily integrates external UI components.\nScalability: Supports distributed development across multiple teams.\nTechnology agnostic: Works with any frontend technology, avoiding vendor lock-in."
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -2397,12 +2104,9 @@ landscape:
             name: Open Crypto Broker
             homepage_url: https://github.com/open-crypto-broker/
             logo: open_crypto_broker.svg
-            description: |-
-              Open Crypto Broker (OCB) introduces an abstraction layer where cryptographic operations are defined through configurable profiles rather than being hardcoded into applications. Instead of applications handling their own cryptographic functions, they can rely on OCB to manage these tasks. This separation of concerns enables organizations to meet new security requirements, such as compliance with FIPS 140 or the transition to Post-Quantum Cryptography, without needing to modify the underlying applications.
-
-              *** Note - please create under LF Europe
+            description: "Open Crypto Broker (OCB) introduces an abstraction layer where cryptographic operations are defined through configurable profiles rather than being hardcoded into applications. Instead of applications handling their own cryptographic functions, they can rely on OCB to manage these tasks. This separation of concerns enables organizations to meet new security requirements, such as compliance with FIPS 140 or the transition to Post-Quantum Cryptography, without needing to modify the underlying applications.\n\n*** Note - please create under LF Europe"
             second_path:
-              - Project Group / NeoNephos Foundation
+              - Project Group / Linux Foundation Europe
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/open-crypto-broker/crypto-broker-documentation
             license: Apache-2.0
@@ -2425,10 +2129,7 @@ landscape:
             name: Open Key Chain Manager (openKCM)
             homepage_url: https://github.com/openkcm
             logo: open_key_chain_manager_openkcm.svg
-            description: |-
-              Centralized key management solution to govern customer encryption keys (Level 1 keys), with BYOK (Bring Your Own Key) and HYOK (Hold Your Own Key) capabilities.
-
-              ** Note - create under LF Europe
+            description: "Centralized key management solution to govern customer encryption keys (Level 1 keys), with BYOK (Bring Your Own Key) and HYOK (Hold Your Own Key) capabilities.\n\n** Note - create under LF Europe"
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cross-Technology
@@ -2481,7 +2182,7 @@ landscape:
             name: OpenWallet Foundation
             homepage_url: https://openwallet.foundation/
             logo: openwallet_foundation.svg
-            description: 'The mission of the OpenWallet Foundation is to develop a secure, multi-purpose engine anyone can use to build interoperable wallets. '
+            description: The mission of the OpenWallet Foundation is to develop a secure, multi-purpose engine anyone can use to build interoperable wallets.
             second_path:
               - Project Group / Linux Foundation Europe
               - Technology Sector / Web & Application Development
@@ -2615,10 +2316,7 @@ landscape:
             name: Servo Project
             homepage_url: https://servo.org/
             logo: servo_project.svg
-            description: |-
-              The mission of the Project is to provide an independent, modular, embeddable web engine, which allows developers to deliver content and applications using web standards.
-
-              NOTE:  Servo Project was originally set up as a Series LLC (and under the Servo Project Fund).  Both of those were archived on June 15, 2023 and Servo Project was transitioned to being a LF Europe Project with technical charter set at https://github.com/servo/project/blob/main/governance/CHARTER.md.
+            description: "The mission of the Project is to provide an independent, modular, embeddable web engine, which allows developers to deliver content and applications using web standards.\n\nNOTE:  Servo Project was originally set up as a Series LLC (and under the Servo Project Fund).  Both of those were archived on June 15, 2023 and Servo Project was transitioned to being a LF Europe Project with technical charter set at https://github.com/servo/project/blob/main/governance/CHARTER.md."
             second_path:
               - Project Group / Linux Foundation Europe
               - Industry / Cross-Industry
@@ -2640,7 +2338,7 @@ landscape:
             name: Sylva Fund
             homepage_url: https://sylvaproject.org/
             logo: sylva_fund.svg
-            description: 'To release a cloud software framework tailored for telco and edge requirements that addresses the technical challenges of the infrastructure layer of this ecosystem. To develop a reference implementation of the cloud software framework and create a validation program for such implementations with Europe Requirements. '
+            description: To release a cloud software framework tailored for telco and edge requirements that addresses the technical challenges of the infrastructure layer of this ecosystem. To develop a reference implementation of the cloud software framework and create a validation program for such implementations with Europe Requirements.
             second_path:
               - Project Group / Linux Foundation Europe
               - Technology Sector / Networking & Edge
@@ -2724,13 +2422,7 @@ landscape:
             name: VCX
             homepage_url: https://github.com/openwallet-foundation/vcx
             logo: vcx.svg
-            description: |-
-              VCX is an open-source codebase that provides a wide suite of Rust modules for building DID & Aries-related applications (client/mobile and server). VCX is designed with a heavily modularized structure (20+ crates in the workspace) such that consumers can pick-and-choose which components they wish to build their DI application with. Currently, some of the significant modules provided by VCX include:
-              * `did_doc`, `did_parser`, `did_resolver` - a set of lightweight libraries which provide well-typed structures and interfaces for DID building, parsing, and resolving. We envision these components becoming defacto libraries for Rust projects involving DIDs.
-              * DID Method Crates - several DID method-specific crates for resolving and managing DIDs (peer, cheqd, web, key, jwk, sov/unqualified).
-              * `aries_vcx_ledger`, `aries_vcx_wallet`, `aries_vcx_anoncreds` - a set of libraries with interfaces for performing ledger, wallet, and anoncred operations involved in Aries protocols. Includes implementations for Indy & Cheqd ledgers (i.e. resolving anoncreds objects), Askar wallets, and anoncreds-rs.
-              * `messages` - well-typed library for building and parsing Aries (DIDComm V1) messages
-              * `aries_vcx` - Implementation of Aries protocol state machines, which provide APIs to step through Aries protocols, utilizing lots of the above-mentioned modules. Currently mostly for AIP1 protocols, but some AIP2 protocols such as DIDExchange/OOB.
+            description: "VCX is an open-source codebase that provides a wide suite of Rust modules for building DID & Aries-related applications (client/mobile and server). VCX is designed with a heavily modularized structure (20+ crates in the workspace) such that consumers can pick-and-choose which components they wish to build their DI application with. Currently, some of the significant modules provided by VCX include:\n* `did_doc`, `did_parser`, `did_resolver` - a set of lightweight libraries which provide well-typed structures and interfaces for DID building, parsing, and resolving. We envision these components becoming defacto libraries for Rust projects involving DIDs.\n* DID Method Crates - several DID method-specific crates for resolving and managing DIDs (peer, cheqd, web, key, jwk, sov/unqualified).\n* `aries_vcx_ledger`, `aries_vcx_wallet`, `aries_vcx_anoncreds` - a set of libraries with interfaces for performing ledger, wallet, and anoncred operations involved in Aries protocols. Includes implementations for Indy & Cheqd ledgers (i.e. resolving anoncreds objects), Askar wallets, and anoncreds-rs.\n* `messages` - well-typed library for building and parsing Aries (DIDComm V1) messages\n* `aries_vcx` - Implementation of Aries protocol state machines, which provide APIs to step through Aries protocols, utilizing lots of the above-mentioned modules. Currently mostly for AIP1 protocols, but some AIP2 protocols such as DIDExchange/OOB."
             second_path:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Cross-Technology
@@ -2768,3 +2460,25 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wallet-framework-net
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfb0QURfYl41IBrMJw
+          - item:
+            name: Wi4MPI
+            homepage_url: https://wi4mpi.readthedocs.io/
+            logo: wi4mpi.svg
+            description: WI4MPI is a Message Passing Interface (MPI) wrapper and interoperability library that enables seamless runtime conversions between various MPI implementations.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/wi4mpi/wi4mpi
+            license: BSD-3-Clause
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/wi4mpi
+              lfx_slug: wi4mpi
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wi4mpi
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfOJA0Q4dl5ryMUr2T
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/wi4mpi/wi4mpi_Charter.pdf?v=1774636078323
