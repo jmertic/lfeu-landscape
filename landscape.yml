@@ -36,9 +36,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
           - item:
-            name: Qualcomm, Inc. (member)
+            name: Qualcomm Technologies, Inc. (member)
             homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
+            logo: qualcomm_technologies_inc.svg
             description: |-
               Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
 
@@ -83,7 +83,10 @@ landscape:
             name: Futurewei Technologies, Inc. (member)
             homepage_url: https://futurewei.com/
             logo: futurewei_technologies_inc.svg
-            description: FutureWei, based in Plano, Texas, is the North American subsidiary of Huawei Technologies Co. Ltd., a leading global vendor of telecommunications systems and network solutions based in Shenzhen, China. Huawei posted US$5.58 billion in sales in 2004 and has products deployed in over 90 countries. With a strong focus on network infrastructure, FutureWei Technologies, Inc. designs, markets and supports a wide range of advanced telecommunication products for service providers and enterprise network solutions.
+            description: |-
+              Founded in 2001, Futurewei Technologies is dedicated to pursuing openness in Research & Development (R&D) by embracing an Open Innovation model. We strive to share ideas and knowledge with technology communities to open new business opportunities.
+
+              We are actively engaged in open innovation through participation in open-source communities and cultivating an open ecosystem that drives shared success. Our efforts to promote and innovate within open ecosystems include developing open app platforms for ICT systems. These initiatives are part of our ongoing commitment to building a more open and collaborative ICT industry.
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
             extra:
               linkedin_url: https://www.linkedin.com/company/futureweitechnologiesinc
@@ -145,9 +148,6 @@ landscape:
             homepage_url: https://ac6.fr/
             logo: ac6.svg
             description: AC6 is a company based in Paris that provides training, consulting, and development tools for embedded electronic systems.
-            organization:
-              name: Ac6
-              linkedin: https://www.linkedin.com/company/ac6
             extra:
               linkedin_url: https://www.linkedin.com/company/ac6
           - item:
@@ -181,13 +181,11 @@ landscape:
             name: Akeana (member)
             homepage_url: https://akeana.io/
             logo: akeana.svg
-            organization:
-              name: Akeana
           - item:
             name: Alibaba Cloud (Singapore) Private LTD (member)
             homepage_url: https://alibaba-inc.com/
             logo: alibaba_cloud_singapore_private_ltd.svg
-            description: Alibaba Group, founded in 1999, is a company that helps connect businesses to other businesses through cloud computing, logistics, core commerce, local services sectors, and mobile media and entertainment. Alibaba Group is headquartered in Xixi District of Hangzhou, China and maintains offices in China, France, Germany, Hong Kong, India, Italy, Korea, Taiwan, Turkey, Russia, Singapore, the United Arab Emirates, the United Kingdom and the United States.
+            description: Alibaba Cloud is a global leader in full-stack artificial intelligence services, offering state-of-the-art intelligent capabilities and a worldwide AI cloud computing network, providing developer-friendly AI services across the globe. Qwen, the family of large language and multimodal AI models developed by Alibaba, has become one of the most influential and widely adopted open-weight model series since its debut in 2023, earning strong recognition from the global developer communities.
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
             twitter: https://twitter.com/AlibabaB2B
             extra:
@@ -256,9 +254,6 @@ landscape:
             homepage_url: https://apefactory.com/
             logo: ape_factory.svg
             description: Helps enterprises in their digital transformation by combining Cloud Native architecture, Data Engineering  and Agile Methodology.
-            organization:
-              name: ape factory
-              linkedin: https://www.linkedin.com/company/ape-factory-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/ape-factory-gmbh
           - item:
@@ -294,9 +289,6 @@ landscape:
             logo: beijing_eswin_computing_technology_co_ltd.svg
             description: ESWIN Computing is a provider of intelligent solutions in the AI era. Focusing on smart device and embodied intelligence as our two core application scenarios, we are adopting next-generation RISC-V computing architecture, innovating domain-specific algorithms and IP modules, and constructing efficient and open software-hardware platforms to deliver highly competitive system-level solutions for customers worldwide.
             twitter: https://twitter.com/EswinL
-            organization:
-              name: Beijing ESWIN Computing Technology Co., Ltd.
-              linkedin: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E5%A5%95%E6%96%AF%E4%BC%9F%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF
             extra:
               linkedin_url: https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E5%A5%95%E6%96%AF%E4%BC%9F%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF
           - item:
@@ -323,9 +315,6 @@ landscape:
             logo: bwi_gmbh.svg
             description: Wir sorgen für die digitale Zukunftsfähigkeit unseres Landes
             twitter: https://twitter.com/BWI_IT
-            organization:
-              name: BWI GmbH
-              linkedin: https://www.linkedin.com/company/bwi-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/bwi-gmbh
           - item:
@@ -334,9 +323,6 @@ landscape:
             logo: calyptia.svg
             description: Place a data streaming platform at the center of every modern data-driven enterprise, to unlock every organizations data capabilities and maximize how every employee can use it.  FuentD FluentBit
             twitter: https://twitter.com/CalyptiaInc
-            organization:
-              name: Calyptia
-              linkedin: https://www.linkedin.com/company/calyptia
             extra:
               linkedin_url: https://www.linkedin.com/company/calyptia
           - item:
@@ -352,7 +338,7 @@ landscape:
             name: Carl Zeiss AG (member)
             homepage_url: https://zeiss.com/
             logo: carl_zeiss_ag.svg
-            description: ZEISS is an internationally leading technology enterprise operating in the fields of optics and optoelectronics. 
+            description: ZEISS is an internationally leading technology enterprise operating in the fields of optics and optoelectronics.
             crunchbase: https://www.crunchbase.com/organization/carl-zeiss
             twitter: https://twitter.com/ZEISS_Group
             extra:
@@ -376,6 +362,14 @@ landscape:
             twitter: https://twitter.com/clastixio
             extra:
               linkedin_url: https://www.linkedin.com/company/clastix
+          - item:
+            name: Cloudogu GmbH (member)
+            homepage_url: https://cloudogu.com/
+            logo: cloudogu_gmbh.svg
+            description: Open source software development infrastructure
+            twitter: https://twitter.com/cloudogu
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cloudogu
           - item:
             name: CLYSO GmbH (member)
             homepage_url: https://clyso.com/
@@ -404,11 +398,17 @@ landscape:
             homepage_url: https://cyberus-technology.de/
             logo: cyberus_technology.svg
             description: Cyberus Technology provides virtualization, Linux engineering, test automation, and embedded Linux services. Their flagship product, Cyberus KronoCore, ensures uninterrupted operation of legacy software on modern hardware, bridging the gap between old ...
-            organization:
-              name: Cyberus Technology
-              linkedin: https://www.linkedin.com/company/cyberus-technology
             extra:
               linkedin_url: https://www.linkedin.com/company/cyberus-technology
+          - item:
+            name: Cyso BV (member)
+            homepage_url: https://cyso.com/
+            logo: cyso_bv.svg
+            description: Cyso; Dé managed service provider voor het faciliteren, beheren en verbeteren van uw online business met professionele managed hosting oplossingen.
+            crunchbase: https://www.crunchbase.com/organization/cyso
+            twitter: https://twitter.com/cyso
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cyso
           - item:
             name: DACHS IT GMBH (member)
             homepage_url: https://dachs-it.de/
@@ -477,9 +477,6 @@ landscape:
             homepage_url: https://embear.ch/
             logo: embear.svg
             description: Embear is a company that specializes in helping companies bring up their hardware projects and develop embedded software. They provide IT services and IT consulting, specifically in the areas of embedded Linux, BSPs (Board Support Packages), embedded s...
-            organization:
-              name: embear
-              linkedin: https://www.linkedin.com/company/embear
             extra:
               linkedin_url: https://www.linkedin.com/company/embear
           - item:
@@ -487,9 +484,6 @@ landscape:
             homepage_url: https://emilia.capital/
             logo: emilia_capital.svg
             description: Emilia Capital is an investment company founded in 2021 by Joost de Valk and Marieke van de Rakt, focusing on companies that play on the World Wide Web. With a total investment of €3 million in 11 tech or online companies, Emilia supports open source, ...
-            organization:
-              name: Emilia Capital
-              linkedin: https://www.linkedin.com/company/emilia-capital
             extra:
               linkedin_url: https://www.linkedin.com/company/emilia-capital
           - item:
@@ -607,9 +601,6 @@ landscape:
             homepage_url: https://hallowelt.com/
             logo: hallo_welt.svg
             description: Hallo Welt! GmbH in Regensburg is the company behind BlueSpice, the open source enterprise wiki based on MediaWiki.
-            organization:
-              name: Hallo Welt!
-              linkedin: https://www.linkedin.com/company/hallo-welt-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/hallo-welt-gmbh
           - item:
@@ -625,9 +616,6 @@ landscape:
             name: Hopae Inc. (member)
             homepage_url: https://hopae.com/
             logo: hopae_inc.svg
-            organization:
-              name: Hopae Inc.
-              linkedin: https://www.linkedin.com/company/hopae
             extra:
               linkedin_url: https://www.linkedin.com/company/hopae
           - item:
@@ -645,9 +633,6 @@ landscape:
             logo: ilabs_technologies.svg
             description: iLabs Technologies
             twitter: https://twitter.com/iLabs_Tech
-            organization:
-              name: iLabs Technologies
-              linkedin: https://www.linkedin.com/company/ilabs-technologies
             extra:
               linkedin_url: https://www.linkedin.com/company/ilabs-technologies
           - item:
@@ -665,16 +650,13 @@ landscape:
             logo: indykite_inc.svg
             description: IndyKite is a San Francisco-based software company that delivers a system of intelligence built on a live context graph, enabling AI agents, applications, and users to make real-time, context-aware decisions with full traceability. Founded in 2021 by Lasse Andresen, co-founder of ForgeRock, IndyKite's platform continuously captures relationships, trust signals, and actions across the enterprise, translating raw data into a dynamic decision layer that supports secure, compliant operations at runtime. The company serves customers in retail, finance, and manufacturing, and has raised $10.5 million from investors including Molten Ventures, Alliance Venture, and Speedinvest.
             twitter: https://twitter.com/indykiteone
-            organization:
-              name: IndyKite Inc.
-              linkedin: https://www.linkedin.com/company/indykite
             extra:
               linkedin_url: https://www.linkedin.com/company/indykite
           - item:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
+            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices such as keyboards, mice, monitors, hard drives or solid-state drives, and optical disc drives; as well as system-on-chip and multichip packaging products. Additionally, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. Founded in 1968 and based in Santa Clara, California, Intel underpins everyday life. We design and manufacture technology that helps us all connect, create, and achieve great things—together. We deliver AI experiences that power businesses with industry-leading platforms. With 50 years of unmatched innovation and global scale, you get the reliability and resilience needed to launch into a future full of creativity and ingenuity.
             crunchbase: https://www.crunchbase.com/organization/intel
             twitter: https://twitter.com/intel
             extra:
@@ -685,9 +667,6 @@ landscape:
             logo: intesi_group_spa.svg
             description: Una Tech Company italiana che offre servizi consulenziali, prodotti ad elevato contenuto tecnologico e soluzioni avanzate in cloud.
             twitter: https://twitter.com/intesigroup
-            organization:
-              name: Intesi Group SpA
-              linkedin: https://www.linkedin.com/company/intesi-group
             extra:
               linkedin_url: https://www.linkedin.com/company/intesi-group
           - item:
@@ -748,8 +727,6 @@ landscape:
             name: Lloyds Banking Group (member)
             homepage_url: https://lloydsbankinggroup.com/
             logo: lloyds_banking_group.svg
-            organization:
-              name: Lloyds Banking Group
           - item:
             name: London Stock Exchange Group (member)
             homepage_url: https://londonstockexchange.com/
@@ -763,7 +740,12 @@ landscape:
             name: MasterCard Incorporated (member)
             homepage_url: https://mastercard.us/
             logo: mastercard_incorporated.svg
-            description: "Mastercard (NYSE: MA),  is a technology company in the global payments industry. MasterCard operates the world's fastest payments processing network, connecting consumers, financial institutions, merchants, governments and businesses in more than 210 countries and territories. Mastercard products and solutions make everyday commerce activities such as shopping, traveling, running a business and managing finances easier, more secure and more efficient for everyone."
+            description: |-
+              Mastercard (NYSE: MA),  is a technology company in the global payments industry. MasterCard operates the world's fastest payments processing network, connecting consumers, financial institutions, merchants, governments and businesses in more than 210 countries and territories. Mastercard products and solutions make everyday commerce activities such as shopping, traveling, running a business and managing finances easier, more secure and more efficient for everyone.
+
+              --- Merged Data:
+
+              Mastercard is a global technology company in the payments industry, connecting and powering an inclusive digital economy worldwide. With a family of brands spanning over 210 countries, Mastercard provides safe, simple, and accessible transactions, offe...
             crunchbase: https://www.crunchbase.com/organization/mastercard
             twitter: https://twitter.com/Mastercard
             extra:
@@ -809,8 +791,6 @@ landscape:
             homepage_url: https://nearbycomputing.com/
             logo: nearby_computing.svg
             description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
-            organization:
-              name: Nearby Computing
           - item:
             name: nexB Inc. (member)
             homepage_url: https://nexb.com/
@@ -820,6 +800,14 @@ landscape:
             twitter: https://twitter.com/nexBinc
             extra:
               linkedin_url: https://www.linkedin.com/company/nexb
+          - item:
+            name: NEXTSilicon (member)
+            homepage_url: https://nextsilicon.com/
+            logo: nextsilicon.svg
+            description: Stay tuned...
+            twitter: https://twitter.com/NextSilicon
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nextsilicon
           - item:
             name: Nokia Corporation (member)
             homepage_url: https://nokia.com/
@@ -923,6 +911,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/pionix-gmbh
           - item:
+            name: Plakar (member)
+            homepage_url: https://plakar.io/
+            logo: plakar.svg
+            description: Effortless distributed backup offers an open source data protection solution that provides high-performance, secure backup and recovery services, designed to meet the needs of modern businesses through innovative technology that emphasizes simplicity, ...
+            crunchbase: https://www.crunchbase.com/organization/plakar
+          - item:
             name: plusserver (member)
             homepage_url: https://plusserver.com/
             logo: plusserver.svg
@@ -932,9 +926,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/plusserver
           - item:
-            name: Puzzle ITC GmbH (member)
+            name: Puzzle ITC AG (member)
             homepage_url: https://puzzle.ch/
-            logo: puzzle_itc_gmbh.svg
+            logo: puzzle_itc_ag.svg
             description: |-
               link to team photos and profiles: http://www.puzzle.ch/unternehmen/team/ 
 
@@ -995,9 +989,6 @@ landscape:
             logo: schwarz_digits_cloud_gmbh_co.svg
             description: Für komplexe IT-Infrastrukturen und skalierbare Cloud-Lösungen ist STACKIT Ihr perfekter Partner. Unsere IaaS & PaaS Services erfüllen dabei zu 100% europäische DSGVO-Datenschutzstandards! Jetzt Beta-Version testen!
             twitter: https://twitter.com/stackitcloud
-            organization:
-              name: Schwarz Digits Cloud GmbH & Co. KG
-              linkedin: https://www.linkedin.com/company/stackit-colocation
             extra:
               linkedin_url: https://www.linkedin.com/company/stackit-colocation
           - item:
@@ -1022,9 +1013,6 @@ landscape:
             homepage_url: https://sernet.de/
             logo: sernet_gmbh.svg
             description: SerNet was founded in 1997 as a service provider for IT security and today, with offices in Göttingen, Berlin and San Francisco, supports customers worldwide around the clock with services and a selected product portfolio for the secure operation of information technology and with focus on open-source technologies like SAMBA and verinice.
-            organization:
-              name: SerNet GmbH
-              linkedin: https://www.linkedin.com/company/sernet-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/sernet-gmbh
           - item:
@@ -1032,8 +1020,6 @@ landscape:
             homepage_url: https://severalclouds.com/
             logo: several_clouds_ltd.svg
             description: Several Clouds provide Cloud and DevOps professional services and staff augmentation. We specialize in building secure and compliant cloud environments.
-            organization:
-              name: Several Clouds Ltd
           - item:
             name: SiFive (member)
             homepage_url: https://sifive.com/
@@ -1100,8 +1086,6 @@ landscape:
             homepage_url: https://spacemit.com/
             logo: spacemit_hangzhou_technology_co.svg
             description: 进迭时空 is a company that specializes in developing high-performance CPUs based on the next generation RISC V architecture and providing software and hardware integrated computing solutions. They aim to build the next era of computing with a native integr...
-            organization:
-              name: SpacemiT (Hangzhou) Technology Co. Ltd
           - item:
             name: Sparkfabrik srl (member)
             homepage_url: https://sparkfabrik.com/
@@ -1162,9 +1146,6 @@ landscape:
             logo: technology_innovation_institute.svg
             description: The Technology Innovation Institute (TII) aims to become a leading global research Centre dedicated to pushing the frontiers of knowledge. Our teams of scientists, researchers and engineers work in an open, flexible and agile environment to deliver dis...
             twitter: https://twitter.com/TIIuae
-            organization:
-              name: Technology Innovation Institute
-              linkedin: https://www.linkedin.com/company/tiiuae
             extra:
               linkedin_url: https://www.linkedin.com/company/tiiuae
           - item:
@@ -1229,7 +1210,7 @@ landscape:
             name: Vodafone Group Plc. (member)
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
-            description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
+            description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specializes in 5G, consumer, and business solutions, alongside M-PESA financial services.
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
             extra:
@@ -1239,9 +1220,6 @@ landscape:
             homepage_url: https://welotec.com/
             logo: welotec.svg
             description: Welotec is a pioneering system provider specializing in automation, digitalization, and precision farming. They focus on core sectors like Smart Energy and collaborate with industry leaders for innovative solutions.
-            organization:
-              name: Welotec
-              linkedin: https://www.linkedin.com/company/welotec-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/welotec-gmbh
           - item:
@@ -1301,9 +1279,6 @@ landscape:
             homepage_url: https://algorand.foundation/
             logo: algorand_foundation_ltd.svg
             description: The Algorand Foundation is a non-profit organization dedicated to fulfilling the global promise of blockchain technology by leveraging the Algorand protocol and open source software for an inclusive ecosystem.
-            organization:
-              name: Algorand Foundation Ltd
-              linkedin: https://www.linkedin.com/company/algorandfoundation
             extra:
               linkedin_url: https://www.linkedin.com/company/algorandfoundation
           - item:
@@ -1311,9 +1286,6 @@ landscape:
             homepage_url: https://ayra.forum/
             logo: ayra.svg
             description: Ayra focuses on creating a trusted relationship network that helps organizations navigate the challenges of declining trust and rapid technological changes, ultimately aiming to enhance digital trust and drive revenue growth through improved compliance...
-            organization:
-              name: Ayra
-              linkedin: https://www.linkedin.com/company/global-acceptance-network
             extra:
               linkedin_url: https://www.linkedin.com/company/global-acceptance-network
           - item:
@@ -1330,8 +1302,6 @@ landscape:
             homepage_url: https://bosc.ac.cn/
             logo: beijing_institute_of_open_source_chip.svg
             description: .
-            organization:
-              name: Beijing Institute of Open  Source Chip
           - item:
             name: Belastingdienst (member)
             homepage_url: https://belastingdienst.nl/
@@ -1346,9 +1316,6 @@ landscape:
             logo: bluenumber.svg
             description: Digital Identity. Data Analytics. Traceability
             twitter: https://twitter.com/bluenumberID
-            organization:
-              name: Bluenumber
-              linkedin: https://www.linkedin.com/company/bluenumber
             extra:
               linkedin_url: https://www.linkedin.com/company/bluenumber
           - item:
@@ -1396,9 +1363,6 @@ landscape:
                Bio-economy and Agro-technology Institute (IBO)
               Agrotechnology, Mechatronics, Biomedicine and Kinesiology
             twitter: https://twitter.com/CERTHellas
-            organization:
-              name: CERTH (Centre for Research and Technology Hellas)
-              linkedin: https://www.linkedin.com/company/certh
             extra:
               linkedin_url: https://www.linkedin.com/company/certh
           - item:
@@ -1407,9 +1371,6 @@ landscape:
             logo: cheqd_foundation_limited.svg
             description: We’re making it easier for individuals & organisations to trust each other. Call it self-sovereign identity (SSI) or Web5, we got you covered.
             twitter: https://twitter.com/cheqd_io
-            organization:
-              name: cheqd Foundation Limited
-              linkedin: https://www.linkedin.com/company/cheqd-identity
             extra:
               linkedin_url: https://www.linkedin.com/company/cheqd-identity
           - item:
@@ -1442,17 +1403,12 @@ landscape:
             name: CSTeachers (member)
             homepage_url: https://csteachers.uk/
             logo: csteachers.svg
-            organization:
-              name: CSTeachers
           - item:
             name: CZ.NIC, z.s.p.o. (member)
             homepage_url: https://nic.cz/
             logo: cz_nic_z_s_p_o.svg
             description: NIC is a Czech interest association of legal persons established by leading Internet service providers in 1998.
             twitter: https://twitter.com/CZ_NIC
-            organization:
-              name: CZ.NIC, z.s.p.o.
-              linkedin: https://www.linkedin.com/company/cz.nic-z.s.p.o.
             extra:
               linkedin_url: https://www.linkedin.com/company/cz.nic-z.s.p.o.
           - item:
@@ -1470,9 +1426,6 @@ landscape:
             logo: didas.svg
             description: DIDAS gives individuals (citizens / intra / entrepreneurs) and organisations the opportunity to shape and accelerate the Digital Identity & Data Sovereignty movement in Switzerland.
             twitter: https://twitter.com/DIDAS_SWISS
-            organization:
-              name: DIDAS
-              linkedin: https://www.linkedin.com/company/didas
             extra:
               linkedin_url: https://www.linkedin.com/company/didas
           - item:
@@ -1490,9 +1443,6 @@ landscape:
             logo: digital_identity_new_zealand.svg
             description: Leading a united approach to digital identity for the benefit of all New Zealanders.
             twitter: https://twitter.com/digitalidnz
-            organization:
-              name: Digital Identity New Zealand
-              linkedin: https://www.linkedin.com/company/digitalidnz
             extra:
               linkedin_url: https://www.linkedin.com/company/digitalidnz
           - item:
@@ -1500,17 +1450,12 @@ landscape:
             homepage_url: https://dyne.org/
             logo: dyne.svg
             description: Dyne.org is a digital community and free software foundry empowering artists, creatives, and citizens worldwide with grassroots access to technology and freedom.
-            organization:
-              name: Dyne.org
-              linkedin: https://www.linkedin.com/company/dyne-org
             extra:
               linkedin_url: https://www.linkedin.com/company/dyne-org
           - item:
             name: Educode (member)
             homepage_url: https://educode.be/
             logo: educode.svg
-            organization:
-              name: Educode
           - item:
             name: EkStep Foundation (member)
             homepage_url: https://ekstep.org/
@@ -1526,9 +1471,6 @@ landscape:
             logo: esop_associacao_de_empresas_de_software_open_source_portuguesas.svg
             description: A ESOP é uma associação empresarial que representa as empresas portuguesas que se dedicam ao desenvolvimento de software e à prestação de serviços baseados em tecnologias Open Source.
             twitter: https://twitter.com/ESOP_PT
-            organization:
-              name: ESOP - Associação de Empresas de Software Open Source Portuguesas
-              linkedin: https://www.linkedin.com/company/esop---associa-o-de-empresas-de-software-open-source-portuguesas
             extra:
               linkedin_url: https://www.linkedin.com/company/esop---associa-o-de-empresas-de-software-open-source-portuguesas
           - item:
@@ -1543,9 +1485,6 @@ landscape:
             homepage_url: https://findy.fi/
             logo: findynet_cooperative.svg
             description: The Findynet Cooperative is a public-private organisation that develops a general-purpose, shared, and secure verfiable data network — a way to ensure the authenticity of information required in e-services.
-            organization:
-              name: Findynet Cooperative
-              linkedin: https://www.linkedin.com/company/findy-cooperative
             extra:
               linkedin_url: https://www.linkedin.com/company/findy-cooperative
           - item:
@@ -1557,17 +1496,6 @@ landscape:
             twitter: https://twitter.com/Fraunhofer
             extra:
               linkedin_url: https://www.linkedin.com/company/fraunhofer-gesellschaft
-          - item:
-            name: Fundacion Universia (member)
-            homepage_url: https://fundacionuniversia.net/
-            logo: fundacion_universia.svg
-            description: No hay mapa del tesoro. El tesoro es el mapa.    ¿NUESTRA MISIÓN?  Transformar el acceso al conocimiento de las personas con discapacidad, potenciando el desarrollo de competencias que les conecten con el mundo laboral. Impulsar proyectos digitales y p...
-            twitter: https://twitter.com/FUniversia
-            organization:
-              name: Fundacion Universia
-              linkedin: https://www.linkedin.com/company/fundacion-universia
-            extra:
-              linkedin_url: https://www.linkedin.com/company/fundacion-universia
           - item:
             name: Global Legal Entity Identifier Foundation (member)
             homepage_url: https://gleif.org/
@@ -1582,9 +1510,6 @@ landscape:
             homepage_url: https://grusp.org/
             logo: grusp_associazione_gruppo_utenti_e_sviluppatori_php_italiani.svg
             description: GrUSP organizes events aimed at training and connecting individuals who are passionate about web development, fostering a welcoming and diverse community since 2003.
-            organization:
-              name: GrUSP - ASSOCIAZIONE GRUPPO UTENTI E SVILUPPATORI PHP ITALIANI
-              linkedin: https://www.linkedin.com/company/grusp
             extra:
               linkedin_url: https://www.linkedin.com/company/grusp
           - item:
@@ -1601,8 +1526,6 @@ landscape:
             homepage_url: https://idunion.eu/
             logo: idunion_sce.svg
             description: IDunion is an open ecosystem that enables self-sovereign identities. It aims to create a decentralized identity management system based on European values and regulations.
-            organization:
-              name: IDunion SCE
           - item:
             name: Indian Institute of Technology (BHU) (member)
             homepage_url: https://iitbhu.ac.in/
@@ -1623,9 +1546,6 @@ landscape:
             logo: interledger_foundation.svg
             description: The protocol for connecting blockchains and other ledgers
             twitter: https://twitter.com/Interledger
-            organization:
-              name: Interledger Foundation
-              linkedin: https://www.linkedin.com/company/interledger-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/interledger-foundation
           - item:
@@ -1633,9 +1553,6 @@ landscape:
             homepage_url: https://iotac.eu/
             logo: iotac_h2020.svg
             description: IoTAC is a European research project that aims to design, develop and operate more resilient IoT service environments. The project will implement front end access control and multiple runtime security features including AI-based detection models, honey...
-            organization:
-              name: IoTAC_H2020
-              linkedin: https://www.linkedin.com/company/iotac-h2020
             extra:
               linkedin_url: https://www.linkedin.com/company/iotac-h2020
           - item:
@@ -1651,15 +1568,11 @@ landscape:
             name: M42 (member)
             homepage_url: https://messier42.com/
             logo: m42.svg
-            organization:
-              name: M42
           - item:
             name: Ministry of Digital Affairs, Taiwan (member)
             homepage_url: https://moda.gov.tw/
             logo: ministry_of_digital_affairs_taiwan.svg
             description: Ministry of Digital Affairs (moda) drives Taiwan's digital development, connecting citizens with technology, enhancing industry and security to lead global digital innovation.
-            organization:
-              name: Ministry of Digital Affairs, Taiwan
           - item:
             name: MIT Connection Science (member)
             homepage_url: https://mit.edu/
@@ -1674,9 +1587,6 @@ landscape:
             homepage_url: https://mosip.io/
             logo: mosip.svg
             description: The Modular Open Source Identity Platform (MOSIP) helps Governments and other user organizations implement a digital, foundational identity system in a cost effective way. Read More!
-            organization:
-              name: MOSIP
-              linkedin: https://www.linkedin.com/company/mosip-project
             extra:
               linkedin_url: https://www.linkedin.com/company/mosip-project
           - item:
@@ -1693,23 +1603,16 @@ landscape:
             homepage_url: https://openeuler.sh/
             logo: openatom_openeuler.svg
             description: OpenEuler is a reliable open source operating system that unleashes diversified computing power for a sustainable future.
-            organization:
-              name: OpenAtom openEuler
           - item:
             name: Open Energy Transition (member)
             homepage_url: https://openenergytransition.org/
             logo: open_energy_transition.svg
-            organization:
-              name: Open Energy Transition
           - item:
             name: OpenForum Europe (member)
             homepage_url: https://openforumeurope.org/
             logo: openforum_europe.svg
             description: OpenForum Europe
             twitter: https://twitter.com/OpenForumEurope
-            organization:
-              name: OpenForum Europe
-              linkedin: https://www.linkedin.com/company/openforum-europe
             extra:
               linkedin_url: https://www.linkedin.com/company/openforum-europe
           - item:
@@ -1726,8 +1629,6 @@ landscape:
             homepage_url: https://osb-alliance.de/
             logo: open_source_business_alliance.svg
             description: Europe's largest network promoting open source software for digital transformation and innovation, advocating for its standardization in public procurement and economic development.
-            organization:
-              name: Open Source Business Alliance
           - item:
             name: OpenUK (member)
             homepage_url: https://openuk.uk/
@@ -1760,9 +1661,6 @@ landscape:
             homepage_url: https://sba-research.org/
             logo: sba_research.svg
             description: SBA Research is a leading research center in Austria that specializes in Information Security, providing advanced research and consulting services in the field of IT security.
-            organization:
-              name: SBA Research
-              linkedin: https://www.linkedin.com/company/secure-business-austria
             extra:
               linkedin_url: https://www.linkedin.com/company/secure-business-austria
           - item:
@@ -1771,9 +1669,6 @@ landscape:
             logo: schrodinger_hat.svg
             description: Schrödinger Hat é una community opensource, un podcast,live streaming e molto altro!
             twitter: https://twitter.com/schrodinger_hat
-            organization:
-              name: schrodinger hat
-              linkedin: https://www.linkedin.com/company/schrodinger-hat
             extra:
               linkedin_url: https://www.linkedin.com/company/schrodinger-hat
           - item:
@@ -1781,9 +1676,6 @@ landscape:
             homepage_url: https://scion.org/
             logo: scion_association.svg
             description: SCION Association is a non-profit organization that is building a secure and reliable Internet architecture called SCION. They enable highly available, trustworthy, transparent, efficient, and affordable communication, promoting reliable and secure tra...
-            organization:
-              name: SCION Association
-              linkedin: https://www.linkedin.com/company/scion-association
             extra:
               linkedin_url: https://www.linkedin.com/company/scion-association
           - item:
@@ -1792,11 +1684,13 @@ landscape:
             logo: secure_identity_alliance.svg
             description: Supporting the provision of legal, trusted identity for all. Driving the development of inclusive digital identity services necessary for sustainable, worldwide economic growth and prosperity.
             twitter: https://twitter.com/SecureIdentity1
-            organization:
-              name: Secure Identity Alliance
-              linkedin: https://www.linkedin.com/company/secure-identity-alliance
             extra:
               linkedin_url: https://www.linkedin.com/company/secure-identity-alliance
+          - item:
+            name: Siros Foundation (member)
+            homepage_url: https://siros.org/
+            logo: siros_foundation.svg
+            description: SIROS Foundation works to support an open, secure, and free digital world.
           - item:
             name: SUNET (member)
             homepage_url: https://sunet.se/
@@ -1814,9 +1708,6 @@ landscape:
                 LEADING THE DISCUSSION ON A U.S. CENTRAL BANK DIGITAL CURRENCY
                 The Digital Dollar Project is a partnership between Accenture (NYSE: ACN) and the Digital Dollar Foundation to advance exploration of
             twitter: https://twitter.com/Digital_Dollar_
-            organization:
-              name: The Digital Dollar Project
-              linkedin: https://www.linkedin.com/company/the-digital-dollar-project
             extra:
               linkedin_url: https://www.linkedin.com/company/the-digital-dollar-project
           - item:
@@ -1825,17 +1716,12 @@ landscape:
             logo: the_institute_for_ethical_ai_machine_learning.svg
             description: The Institute for Ethical AI & Machine Learning is a UK based thinktank that brings togethers technologists, academics and policy-makers to develop industry frameworks around data governance and machine learning.
             twitter: https://twitter.com/EthicalML
-            organization:
-              name: The Institute for Ethical AI & Machine Learning
-              linkedin: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
             extra:
               linkedin_url: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
           - item:
             name: The Mee Foundation (member)
             homepage_url: https://mee.foundation/
             logo: the_mee_foundation.svg
-            organization:
-              name: The Mee Foundation
           - item:
             name: The Mifos Initiative (member)
             homepage_url: https://mifos.org/
@@ -1858,8 +1744,6 @@ landscape:
             name: Trifecta Tech Foundation (member)
             homepage_url: https://trifectatech.org/
             logo: trifecta_tech_foundation.svg
-            organization:
-              name: Trifecta Tech Foundation
           - item:
             name: Universitat Rovira i Virgili (member)
             homepage_url: https://urv.cat/
@@ -1885,10 +1769,10 @@ landscape:
         name: All
         items:
           - item:
-            name: ACA-Py
+            name: Adaptive Cloud Agent - Python (ACA-Py)
             homepage_url: https://github.com/orgs/openwallet-foundation
-            logo: aca_py.svg
-            description: ACA-Py (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. ACA-Py enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
+            logo: adaptive_cloud_agent_python_aca_py.svg
+            description: Adaptive Cloud Agent - Python (ACA-Py) (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. Adaptive Cloud Agent - Python (ACA-Py) enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
             second_path:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Cross-Technology
@@ -1904,6 +1788,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-aca-py
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0DmMTjlf1WtxauK7
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/owf-aca-py/owf-aca-py_Charter.pdf?v=1778535214838
           - item:
             name: AINETUS
             homepage_url: https://ainetus.energy/
@@ -1917,7 +1803,8 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Safety-Critical Systems
-            license: MIT
+            repo_url: https://github.com/ainetus/soft_label_gnn
+            license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-01-06'
@@ -1930,6 +1817,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfeNXPuYxVK2CRNwbZ
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ainetus/ainetus_Charter.pdf?v=1768513274785
+              annotations:
+                project_org: https://github.com/ainetus
+            additional_repos: []
           - item:
             name: Apostille
             homepage_url: https://github.com/openwallet-foundation-labs/apostille
@@ -1951,7 +1841,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfW3zFWz5qCOEuamKU
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/apostille/apostille_Charter.pdf?v=1772827090012
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/apostille/apostille_Charter.pdf?v=1778005409304
           - item:
             name: Carbyne Stack
             homepage_url: https://carbynestack.io/
@@ -1978,6 +1868,50 @@ landscape:
                 project_org: https://github.com/carbynestack
             additional_repos: []
           - item:
+            name: Chantico
+            homepage_url: https://github.com/chantico-project/chantico
+            logo: chantico.svg
+            description: The mission of the Project is to develop a cloud-native approach to monitor and attribute the energy consumption of data center IT equipment, such as PDUs and bare metal servers, but also virtual machines running on hypervisors and pods in clusters.
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/chantico-project/chantico
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-21'
+              dev_stats_url: https://insights.linuxfoundation.org/project/chantico
+              lfx_slug: chantico
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/chantico
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLTQQY7vubKTQlgVU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/chantico/chantico_Charter.pdf?v=1779377899875
+          - item:
+            name: ClusterShell
+            homepage_url: https://clustershell.readthedocs.io/en/latest/
+            logo: clustershell.svg
+            description: ClusterShell is an event-driven open source Python library, designed to run local or distant commands in parallel on server farms or on large Linux clusters.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/cea-hpc/clustershell
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/clustershell
+              lfx_slug: clustershell
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/clustershell
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5nhuACgMcNy9SrYc
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/clustershell/clustershell_Charter.pdf?v=1778881472119
+          - item:
             name: CobaltCore
             homepage_url: https://github.com/cobaltcore-dev
             logo: cobaltcore.svg
@@ -1985,7 +1919,7 @@ landscape:
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/cobaltcore-dev/gardenlinux
+            repo_url: https://github.com/cobaltcore-dev/cortex
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2002,9 +1936,11 @@ landscape:
               annotations:
                 project_org: https://github.com/cobaltcore-dev
             additional_repos:
-              - repo_url: https://github.com/cobaltcore-dev/cortex
-              - repo_url: https://github.com/cobaltcore-dev/steering
               - repo_url: https://github.com/cobaltcore-dev/aurora-dashboard
+              - repo_url: https://github.com/cobaltcore-dev/openstack-nix
+              - repo_url: https://github.com/cobaltcore-dev/kvm-node-agent
+              - repo_url: https://github.com/cobaltcore-dev/openstack-hypervisor-operator
+              - repo_url: https://github.com/cobaltcore-dev/docs
           - item:
             name: Credo
             homepage_url: https://credo.js.org/
@@ -2025,15 +1961,17 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/credo
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfgDQVxG6aTebOZJav
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/credo/credo_Charter.pdf?v=1778005473241
           - item:
             name: CUPID (Controllable Unit Protocol Interface for DER)
-            homepage_url: https://github.com/Horizont-Europe-Interstore
+            homepage_url: https://github.com/cupid-project
             logo: cupid_controllable_unit_protocol_interface_for_der.svg
             description: Open source project that promotes interoperability and standardization for distributed energy system communication, primarily through the implementation of the IEEE 2030.5 standard
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/Horizont-Europe-Interstore/Data-Space-Connector
+            repo_url: https://github.com/cupid-project/Client-Server
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2048,7 +1986,7 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cupid/cupid_Charter.pdf?v=1747610679443
               annotations:
-                project_org: https://github.com/Horizont-Europe-Interstore
+                project_org: https://github.com/cupid-project
             additional_repos: []
           - item:
             name: DIDComm Mediator Service
@@ -2070,6 +2008,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-didcomm-mediator-service
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJNysYDPtFsnyplp7
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/owf-didcomm-mediator-service/owf-didcomm-mediator-service_Charter.pdf?v=1778005505955
           - item:
             name: EHR Wallet
             homepage_url: https://github.com/openwallet-foundation-labs/ehr-wallet
@@ -2092,6 +2032,32 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfza6zO9ScakgMfOj5
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ehr-wallet/ehr-wallet_Charter.pdf?v=1772578975727
+          - item:
+            name: EnerGNN
+            homepage_url: https://github.com/energnn
+            logo: energnn.svg
+            description: A Graph Neural Network library for real-life and full-scale energy networks.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/energnn/energnn
+            license: MPL-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/energnn
+              lfx_slug: energnn
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/energnn
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5aEYe6coFhjFY7X4
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/energnn/energnn_Charter.pdf?v=1774890498324
+              annotations:
+                project_org: https://github.com/energnn
+            additional_repos:
+              - repo_url: https://github.com/energnn/pypowsybl-to-energnn
           - item:
             name: EUDIPLO
             homepage_url: https://github.com/openwallet-foundation-labs/eudiplo
@@ -2130,6 +2096,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Privacy & Security
               - Technology Sector / Web & Application Development
+            repo_url: https://github.com/openwallet-foundation-labs/farmworker-wallet-os
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2141,6 +2108,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/farmworker-wallet-os
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwSQGSdSs0LvlCSFy
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/farmworker-wallet-os/farmworker-wallet-os_Charter.pdf?v=1778005656875
           - item:
             name: Gardener
             homepage_url: https://gardener.cloud/
@@ -2172,6 +2141,31 @@ landscape:
               - repo_url: https://github.com/gardener/dashboard
               - repo_url: https://github.com/gardener/autoscaler
           - item:
+            name: Garden Linux
+            homepage_url: https://gardenlinux.io/
+            logo: garden_linux.svg
+            description: The mission of the project is to develop a minimal, immutable, API-driven operating system layer for automated, Kubernetes-centric platforms.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Linux Kernel
+            repo_url: https://github.com/gardenlinux/gardenlinux
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/garden-linux
+              lfx_slug: garden-linux
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/garden-linux
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDtsr7KZKJFEBMYuO
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/garden-linux/garden-linux_Charter.pdf?v=1781194173065
+              annotations:
+                project_org: https://github.com/gardenlinux
+            additional_repos: []
+          - item:
             name: Greenhouse
             homepage_url: https://cloudoperators.github.io/greenhouse/
             logo: greenhouse.svg
@@ -2199,7 +2193,8 @@ landscape:
               - repo_url: https://github.com/cloudoperators/greenhouse-extensions
               - repo_url: https://github.com/cloudoperators/juno
               - repo_url: https://github.com/cloudoperators/heureka
-              - repo_url: https://github.com/cloudoperators/steering
+              - repo_url: https://github.com/cloudoperators/shoot-grafter
+              - repo_url: https://github.com/cloudoperators/repo-guard
           - item:
             name: Hyperledger Identus
             homepage_url: https://www.hyperledger.org/projects/identus
@@ -2251,6 +2246,31 @@ landscape:
               - repo_url: https://github.com/ironcore-dev/dpservice
               - repo_url: https://github.com/ironcore-dev/metal-operator
           - item:
+            name: Katalis
+            homepage_url: https://katalis-project.org/
+            logo: katalis.svg
+            description: develop solutions to bridge Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/neonephos-katalis/opg-ewbi-operator
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/katalis
+              lfx_slug: katalis
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/katalis
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfT8I2Rgyq7mrXO2QU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/katalis/katalis_Charter.pdf?v=1774985434219
+              annotations:
+                project_org: https://github.com/neonephos-katalis
+            additional_repos: []
+          - item:
             name: Luigi
             homepage_url: https://luigi-project.io/
             logo: luigi.svg
@@ -2301,6 +2321,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mdl-javascript
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfKZRogVDFkm2OVskz
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/mdl-javascript/mdl-javascript_Charter.pdf?v=1778684318486
           - item:
             name: Modules
             homepage_url: https://www.envmodules.io/
@@ -2343,6 +2365,30 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/multi-format-vc-for-ios
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdDpLJWXdO5kJMWz2
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/multi-format-vc-for-ios/multi-format-vc-for-ios_Charter.pdf?v=1778005611931
+          - item:
+            name: Multipaz
+            homepage_url: https://github.com/openwallet-foundation/multipaz
+            logo: multipaz.svg
+            description: The mission of the Project is to develop libraries and reference applications for working with real-world identity.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation/multipaz
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-07'
+              dev_stats_url: https://insights.linuxfoundation.org/project/mdoc
+              lfx_slug: mdoc
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mdoc
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtdL1QAJ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/mdoc/mdoc_Charter.pdf?v=1778005715909
           - item:
             name: NeoNephos Foundation
             homepage_url: https://neonephos.org/
@@ -2369,9 +2415,35 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/neonephos-foundation/
             additional_repos: []
           - item:
-            name: Open Control Plane (openCP)
+            name: Open Component Model
+            homepage_url: https://ocm.software/
+            logo: open_component_model.svg
+            description: OCM is an open standard for describing software artifacts and lifecycle metadata. It is a technology-agnostic and machine-readable format and focuses on software artifacts that need to be delivered securely across boundaries. At the same time, it maintains integrity and provenance along the complete supply chain. With the unique identifier of OCM components acting as correlation ID, it enables the alignment of different, possibly asynchronous processes and tools across all stages of the software lifecycle.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/open-component-model/open-component-model
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-component-model
+              lfx_slug: open-component-model
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-component-model
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDxshpdqN9H9Uumud
+              annotations:
+                project_org: https://github.com/open-component-model
+            additional_repos:
+              - repo_url: https://github.com/open-component-model/ocm-spec
+              - repo_url: https://github.com/open-component-model/open-delivery-gear
+              - repo_url: https://github.com/open-component-model/community
+          - item:
+            name: OpenControlPlane
             homepage_url: https://github.com/openmcp-project
-            logo: open_control_plane_opencp.svg
+            logo: opencontrolplane.svg
             description: This open source platform provides everything a team needs to orchestrate software in an enterprise environment. Built on top of a secure, enterprise-grade Gardener Kubernetes stack, it connects seamlessly with essential enterprise tools like code repositories, artifactories, identity providers, and auditing systems. Designed for security, compliance, and scalability, the platform integrates Kubernetes-compliant operators and cloud providers while supporting reusable, organization-specific templates and enforceable policies. It empowers engineering teams to move fast without compromising on governance—turning cloud-native complexity into a manageable, traceable, and repeatable system.
             second_path:
               - Project Group / NeoNephos Foundation
@@ -2381,15 +2453,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-06-03'
-              dev_stats_url: https://insights.linuxfoundation.org/project/opencp
-              lfx_slug: opencp
+              dev_stats_url: https://insights.linuxfoundation.org/project/opencontrolplane
+              lfx_slug: opencontrolplane
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opencp
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opencontrolplane
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0aotN8oncp0sZXSx
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-managed-control-planes/open-managed-control-planes_Charter.pdf?v=1773850649767
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/opencp/opencp_Charter.pdf?v=1777662944841
               annotations:
                 project_org: https://github.com/openmcp-project
             additional_repos: []
@@ -2402,7 +2474,7 @@ landscape:
 
               *** Note - please create under LF Europe
             second_path:
-              - Project Group / NeoNephos Foundation
+              - Project Group / Linux Foundation Europe
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/open-crypto-broker/crypto-broker-documentation
             license: Apache-2.0
@@ -2481,7 +2553,7 @@ landscape:
             name: OpenWallet Foundation
             homepage_url: https://openwallet.foundation/
             logo: openwallet_foundation.svg
-            description: 'The mission of the OpenWallet Foundation is to develop a secure, multi-purpose engine anyone can use to build interoperable wallets. '
+            description: The mission of the OpenWallet Foundation is to develop a secure, multi-purpose engine anyone can use to build interoperable wallets.
             second_path:
               - Project Group / Linux Foundation Europe
               - Technology Sector / Web & Application Development
@@ -2551,6 +2623,27 @@ landscape:
               - repo_url: https://github.com/powsybl/powsybl-open-rao
               - repo_url: https://github.com/powsybl/powsybl-starter
           - item:
+            name: ReLife
+            homepage_url: https://github.com/relife-energy
+            logo: relife.svg
+            description: ReLife is an open source Python library that implements survival analysis methods, renewal theory, and socioeconomic evaluation aimed at optimizing network asset renewal policies.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / AI, ML, Data & Analytics
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-08'
+              dev_stats_url: https://insights.linuxfoundation.org/project/relife
+              lfx_slug: relife
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/relife
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfa41EPKWxFl60ZGdB
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/relife/relife_Charter.pdf?v=1778275208631
+          - item:
             name: RISE Project
             homepage_url: https://riseproject.dev/
             logo: rise_project.svg
@@ -2591,6 +2684,52 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-javascript
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf1y9k3cIl5PqDygcc
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-javascript/sd-jwt-javascript_Charter.pdf?v=1778005769721
+          - item:
+            name: SD-JWT .NET Reference Implementation
+            homepage_url: https://tac.openwallet.foundation/projects/sd-jwt-dotnet/
+            logo: sd_jwt.svg
+            description: The mission of the Project is to develop a .NET reference implementation of SD-JWT.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation-labs/sd-jwt-dotnet
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-08-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/sd-jwt-net
+              lfx_slug: sd-jwt-net
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-net
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8Xa7J4BRsjI9Linx
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-net/sd-jwt-net_Charter.pdf?v=1778006008346
+          - item:
+            name: SD-JWT Python Reference Implementation
+            homepage_url: https://github.com/openwallet-foundation-labs/sd-jwt-python
+            logo: sd_jwt_python_reference_implementation.svg
+            description: The mission of the Project is to develop a Python reference implementation of SD-JWT.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/openwallet-foundation-labs/sd-jwt-python
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-08-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/sd-jwt-python-reference-implementation
+              lfx_slug: sd-jwt-python-reference-implementation
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-python-reference-implementation
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtBQBQA3
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-python-reference-implementation/sd-jwt-python-reference-implementation_Charter.pdf?v=1778005866343
           - item:
             name: SD-JWT Rust Reference Implementation
             homepage_url: https://tac.openwallet.foundation/projects/sd-jwt-rust/
@@ -2611,6 +2750,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-rust
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfMbpw44DkWR4mPj2n
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-rust/sd-jwt-rust_Charter.pdf?v=1779832384437
           - item:
             name: Servo Project
             homepage_url: https://servo.org/
@@ -2640,7 +2781,7 @@ landscape:
             name: Sylva Fund
             homepage_url: https://sylvaproject.org/
             logo: sylva_fund.svg
-            description: 'To release a cloud software framework tailored for telco and edge requirements that addresses the technical challenges of the infrastructure layer of this ecosystem. To develop a reference implementation of the cloud software framework and create a validation program for such implementations with Europe Requirements. '
+            description: To release a cloud software framework tailored for telco and edge requirements that addresses the technical challenges of the infrastructure layer of this ecosystem. To develop a reference implementation of the cloud software framework and create a validation program for such implementations with Europe Requirements.
             second_path:
               - Project Group / Linux Foundation Europe
               - Technology Sector / Networking & Edge
@@ -2701,6 +2842,31 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/trs/trs_Charter.pdf?v=1754942799761
           - item:
+            name: Tuvali
+            homepage_url: https://github.com/openwallet-foundation-labs/tuvali
+            logo: tuvali.svg
+            description: |-
+              This is the React native module for the OpenID for Verifiable Presentations over BLE implementation to support sending vc/vp using Bluetooth Low Energy local channel.
+
+              This contains the source code for the ios, android modules as well as a sample app under example/ folder. The sample app can be used for testing the modules being worked on in case it is needed.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/openwallet-foundation-labs/tuvali
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-18'
+              dev_stats_url: https://insights.linuxfoundation.org/project/tuvali
+              lfx_slug: tuvali
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tuvali
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfID6CT85GrLRT6bFa
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/tuvali/tuvali_Charter.pdf?v=1755535762402
+          - item:
             name: VC API Implementation
             homepage_url: https://tac.openwallet.foundation/projects/vc-api/
             logo: vc_api_implementation.svg
@@ -2709,6 +2875,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Web & Application Development
               - Technology Sector / Privacy & Security
+            repo_url: https://github.com/openwallet-foundation-labs/vc-api
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2720,6 +2887,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vc-api
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZ3CuN7sFILTEEHvc
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vc-api/vc-api_Charter.pdf?v=1778006133435
           - item:
             name: VCX
             homepage_url: https://github.com/openwallet-foundation/vcx
@@ -2757,6 +2926,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Privacy & Security
               - Technology Sector / Web & Application Development
+            repo_url: https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2768,3 +2938,27 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wallet-framework-net
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfb0QURfYl41IBrMJw
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/wallet-framework-net/wallet-framework-net_Charter.pdf?v=1778006246835
+          - item:
+            name: Wi4MPI
+            homepage_url: https://wi4mpi.readthedocs.io/
+            logo: wi4mpi.svg
+            description: WI4MPI is a Message Passing Interface (MPI) wrapper and interoperability library that enables seamless runtime conversions between various MPI implementations.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/wi4mpi/wi4mpi
+            license: BSD-3-Clause
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/wi4mpi
+              lfx_slug: wi4mpi
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wi4mpi
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfOJA0Q4dl5ryMUr2T
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/wi4mpi/wi4mpi_Charter.pdf?v=1774636078323
