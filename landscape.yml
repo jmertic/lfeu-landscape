@@ -357,17 +357,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/chainloop-dev
           - item:
-            name: Clastix SRL (member)
-            homepage_url: https://clastix.io/
-            logo: clastix_srl.svg
-            description: |-
-              Clastix
-              VAT Number: 11183320966
-            crunchbase: https://www.crunchbase.com/organization/clastix
-            twitter: https://twitter.com/clastixio
-            extra:
-              linkedin_url: https://www.linkedin.com/company/clastix
-          - item:
             name: Cloudogu GmbH (member)
             homepage_url: https://cloudogu.com/
             logo: cloudogu_gmbh.svg
@@ -1019,6 +1008,11 @@ landscape:
             twitter: https://twitter.com/puzzleitc
             extra:
               linkedin_url: https://www.linkedin.com/company/puzzle-itc
+          - item:
+            name: Quintauris GmbH (member)
+            homepage_url: https://quintauris.com/
+            logo: quintauris_gmbh.svg
+            description: Quintauris focuses on developing compatible RISC V-based products and reference architectures, collaborating with industry leaders to create a unique ecosystem that facilitates the widespread adoption of RISC V solutions across various sectors.
           - item:
             name: ReeVo Spa (member)
             homepage_url: https://reevo.it/
