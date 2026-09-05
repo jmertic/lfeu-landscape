@@ -1277,6 +1277,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/uber.com
           - item:
+            name: Vereign AG (member)
+            homepage_url: https://vereign.com/
+            logo: vereign_ag.svg
+            description: Trust your inbox again, thanks to Vereign! Identity, email and document verification made easy. Get started with Vereign at https://t.co/IdyeZ5AG8H
+            twitter: https://twitter.com/VereignSEAL
+            extra:
+              linkedin_url: https://www.linkedin.com/company/vereign
+          - item:
             name: Visa Inc. (member)
             homepage_url: https://visa.com/
             logo: visa_inc.svg
