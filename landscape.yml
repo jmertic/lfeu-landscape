@@ -2708,12 +2708,13 @@ landscape:
               - repo_url: https://github.com/powsybl/powsybl-starter
           - item:
             name: ReLife
-            homepage_url: https://github.com/relife-energy
+            homepage_url: https://github.com/assetlife-project
             logo: relife.svg
             description: ReLife is an open source Python library that implements survival analysis methods, renewal theory, and socioeconomic evaluation aimed at optimizing network asset renewal policies.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/assetlife-project/assetlife
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2727,6 +2728,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfa41EPKWxFl60ZGdB
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/relife/relife_Charter.pdf?v=1778275208631
+              annotations:
+                project_org: https://github.com/assetlife-project
+            additional_repos: []
           - item:
             name: RISE Project
             homepage_url: https://riseproject.dev/
