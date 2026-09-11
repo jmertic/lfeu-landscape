@@ -2348,6 +2348,26 @@ landscape:
               - repo_url: https://github.com/ironcore-dev/dpservice
               - repo_url: https://github.com/ironcore-dev/metal-operator
           - item:
+            name: KapunSDK
+            homepage_url: https://github.com/KapunSDK/kapun-sdk
+            logo: kapunsdk.svg
+            description: develop an SDK with reusable modules used for digital identity wallets, issuers, and verifiers
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/KapunSDK/kapun-sdk
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-23'
+              dev_stats_url: https://insights.linuxfoundation.org/project/kapunsdk
+              lfx_slug: kapunsdk
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kapunsdk
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXnKj2RjypXr55iFz
+          - item:
             name: Katalis
             homepage_url: https://katalis-project.org/
             logo: katalis.svg
