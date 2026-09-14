@@ -365,6 +365,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudogu
           - item:
+            name: cloudpunks GmbH (member)
+            homepage_url: https://cloudpunks.de/
+            logo: cloudpunks_gmbh.svg
+            description: Cloudpunks provides Public Cloud, Container Orchestration, and Kubernetes solutions with services like Cloud Roadmap, Architecture, and CI/CD Pipelines for seamless digital transformation.
+            crunchbase: https://www.crunchbase.com/organization/cloudpunks
+          - item:
             name: CLYSO GmbH (member)
             homepage_url: https://clyso.com/
             logo: clyso_gmbh.svg
@@ -898,6 +904,11 @@ landscape:
             twitter: https://twitter.com/opennebula
             extra:
               linkedin_url: https://www.linkedin.com/company/opennebula
+          - item:
+            name: Open-Xchange AG (member)
+            homepage_url: https://ox.io/
+            logo: open_xchange_ag.svg
+            description: Ox.io is a tech company providing innovative software solutions for businesses, including custom development and IT consulting.
           - item:
             name: Orange SA (member)
             homepage_url: https://orange.com/
