@@ -2404,6 +2404,28 @@ landscape:
                 project_org: https://github.com/neonephos-katalis
             additional_repos: []
           - item:
+            name: Longfellow
+            homepage_url: https://google.github.io/longfellow-zk/
+            logo: longfellow.svg
+            description: The Longfellow library enables the construction of zero-knowledge protocols concerning legacy identity verification standards such as the ISO MDOC standard, the JWT standard, and W3 Verifiable Credentials.
+            second_path:
+              - Project Group / Post-Quantum Cryptography Alliance
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/longfellow-zk/longfellow-zk
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-20'
+              dev_stats_url: https://insights.linuxfoundation.org/project/longfellow
+              lfx_slug: longfellow
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/longfellow
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfyKahsI6jb2Mxjk9F
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/longfellow/longfellow_Charter.pdf?v=1787249863028
+          - item:
             name: Luigi
             homepage_url: https://luigi-project.io/
             logo: luigi.svg
