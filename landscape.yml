@@ -909,6 +909,7 @@ landscape:
             homepage_url: https://ox.io/
             logo: open_xchange_ag.svg
             description: Ox.io is a tech company providing innovative software solutions for businesses, including custom development and IT consulting.
+            crunchbase: https://www.crunchbase.com/organization/open-xchange
           - item:
             name: Orange SA (member)
             homepage_url: https://orange.com/
@@ -1632,7 +1633,7 @@ landscape:
             name: Interledger Foundation (member)
             homepage_url: https://interledger.org/
             logo: interledger_foundation.svg
-            description: The protocol for connecting blockchains and other ledgers
+            description: The protocol for connecting blockchains and other ledgers.
             twitter: https://twitter.com/Interledger
             extra:
               linkedin_url: https://www.linkedin.com/company/interledger-foundation
