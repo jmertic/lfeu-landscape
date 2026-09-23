@@ -908,7 +908,7 @@ landscape:
             name: Open-Xchange AG (member)
             homepage_url: https://ox.io/
             logo: open_xchange_ag.svg
-            description: Ox.io is a tech company providing innovative software solutions for businesses, including custom development and IT consulting.
+            description: Open-Xchange (OX) is a developer of open source communication and office productivity software, IMAP server software and DNS solutions. Since 2005, it has partnered with many of the world’s largest Internet Service Providers (ISPs), telcos and carriers to deliver email and productivity solutions that include secure storage, file and document management. Dovecot is the world’s most popular IMAP server software and PowerDNS provides secure DNS services to telco customers and their users worldwide. Software developed by Open-Xchange is used by 220 million people globally. It is headquartered in Cologne, Germany, with further offices in Hamburg, Nuremberg and Olpe, and international offices in Finland, Italy, Japan, the Netherlands and the USA.
             crunchbase: https://www.crunchbase.com/organization/open-xchange
           - item:
             name: Orange SA (member)
