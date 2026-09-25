@@ -2754,7 +2754,11 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/platform-mesh/platform-mesh_Charter.pdf?v=1761931750006
               annotations:
                 project_org: https://github.com/platform-mesh
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/platform-mesh/helm-charts
+              - repo_url: https://github.com/platform-mesh/portal
+              - repo_url: https://github.com/platform-mesh/provider-quickstart
+              - repo_url: https://github.com/platform-mesh/platform-mesh.github.io
           - item:
             name: PowSyBL
             homepage_url: https://powsybl.org/
@@ -3084,29 +3088,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfiVup5FAsVbGqmUQH
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vcx/vcx_Charter.pdf?v=1754514481021
-          - item:
-            name: Wallet Framework for .NET
-            homepage_url: https://tac.openwallet.foundation/projects/wallet-framework-dotnet/
-            logo: wallet_framework_for.svg
-            description: The mission of the Project is to develop a multi-platform wallet framework aligned with EUDI wallet standards, especially the European Digital Identity Wallet Architecture and Reference Framework (ARF).
-            second_path:
-              - Project Group / OpenWallet Foundation
-              - Technology Sector / Privacy & Security
-              - Technology Sector / Web & Application Development
-            repo_url: https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-07-30'
-              dev_stats_url: https://insights.linuxfoundation.org/project/wallet-framework-net
-              lfx_slug: wallet-framework-net
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wallet-framework-net
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfb0QURfYl41IBrMJw
-                - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/wallet-framework-net/wallet-framework-net_Charter.pdf?v=1778006246835
           - item:
             name: Wi4MPI
             homepage_url: https://wi4mpi.readthedocs.io/
