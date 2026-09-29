@@ -726,9 +726,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/itq
           - item:
-            name: Kiratech SpA (member)
+            name: Kiratech 2 S.p.A. (member)
             homepage_url: https://kiratech.it/
-            logo: kiratech_spa.svg
+            logo: kiratech_2_s_p_a.svg
             description: 'DevOps, Hybrid Cloud, Security: Your Partner for the Digital Transformation'
             crunchbase: https://www.crunchbase.com/organization/kiratech
             twitter: https://twitter.com/kiratech
