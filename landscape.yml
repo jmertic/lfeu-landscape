@@ -825,6 +825,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/microchip-technology
           - item:
+            name: mogenius (member)
+            homepage_url: https://mogenius.com/
+            logo: mogenius.svg
+            description: mogenius is your all-in-one cloud to host and run any application, with managed Kubernetes, CI/CD, and CDN by Cloudflare
+            crunchbase: https://www.crunchbase.com/organization/mogenius
+            twitter: https://twitter.com/mogenius
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mogenius
+          - item:
             name: MontaVista Software, LLC (member)
             homepage_url: https://mvista.com/
             logo: montavista_software_llc.svg
@@ -1082,6 +1091,10 @@ landscape:
             twitter: https://twitter.com/Scott_Logic
             extra:
               linkedin_url: https://www.linkedin.com/company/scott-logic-limited
+          - item:
+            name: Scrydon (member)
+            homepage_url: https://scrydon.com/
+            logo: scrydon.svg
           - item:
             name: Seacom srl sb (member)
             homepage_url: https://seacom.it/
