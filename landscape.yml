@@ -455,6 +455,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bytedance
           - item:
+            name: Dynamia AI (member)
+            homepage_url: https://dynamia.ai/
+            logo: dynamia_ai.svg
+            description: Dynamia AI offers an enterprise-grade GPU virtualization and resource management platform designed to seamlessly accelerate AI, high-performance computing (HPC), and edge workloads.
+            crunchbase: https://www.crunchbase.com/organization/migua-intelligence
+          - item:
             name: Dynatrace LLC (member)
             homepage_url: https://dynatrace.com/
             logo: dynatrace_llc.svg
