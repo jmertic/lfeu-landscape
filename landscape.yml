@@ -2742,7 +2742,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-02-23'
-              dev_stats_url: https://insights.linuxfoundation.org/project/openwalletfoundation
               lfx_slug: openwalletfoundation
               other_links:
                 - name: Calendar
@@ -2821,7 +2820,6 @@ landscape:
             twitter: https://twitter.com/RISE_RISCV
             extra:
               accepted: '2023-04-07'
-              dev_stats_url: https://insights.linuxfoundation.org/project/open-software-development-initiative-for-risc-v-ecosystem
               lfx_slug: open-software-development-initiative-for-risc-v-ecosystem
               other_links:
                 - name: Calendar
@@ -2933,7 +2931,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-15'
-              dev_stats_url: https://insights.linuxfoundation.org/project/servo-llc
               lfx_slug: servo-llc
               other_links:
                 - name: Calendar
@@ -2954,7 +2951,6 @@ landscape:
             twitter: https://twitter.com/ProjectSylva
             extra:
               accepted: '2023-06-30'
-              dev_stats_url: https://insights.linuxfoundation.org/project/egate
               facebook_url: https://www.facebook.com/61550958317469/
               lfx_slug: egate
               other_links:
