@@ -2986,7 +2986,7 @@ landscape:
             logo: thunderid.svg
             description: develop an open-source, modern Identity and Access Management stack that secures humans, AI agents, and machines across both traditional and decentralized identity ecosystems
             second_path:
-              - Project Group / OpenWallet Foundation
+              - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
             repo_url: https://github.com/thunder-id/thunderid
             license: Apache-2.0
@@ -3001,7 +3001,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrVUl1zCGXkn1dWIq
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/thunderid/thunderid_Charter.pdf?v=1782249778937
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/thunderid/thunderid_Charter.pdf?v=1792538941176
               annotations:
                 project_org: https://github.com/thunder-id
             additional_repos: []
