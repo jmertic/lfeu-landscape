@@ -1900,13 +1900,9 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/owf-aca-py/owf-aca-py_Charter.pdf?v=1778535214838
           - item:
             name: AINETUS
-            homepage_url: https://ainetus.energy/
+            homepage_url: https://lfenergy.org/projects/ainetus/
             logo: ainetus.svg
-            description: |-
-              AI algorithms mainly composed by supervised and reinforcement learning. Unifying the benefits of existing heuristics, physical modelling of these complex systems and learning methods, as well as a set of complementary techniques to enhance transparency, safety, explainability and human acceptance. 
-              Human-in-the-loop decision making for co-learning between AI and humans. Considering integration of model uncertainty, human cognitive load and trust.
-              Autonomous AI systems relying on human supervision.
-              Embedded with human domain knowledge and Safety rules.
+            description: Open source AI decision support stack that recommends remedial actions for grid congestion, explains them, and leaves the decision to the control room operator.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
@@ -1952,9 +1948,9 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/apostille/apostille_Charter.pdf?v=1778005409304
           - item:
             name: AssetLife
-            homepage_url: https://github.com/assetlife-project
+            homepage_url: https://lfenergy.org/projects/assetlife/
             logo: assetlife.svg
-            description: ReLife is an open source Python library that implements survival analysis methods, renewal theory, and socioeconomic evaluation aimed at optimizing network asset renewal policies.
+            description: Open source reliability library that helps grid and other infrastructure operators choose maintenance policies that minimize lifecycle cost and justify renewal investments.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
@@ -2008,7 +2004,7 @@ landscape:
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/chantico-project/chantico
+            repo_url: https://github.com/chantico-project/.github
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2101,13 +2097,13 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/credo/credo_Charter.pdf?v=1778005473241
           - item:
             name: CUPID (Controllable Unit Protocol Interface for DER)
-            homepage_url: https://github.com/cupid-project
+            homepage_url: https://lfenergy.org/projects/cupid/
             logo: cupid_controllable_unit_protocol_interface_for_der.svg
-            description: Open source project that promotes interoperability and standardization for distributed energy system communication, primarily through the implementation of the IEEE 2030.5 standard
+            description: Open source toolkit that carries IEEE 2030.5 messages over a publish/subscribe bus and links Modbus and MQTT devices, so aggregators and grid operators can monitor and control DERs from many vendors.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/cupid-project/Client-Server
+            repo_url: https://github.com/cupid-project/Legacy-Protocol-Converter
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2121,9 +2117,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwN2bdbqmNgG2TtYc
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cupid/cupid_Charter.pdf?v=1747610679443
-              annotations:
-                project_org: https://github.com/cupid-project
-            additional_repos: []
           - item:
             name: DIDComm Mediator Service
             homepage_url: https://github.com/openwallet-foundation/didcomm-mediator-service
@@ -2170,9 +2163,9 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ehr-wallet/ehr-wallet_Charter.pdf?v=1772578975727
           - item:
             name: EnerGNN
-            homepage_url: https://github.com/energnn
+            homepage_url: https://lfenergy.org/projects/energnn/
             logo: energnn.svg
-            description: A Graph Neural Network library for real-life and full-scale energy networks.
+            description: Open source graph neural network library for grid operators to train AI models that give approximate answers to grid studies faster than conventional solvers, on full-scale, changing grids.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
@@ -2779,9 +2772,9 @@ landscape:
               - repo_url: https://github.com/platform-mesh/platform-mesh.github.io
           - item:
             name: PowSyBL
-            homepage_url: https://powsybl.org/
+            homepage_url: https://lfenergy.org/projects/powsybl/
             logo: powsybl.svg
-            description: Open source, modular Java library with Python & Julia bindings designed for comprehensive electrical grid modeling, simulation, and visualization, enabling complex power flow, security, and dynamic analyses.
+            description: Modular, open source framework for grid modeling, analysis, and visualization, used to build and extend planning and operations tools.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
