@@ -2524,28 +2524,6 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/multi-format-vc-for-ios/multi-format-vc-for-ios_Charter.pdf?v=1778005611931
           - item:
-            name: Multipaz
-            homepage_url: https://github.com/openwallet-foundation/multipaz
-            logo: multipaz.svg
-            description: The mission of the Project is to develop libraries and reference applications for working with real-world identity.
-            second_path:
-              - Project Group / OpenWallet Foundation
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/openwallet-foundation/multipaz
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2025-03-07'
-              dev_stats_url: https://insights.linuxfoundation.org/project/mdoc
-              lfx_slug: mdoc
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mdoc
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtdL1QAJ
-                - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/mdoc/mdoc_Charter.pdf?v=1778005715909
-          - item:
             name: NeoNephos Foundation
             homepage_url: https://neonephos.org/
             logo: neonephos_foundation.svg
@@ -2632,7 +2610,7 @@ landscape:
 
               *** Note - please create under LF Europe
             second_path:
-              - Project Group / Linux Foundation Europe
+              - Project Group / NeoNephos Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/open-crypto-broker/crypto-broker-documentation
             license: Apache-2.0
