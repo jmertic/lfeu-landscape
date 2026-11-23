@@ -514,9 +514,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/epam-systems
           - item:
-            name: Equinix Services, Inc. (member)
+            name: Equinix, Inc. (member)
             homepage_url: https://equinix.com/
-            logo: equinix_services_inc_member.svg
+            logo: equinix_inc_member.svg
             description: Established in 1998, Equinix is headquartered in Redwood City, California. They are a data center and colocation provider with services including secure key management, network virtualization, advisory services, and more.
             crunchbase: https://www.crunchbase.com/organization/equinix
             twitter: https://twitter.com/Equinix
