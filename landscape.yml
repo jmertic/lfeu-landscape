@@ -1884,7 +1884,7 @@ landscape:
         items:
           - item:
             name: Adaptive Cloud Agent - Python (ACA-Py)
-            homepage_url: https://github.com/openwallet-foundation/acapy
+            homepage_url: https://www.aca-py.org/
             logo: adaptive_cloud_agent_python_aca_py.svg
             description: Adaptive Cloud Agent - Python (ACA-Py) (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. Adaptive Cloud Agent - Python (ACA-Py) enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
             second_path:
