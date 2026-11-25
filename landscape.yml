@@ -1,7 +1,31 @@
 landscape:
   - category:
     name: Project Group
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: High Performance Software Foundation (HPSF)
+        items: []
+      - subcategory:
+        name: LF Decentralized Trust
+        items: []
+      - subcategory:
+        name: LF Energy (LFE)
+        items: []
+      - subcategory:
+        name: Linux Foundation Europe
+        items: []
+      - subcategory:
+        name: NeoNephos Foundation
+        items: []
+      - subcategory:
+        name: OpenWallet Foundation
+        items: []
+      - subcategory:
+        name: Post-Quantum Cryptography Alliance
+        items: []
+      - subcategory:
+        name: Sylva Fund
+        items: []
   - category:
     name: Linux Foundation Europe Members
     subcategories:
@@ -3152,3 +3176,48 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfOJA0Q4dl5ryMUr2T
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/wi4mpi/wi4mpi_Charter.pdf?v=1774636078323
+  - category:
+    name: Technology Sector
+    subcategories:
+      - subcategory:
+        name: AI, ML, Data & Analytics
+        items: []
+      - subcategory:
+        name: Blockchain
+        items: []
+      - subcategory:
+        name: Cloud, Containers & Virtualization
+        items: []
+      - subcategory:
+        name: Cross-Technology
+        items: []
+      - subcategory:
+        name: IoT & Embedded
+        items: []
+      - subcategory:
+        name: Linux Kernel
+        items: []
+      - subcategory:
+        name: Networking & Edge
+        items: []
+      - subcategory:
+        name: Open Source & Compliance Best Practices
+        items: []
+      - subcategory:
+        name: Privacy & Security
+        items: []
+      - subcategory:
+        name: Safety-Critical Systems
+        items: []
+      - subcategory:
+        name: Storage
+        items: []
+      - subcategory:
+        name: Web & Application Development
+        items: []
+  - category:
+    name: Industry
+    subcategories:
+      - subcategory:
+        name: Cross-Industry
+        items: []
